@@ -15,7 +15,8 @@ def flutterVersionName = localProperties.getProperty("flutter.versionName") ?: "
 
 android {
     namespace = "com.wordwake.word_alarm_app"
-    compileSdk = flutter.compileSdkVersion
+    // audioplayers_android / androidx.core 1.15+ 요구 사항에 맞춰 35로 고정
+    compileSdk = 35
     ndkVersion = flutter.ndkVersion
 
     compileOptions {

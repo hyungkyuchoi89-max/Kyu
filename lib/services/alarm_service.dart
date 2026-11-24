@@ -1,5 +1,3 @@
-import 'dart:typed_data';
-
 import 'package:flutter/foundation.dart';
 import 'package:flutter_local_notifications/flutter_local_notifications.dart';
 import 'package:flutter_timezone/flutter_timezone.dart';
@@ -190,6 +188,8 @@ class AlarmService {
       _nextInstanceOfWeekday(alarm.weekday, alarm.hour, alarm.minute),
       _notificationDetails(),
       androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+      uiLocalNotificationDateInterpretation:
+          UILocalNotificationDateInterpretation.absoluteTime,
       matchDateTimeComponents: DateTimeComponents.dayOfWeekAndTime,
       payload: payloadAlarm,
     );
@@ -210,6 +210,8 @@ class AlarmService {
         now.add(iosChainInterval * (index + 1)),
         _notificationDetails(),
         androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+        uiLocalNotificationDateInterpretation:
+            UILocalNotificationDateInterpretation.absoluteTime,
         payload: payloadAlarm,
       );
     }
@@ -238,6 +240,8 @@ class AlarmService {
       tz.TZDateTime.now(tz.local).add(const Duration(seconds: 5)),
       _notificationDetails(),
       androidScheduleMode: AndroidScheduleMode.exactAllowWhileIdle,
+      uiLocalNotificationDateInterpretation:
+          UILocalNotificationDateInterpretation.absoluteTime,
       payload: payloadAlarm,
     );
   }

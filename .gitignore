@@ -1,7 +1,6 @@
 # Flutter / Dart
 .dart_tool/
 .packages
-pubspec.lock
 build/
 .flutter-plugins
 .flutter-plugins-dependencies
@@ -13,6 +12,7 @@ build/
 *.iml
 
 # Android
+android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java
 android/.gradle/
 android/local.properties
 android/key.properties
@@ -20,6 +20,8 @@ android/key.properties
 *.keystore
 
 # iOS
+ios/Flutter/flutter_export_environment.sh
+ios/Runner/GeneratedPluginRegistrant.*
 ios/Pods/
 ios/.symlinks/
 ios/Flutter/Flutter.framework
