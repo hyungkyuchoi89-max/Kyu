@@ -1,0 +1,602 @@
+[
+ {
+  "word": "abandon",
+  "phonetic": "/əˈbæn.dən/",
+  "meaning": "버리다, 포기하다",
+  "example": "They had to abandon the car in the snow."
+ },
+ {
+  "word": "abstract",
+  "phonetic": "/ˈæb.strækt/",
+  "meaning": "추상적인",
+  "example": "Abstract art can be hard to understand."
+ },
+ {
+  "word": "absurd",
+  "phonetic": "/əbˈsɜːrd/",
+  "meaning": "불합리한, 터무니없는",
+  "example": "The idea sounded absurd at first."
+ },
+ {
+  "word": "abundant",
+  "phonetic": "/əˈbʌn.dənt/",
+  "meaning": "풍부한",
+  "example": "The region has abundant water."
+ },
+ {
+  "word": "accelerate",
+  "phonetic": "/əkˈsel.ə.reɪt/",
+  "meaning": "가속하다",
+  "example": "The car accelerated on the highway."
+ },
+ {
+  "word": "accommodate",
+  "phonetic": "/əˈkɑː.mə.deɪt/",
+  "meaning": "수용하다, 맞추다",
+  "example": "The hall can accommodate 500 people."
+ },
+ {
+  "word": "accumulate",
+  "phonetic": "/əˈkjuː.mjə.leɪt/",
+  "meaning": "축적하다",
+  "example": "Dust accumulates on the shelves."
+ },
+ {
+  "word": "accurate",
+  "phonetic": "/ˈæk.jər.ət/",
+  "meaning": "정확한",
+  "example": "The map is not very accurate."
+ },
+ {
+  "word": "acknowledge",
+  "phonetic": "/əkˈnɑː.lɪdʒ/",
+  "meaning": "인정하다",
+  "example": "He acknowledged his mistake."
+ },
+ {
+  "word": "acquire",
+  "phonetic": "/əˈkwaɪər/",
+  "meaning": "얻다, 습득하다",
+  "example": "Children acquire language quickly."
+ },
+ {
+  "word": "adapt",
+  "phonetic": "/əˈdæpt/",
+  "meaning": "적응하다, 각색하다",
+  "example": "Animals adapt to their environment."
+ },
+ {
+  "word": "adequate",
+  "phonetic": "/ˈæd.ə.kwət/",
+  "meaning": "충분한, 적절한",
+  "example": "We need adequate time to prepare."
+ },
+ {
+  "word": "adjust",
+  "phonetic": "/əˈdʒʌst/",
+  "meaning": "조정하다",
+  "example": "Please adjust the seat height."
+ },
+ {
+  "word": "admire",
+  "phonetic": "/ədˈmaɪər/",
+  "meaning": "존경하다, 감탄하다",
+  "example": "I admire her courage."
+ },
+ {
+  "word": "adopt",
+  "phonetic": "/əˈdɑːpt/",
+  "meaning": "채택하다, 입양하다",
+  "example": "The company adopted a new policy."
+ },
+ {
+  "word": "advocate",
+  "phonetic": "/ˈæd.və.keɪt/",
+  "meaning": "옹호하다, 지지자",
+  "example": "She advocates for clean energy."
+ },
+ {
+  "word": "aesthetic",
+  "phonetic": "/esˈθet.ɪk/",
+  "meaning": "미적인, 심미적인",
+  "example": "The building has great aesthetic value."
+ },
+ {
+  "word": "affect",
+  "phonetic": "/əˈfekt/",
+  "meaning": "영향을 미치다",
+  "example": "Noise can affect your sleep."
+ },
+ {
+  "word": "aggressive",
+  "phonetic": "/əˈɡres.ɪv/",
+  "meaning": "공격적인, 적극적인",
+  "example": "The dog became aggressive."
+ },
+ {
+  "word": "alternative",
+  "phonetic": "/ɔːlˈtɜːr.nə.tɪv/",
+  "meaning": "대안, 대체의",
+  "example": "We need an alternative plan."
+ },
+ {
+  "word": "ambiguous",
+  "phonetic": "/æmˈbɪɡ.ju.əs/",
+  "meaning": "모호한",
+  "example": "His answer was ambiguous."
+ },
+ {
+  "word": "analyze",
+  "phonetic": "/ˈæn.əl.aɪz/",
+  "meaning": "분석하다",
+  "example": "Scientists analyze the data."
+ },
+ {
+  "word": "anticipate",
+  "phonetic": "/ænˈtɪs.ə.peɪt/",
+  "meaning": "예상하다",
+  "example": "We anticipate a busy week."
+ },
+ {
+  "word": "apparent",
+  "phonetic": "/əˈper.ənt/",
+  "meaning": "분명한, 겉보기의",
+  "example": "It was apparent that he was tired."
+ },
+ {
+  "word": "appeal",
+  "phonetic": "/əˈpiːl/",
+  "meaning": "호소하다, 매력",
+  "example": "The design appeals to young people."
+ },
+ {
+  "word": "appreciate",
+  "phonetic": "/əˈpriː.ʃi.eɪt/",
+  "meaning": "감사하다, 진가를 알다",
+  "example": "I appreciate your help."
+ },
+ {
+  "word": "approach",
+  "phonetic": "/əˈproʊtʃ/",
+  "meaning": "접근하다, 방법",
+  "example": "We need a new approach."
+ },
+ {
+  "word": "appropriate",
+  "phonetic": "/əˈproʊ.pri.ət/",
+  "meaning": "적절한",
+  "example": "Wear appropriate clothes for the weather."
+ },
+ {
+  "word": "approximate",
+  "phonetic": "/əˈprɑːk.sə.mət/",
+  "meaning": "대략적인",
+  "example": "The approximate cost is fifty dollars."
+ },
+ {
+  "word": "arbitrary",
+  "phonetic": "/ˈɑːr.bə.trer.i/",
+  "meaning": "자의적인, 임의의",
+  "example": "The rule seems arbitrary."
+ },
+ {
+  "word": "assess",
+  "phonetic": "/əˈses/",
+  "meaning": "평가하다",
+  "example": "Teachers assess student progress."
+ },
+ {
+  "word": "assign",
+  "phonetic": "/əˈsaɪn/",
+  "meaning": "배정하다, 할당하다",
+  "example": "The teacher assigned us a project."
+ },
+ {
+  "word": "assume",
+  "phonetic": "/əˈsuːm/",
+  "meaning": "가정하다, 떠맡다",
+  "example": "I assume you have read the book."
+ },
+ {
+  "word": "attach",
+  "phonetic": "/əˈtætʃ/",
+  "meaning": "붙이다, 첨부하다",
+  "example": "Please attach the file to your email."
+ },
+ {
+  "word": "attribute",
+  "phonetic": "/əˈtrɪb.juːt/",
+  "meaning": "~의 탓으로 돌리다, 속성",
+  "example": "She attributes her success to practice."
+ },
+ {
+  "word": "authentic",
+  "phonetic": "/ɔːˈθen.tɪk/",
+  "meaning": "진짜의, 진본의",
+  "example": "This is an authentic old painting."
+ },
+ {
+  "word": "authority",
+  "phonetic": "/əˈθɔːr.ə.ti/",
+  "meaning": "권위, 당국",
+  "example": "The authorities closed the road."
+ },
+ {
+  "word": "available",
+  "phonetic": "/əˈveɪ.lə.bəl/",
+  "meaning": "이용 가능한",
+  "example": "Tickets are still available."
+ },
+ {
+  "word": "aware",
+  "phonetic": "/əˈwer/",
+  "meaning": "알고 있는",
+  "example": "I was not aware of the change."
+ },
+ {
+  "word": "bias",
+  "phonetic": "/ˈbaɪ.əs/",
+  "meaning": "편견, 편향",
+  "example": "The report shows a clear bias."
+ },
+ {
+  "word": "capable",
+  "phonetic": "/ˈkeɪ.pə.bəl/",
+  "meaning": "~할 수 있는, 유능한",
+  "example": "She is capable of leading the team."
+ },
+ {
+  "word": "capacity",
+  "phonetic": "/kəˈpæs.ə.ti/",
+  "meaning": "수용력, 능력",
+  "example": "The stadium has a capacity of 40,000."
+ },
+ {
+  "word": "cease",
+  "phonetic": "/siːs/",
+  "meaning": "멈추다, 중단하다",
+  "example": "The rain finally ceased."
+ },
+ {
+  "word": "challenge",
+  "phonetic": "/ˈtʃæl.ɪndʒ/",
+  "meaning": "도전, 이의를 제기하다",
+  "example": "Learning a language is a challenge."
+ },
+ {
+  "word": "circumstance",
+  "phonetic": "/ˈsɜːr.kəm.stæns/",
+  "meaning": "상황, 환경",
+  "example": "Under these circumstances, we must wait."
+ },
+ {
+  "word": "cite",
+  "phonetic": "/saɪt/",
+  "meaning": "인용하다",
+  "example": "The author cites several studies."
+ },
+ {
+  "word": "claim",
+  "phonetic": "/kleɪm/",
+  "meaning": "주장하다, 청구",
+  "example": "He claims to know the answer."
+ },
+ {
+  "word": "coherent",
+  "phonetic": "/koʊˈhɪr.ənt/",
+  "meaning": "일관성 있는",
+  "example": "Her essay was clear and coherent."
+ },
+ {
+  "word": "collapse",
+  "phonetic": "/kəˈlæps/",
+  "meaning": "붕괴하다",
+  "example": "The old bridge collapsed."
+ },
+ {
+  "word": "commit",
+  "phonetic": "/kəˈmɪt/",
+  "meaning": "전념하다, 저지르다",
+  "example": "She committed herself to the project."
+ },
+ {
+  "word": "compensate",
+  "phonetic": "/ˈkɑːm.pən.seɪt/",
+  "meaning": "보상하다",
+  "example": "The company compensated the workers."
+ },
+ {
+  "word": "competent",
+  "phonetic": "/ˈkɑːm.pə.tənt/",
+  "meaning": "유능한",
+  "example": "He is a competent engineer."
+ },
+ {
+  "word": "complex",
+  "phonetic": "/kəmˈpleks/",
+  "meaning": "복잡한",
+  "example": "This is a complex problem."
+ },
+ {
+  "word": "comprehensive",
+  "phonetic": "/ˌkɑːm.prɪˈhen.sɪv/",
+  "meaning": "포괄적인",
+  "example": "The report is comprehensive."
+ },
+ {
+  "word": "compromise",
+  "phonetic": "/ˈkɑːm.prə.maɪz/",
+  "meaning": "타협, 타협하다",
+  "example": "They reached a compromise."
+ },
+ {
+  "word": "conclude",
+  "phonetic": "/kənˈkluːd/",
+  "meaning": "결론을 내리다",
+  "example": "The study concluded that sleep matters."
+ },
+ {
+  "word": "concrete",
+  "phonetic": "/ˈkɑːn.kriːt/",
+  "meaning": "구체적인, 콘크리트",
+  "example": "We need concrete examples."
+ },
+ {
+  "word": "conduct",
+  "phonetic": "/kənˈdʌkt/",
+  "meaning": "수행하다, 행동",
+  "example": "They conducted a survey."
+ },
+ {
+  "word": "confine",
+  "phonetic": "/kənˈfaɪn/",
+  "meaning": "제한하다, 가두다",
+  "example": "Please confine your answer to one page."
+ },
+ {
+  "word": "conflict",
+  "phonetic": "/ˈkɑːn.flɪkt/",
+  "meaning": "갈등, 충돌",
+  "example": "The two ideas are in conflict."
+ },
+ {
+  "word": "conscious",
+  "phonetic": "/ˈkɑːn.ʃəs/",
+  "meaning": "의식하는, 의식이 있는",
+  "example": "She was conscious of the risk."
+ },
+ {
+  "word": "consequence",
+  "phonetic": "/ˈkɑːn.sə.kwens/",
+  "meaning": "결과, 영향",
+  "example": "Every choice has a consequence."
+ },
+ {
+  "word": "considerable",
+  "phonetic": "/kənˈsɪd.ər.ə.bəl/",
+  "meaning": "상당한",
+  "example": "The project needs considerable time."
+ },
+ {
+  "word": "consistent",
+  "phonetic": "/kənˈsɪs.tənt/",
+  "meaning": "일관된",
+  "example": "His results are consistent."
+ },
+ {
+  "word": "constant",
+  "phonetic": "/ˈkɑːn.stənt/",
+  "meaning": "끊임없는, 일정한",
+  "example": "The constant noise annoyed me."
+ },
+ {
+  "word": "constitute",
+  "phonetic": "/ˈkɑːn.stə.tuːt/",
+  "meaning": "구성하다",
+  "example": "Women constitute half of the group."
+ },
+ {
+  "word": "consume",
+  "phonetic": "/kənˈsuːm/",
+  "meaning": "소비하다",
+  "example": "This machine consumes a lot of power."
+ },
+ {
+  "word": "contemporary",
+  "phonetic": "/kənˈtem.pə.rer.i/",
+  "meaning": "동시대의, 현대의",
+  "example": "The museum shows contemporary art."
+ },
+ {
+  "word": "contradict",
+  "phonetic": "/ˌkɑːn.trəˈdɪkt/",
+  "meaning": "반박하다, 모순되다",
+  "example": "The two reports contradict each other."
+ },
+ {
+  "word": "contribute",
+  "phonetic": "/kənˈtrɪb.juːt/",
+  "meaning": "기여하다",
+  "example": "Everyone contributed to the success."
+ },
+ {
+  "word": "controversial",
+  "phonetic": "/ˌkɑːn.trəˈvɜːr.ʃəl/",
+  "meaning": "논란이 많은",
+  "example": "It is a controversial topic."
+ },
+ {
+  "word": "conventional",
+  "phonetic": "/kənˈven.ʃən.əl/",
+  "meaning": "전통적인, 관습적인",
+  "example": "They used conventional methods."
+ },
+ {
+  "word": "convey",
+  "phonetic": "/kənˈveɪ/",
+  "meaning": "전달하다",
+  "example": "Words cannot convey my feelings."
+ },
+ {
+  "word": "convince",
+  "phonetic": "/kənˈvɪns/",
+  "meaning": "설득하다",
+  "example": "She convinced me to join."
+ },
+ {
+  "word": "cooperate",
+  "phonetic": "/koʊˈɑː.pə.reɪt/",
+  "meaning": "협력하다",
+  "example": "The two teams cooperated well."
+ },
+ {
+  "word": "crucial",
+  "phonetic": "/ˈkruː.ʃəl/",
+  "meaning": "결정적인, 중대한",
+  "example": "Sleep is crucial for health."
+ },
+ {
+  "word": "cultivate",
+  "phonetic": "/ˈkʌl.tə.veɪt/",
+  "meaning": "기르다, 경작하다",
+  "example": "Reading cultivates imagination."
+ },
+ {
+  "word": "decline",
+  "phonetic": "/dɪˈklaɪn/",
+  "meaning": "감소하다, 거절하다",
+  "example": "Sales declined last year."
+ },
+ {
+  "word": "dedicate",
+  "phonetic": "/ˈded.ɪ.keɪt/",
+  "meaning": "바치다, 헌신하다",
+  "example": "He dedicated his life to research."
+ },
+ {
+  "word": "define",
+  "phonetic": "/dɪˈfaɪn/",
+  "meaning": "정의하다",
+  "example": "Define the word in your own words."
+ },
+ {
+  "word": "deliberate",
+  "phonetic": "/dɪˈlɪb.ər.ət/",
+  "meaning": "의도적인",
+  "example": "It was a deliberate choice."
+ },
+ {
+  "word": "demonstrate",
+  "phonetic": "/ˈdem.ən.streɪt/",
+  "meaning": "입증하다, 시연하다",
+  "example": "The test demonstrates the problem."
+ },
+ {
+  "word": "deny",
+  "phonetic": "/dɪˈnaɪ/",
+  "meaning": "부인하다",
+  "example": "He denied the rumor."
+ },
+ {
+  "word": "derive",
+  "phonetic": "/dɪˈraɪv/",
+  "meaning": "유래하다, 얻다",
+  "example": "The word derives from Latin."
+ },
+ {
+  "word": "detect",
+  "phonetic": "/dɪˈtekt/",
+  "meaning": "탐지하다",
+  "example": "The device detects smoke."
+ },
+ {
+  "word": "deteriorate",
+  "phonetic": "/dɪˈtɪr.i.ə.reɪt/",
+  "meaning": "악화되다",
+  "example": "His health deteriorated quickly."
+ },
+ {
+  "word": "diminish",
+  "phonetic": "/dɪˈmɪn.ɪʃ/",
+  "meaning": "줄어들다, 약화되다",
+  "example": "The pain gradually diminished."
+ },
+ {
+  "word": "discourage",
+  "phonetic": "/dɪˈskɜːr.ɪdʒ/",
+  "meaning": "낙담시키다, 단념시키다",
+  "example": "Do not let failure discourage you."
+ },
+ {
+  "word": "dismiss",
+  "phonetic": "/dɪsˈmɪs/",
+  "meaning": "묵살하다, 해고하다",
+  "example": "The manager dismissed the idea."
+ },
+ {
+  "word": "distinct",
+  "phonetic": "/dɪˈstɪŋkt/",
+  "meaning": "뚜렷한, 별개의",
+  "example": "There are two distinct groups."
+ },
+ {
+  "word": "diverse",
+  "phonetic": "/dɪˈvɜːrs/",
+  "meaning": "다양한",
+  "example": "The city has a diverse population."
+ },
+ {
+  "word": "domestic",
+  "phonetic": "/dəˈmes.tɪk/",
+  "meaning": "국내의, 가정의",
+  "example": "Domestic flights are cheaper."
+ },
+ {
+  "word": "dominate",
+  "phonetic": "/ˈdɑː.mə.neɪt/",
+  "meaning": "지배하다",
+  "example": "One team dominated the game."
+ },
+ {
+  "word": "dramatic",
+  "phonetic": "/drəˈmæt.ɪk/",
+  "meaning": "극적인, 급격한",
+  "example": "There was a dramatic change."
+ },
+ {
+  "word": "durable",
+  "phonetic": "/ˈdʊr.ə.bəl/",
+  "meaning": "내구성 있는",
+  "example": "This bag is light and durable."
+ },
+ {
+  "word": "dynamic",
+  "phonetic": "/daɪˈnæm.ɪk/",
+  "meaning": "역동적인",
+  "example": "The market is dynamic."
+ },
+ {
+  "word": "eager",
+  "phonetic": "/ˈiː.ɡər/",
+  "meaning": "열망하는",
+  "example": "She is eager to learn."
+ },
+ {
+  "word": "elaborate",
+  "phonetic": "/ɪˈlæb.ər.ət/",
+  "meaning": "정교한, 상세히 설명하다",
+  "example": "The plan is too elaborate."
+ },
+ {
+  "word": "eliminate",
+  "phonetic": "/ɪˈlɪm.ə.neɪt/",
+  "meaning": "제거하다",
+  "example": "We must eliminate the error."
+ },
+ {
+  "word": "emerge",
+  "phonetic": "/ɪˈmɜːrdʒ/",
+  "meaning": "나타나다, 떠오르다",
+  "example": "New problems emerge every day."
+ }
+]

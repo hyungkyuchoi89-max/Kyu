@@ -1,0 +1,602 @@
+[
+ {
+  "word": "adjacent",
+  "phonetic": "/əˈdʒeɪ.sənt/",
+  "meaning": "인접한",
+  "example": "The lab is adjacent to the library."
+ },
+ {
+  "word": "aggregate",
+  "phonetic": "/ˈæɡ.rɪ.ɡət/",
+  "meaning": "총계의, 집합체",
+  "example": "The aggregate score was higher this year."
+ },
+ {
+  "word": "alter",
+  "phonetic": "/ˈɔːl.tər/",
+  "meaning": "바꾸다",
+  "example": "Climate change alters rainfall patterns."
+ },
+ {
+  "word": "analogous",
+  "phonetic": "/əˈnæl.ə.ɡəs/",
+  "meaning": "유사한",
+  "example": "The two systems are analogous."
+ },
+ {
+  "word": "anomaly",
+  "phonetic": "/əˈnɑː.mə.li/",
+  "meaning": "예외, 변칙",
+  "example": "The data showed a strange anomaly."
+ },
+ {
+  "word": "annual",
+  "phonetic": "/ˈæn.ju.əl/",
+  "meaning": "연례의, 매년의",
+  "example": "The annual report is due in March."
+ },
+ {
+  "word": "architecture",
+  "phonetic": "/ˈɑːr.kə.tek.tʃər/",
+  "meaning": "건축, 구조",
+  "example": "The study focuses on ancient architecture."
+ },
+ {
+  "word": "arid",
+  "phonetic": "/ˈær.ɪd/",
+  "meaning": "건조한",
+  "example": "Few plants grow in arid regions."
+ },
+ {
+  "word": "artifact",
+  "phonetic": "/ˈɑːr.tə.fækt/",
+  "meaning": "유물, 인공물",
+  "example": "The museum displays stone artifacts."
+ },
+ {
+  "word": "aspect",
+  "phonetic": "/ˈæs.pekt/",
+  "meaning": "측면, 양상",
+  "example": "We studied every aspect of the problem."
+ },
+ {
+  "word": "assemble",
+  "phonetic": "/əˈsem.bəl/",
+  "meaning": "모으다, 조립하다",
+  "example": "The team assembled a large dataset."
+ },
+ {
+  "word": "assert",
+  "phonetic": "/əˈsɜːrt/",
+  "meaning": "주장하다",
+  "example": "The author asserts that the theory is wrong."
+ },
+ {
+  "word": "assumption",
+  "phonetic": "/əˈsʌmp.ʃən/",
+  "meaning": "가정, 추정",
+  "example": "The model rests on a simple assumption."
+ },
+ {
+  "word": "atmosphere",
+  "phonetic": "/ˈæt.mə.sfɪr/",
+  "meaning": "대기, 분위기",
+  "example": "Gases in the atmosphere trap heat."
+ },
+ {
+  "word": "attain",
+  "phonetic": "/əˈteɪn/",
+  "meaning": "달성하다, 얻다",
+  "example": "The plant attains full height in summer."
+ },
+ {
+  "word": "autonomous",
+  "phonetic": "/ɔːˈtɑː.nə.məs/",
+  "meaning": "자율적인",
+  "example": "Autonomous vehicles are being tested."
+ },
+ {
+  "word": "bilingual",
+  "phonetic": "/baɪˈlɪŋ.ɡwəl/",
+  "meaning": "이중 언어의",
+  "example": "Bilingual children switch languages easily."
+ },
+ {
+  "word": "biological",
+  "phonetic": "/ˌbaɪ.əˈlɑː.dʒɪ.kəl/",
+  "meaning": "생물학적인",
+  "example": "The lab studies biological processes."
+ },
+ {
+  "word": "boundary",
+  "phonetic": "/ˈbaʊn.dər.i/",
+  "meaning": "경계",
+  "example": "The river forms a natural boundary."
+ },
+ {
+  "word": "catalyst",
+  "phonetic": "/ˈkæt.əl.ɪst/",
+  "meaning": "촉매, 촉진제",
+  "example": "Enzymes act as a catalyst in digestion."
+ },
+ {
+  "word": "cognitive",
+  "phonetic": "/ˈkɑːɡ.nə.tɪv/",
+  "meaning": "인지의",
+  "example": "Sleep affects cognitive performance."
+ },
+ {
+  "word": "coincide",
+  "phonetic": "/ˌkoʊ.ɪnˈsaɪd/",
+  "meaning": "동시에 일어나다, 일치하다",
+  "example": "The two events coincided."
+ },
+ {
+  "word": "collaborate",
+  "phonetic": "/kəˈlæb.ə.reɪt/",
+  "meaning": "협력하다",
+  "example": "The universities collaborated on the study."
+ },
+ {
+  "word": "commodity",
+  "phonetic": "/kəˈmɑː.də.ti/",
+  "meaning": "상품, 원자재",
+  "example": "Water is a precious commodity in dry areas."
+ },
+ {
+  "word": "compile",
+  "phonetic": "/kəmˈpaɪl/",
+  "meaning": "편집하다, 모으다",
+  "example": "Researchers compiled data from 20 cities."
+ },
+ {
+  "word": "component",
+  "phonetic": "/kəmˈpoʊ.nənt/",
+  "meaning": "구성 요소",
+  "example": "Each component of the cell has a role."
+ },
+ {
+  "word": "compound",
+  "phonetic": "/ˈkɑːm.paʊnd/",
+  "meaning": "화합물, 복합의",
+  "example": "Salt is a simple chemical compound."
+ },
+ {
+  "word": "comprise",
+  "phonetic": "/kəmˈpraɪz/",
+  "meaning": "구성하다, 포함하다",
+  "example": "The course comprises six units."
+ },
+ {
+  "word": "conceive",
+  "phonetic": "/kənˈsiːv/",
+  "meaning": "상상하다, 착상하다",
+  "example": "It is hard to conceive of life without water."
+ },
+ {
+  "word": "concurrent",
+  "phonetic": "/kənˈkɜːr.ənt/",
+  "meaning": "동시에 일어나는",
+  "example": "The study found concurrent changes in temperature."
+ },
+ {
+  "word": "consensus",
+  "phonetic": "/kənˈsen.səs/",
+  "meaning": "합의, 의견 일치",
+  "example": "There is no consensus among experts."
+ },
+ {
+  "word": "conserve",
+  "phonetic": "/kənˈsɜːrv/",
+  "meaning": "보존하다, 아끼다",
+  "example": "We must conserve energy at home."
+ },
+ {
+  "word": "constrain",
+  "phonetic": "/kənˈstreɪn/",
+  "meaning": "제한하다",
+  "example": "Limited space constrains the design."
+ },
+ {
+  "word": "construct",
+  "phonetic": "/kənˈstrʌkt/",
+  "meaning": "건설하다, 구성하다",
+  "example": "They constructed a model of the atom."
+ },
+ {
+  "word": "contaminate",
+  "phonetic": "/kənˈtæm.ə.neɪt/",
+  "meaning": "오염시키다",
+  "example": "The river was contaminated by waste."
+ },
+ {
+  "word": "context",
+  "phonetic": "/ˈkɑːn.tekst/",
+  "meaning": "문맥, 상황",
+  "example": "The meaning depends on the context."
+ },
+ {
+  "word": "convert",
+  "phonetic": "/kənˈvɜːrt/",
+  "meaning": "전환하다",
+  "example": "Plants convert sunlight into energy."
+ },
+ {
+  "word": "core",
+  "phonetic": "/kɔːr/",
+  "meaning": "핵심, 중심부",
+  "example": "The core of the argument is simple."
+ },
+ {
+  "word": "correlate",
+  "phonetic": "/ˈkɔːr.ə.leɪt/",
+  "meaning": "상관관계가 있다",
+  "example": "Height correlates with shoe size."
+ },
+ {
+  "word": "decade",
+  "phonetic": "/ˈdek.eɪd/",
+  "meaning": "10년",
+  "example": "Rainfall has decreased over the past decade."
+ },
+ {
+  "word": "decay",
+  "phonetic": "/dɪˈkeɪ/",
+  "meaning": "부식되다, 쇠퇴하다",
+  "example": "The leaves decay slowly in cold water."
+ },
+ {
+  "word": "deduce",
+  "phonetic": "/dɪˈduːs/",
+  "meaning": "추론하다",
+  "example": "We can deduce the age from the layers."
+ },
+ {
+  "word": "deficiency",
+  "phonetic": "/dɪˈfɪʃ.ən.si/",
+  "meaning": "결핍",
+  "example": "Iron deficiency causes tiredness."
+ },
+ {
+  "word": "definite",
+  "phonetic": "/ˈdef.ə.nət/",
+  "meaning": "확실한, 명확한",
+  "example": "There is a definite link between the two."
+ },
+ {
+  "word": "demographic",
+  "phonetic": "/ˌdem.əˈɡræf.ɪk/",
+  "meaning": "인구 통계의",
+  "example": "The demographic change affects housing."
+ },
+ {
+  "word": "deviate",
+  "phonetic": "/ˈdiː.vi.eɪt/",
+  "meaning": "벗어나다",
+  "example": "The results deviate from the prediction."
+ },
+ {
+  "word": "differentiate",
+  "phonetic": "/ˌdɪf.əˈren.ʃi.eɪt/",
+  "meaning": "구별하다",
+  "example": "It is hard to differentiate the two species."
+ },
+ {
+  "word": "dimension",
+  "phonetic": "/daɪˈmen.ʃən/",
+  "meaning": "차원, 치수",
+  "example": "The problem has a social dimension."
+ },
+ {
+  "word": "discrete",
+  "phonetic": "/dɪˈskriːt/",
+  "meaning": "별개의, 이산적인",
+  "example": "The data are grouped into discrete units."
+ },
+ {
+  "word": "displace",
+  "phonetic": "/dɪˈspleɪs/",
+  "meaning": "이동시키다, 대체하다",
+  "example": "Rising seas may displace many families."
+ },
+ {
+  "word": "dispose",
+  "phonetic": "/dɪˈspoʊz/",
+  "meaning": "처리하다, 없애다",
+  "example": "Please dispose of waste properly."
+ },
+ {
+  "word": "disrupt",
+  "phonetic": "/dɪsˈrʌpt/",
+  "meaning": "방해하다, 중단시키다",
+  "example": "The storm disrupted the power supply."
+ },
+ {
+  "word": "dissolve",
+  "phonetic": "/dɪˈzɑːlv/",
+  "meaning": "녹다, 용해되다",
+  "example": "Sugar dissolves quickly in warm water."
+ },
+ {
+  "word": "diverge",
+  "phonetic": "/daɪˈvɜːrdʒ/",
+  "meaning": "갈라지다, 다르다",
+  "example": "The two paths diverge at the river."
+ },
+ {
+  "word": "domain",
+  "phonetic": "/doʊˈmeɪn/",
+  "meaning": "영역, 분야",
+  "example": "This question belongs to another domain."
+ },
+ {
+  "word": "dwelling",
+  "phonetic": "/ˈdwel.ɪŋ/",
+  "meaning": "거주지, 주택",
+  "example": "Early dwellings were built of mud."
+ },
+ {
+  "word": "ecosystem",
+  "phonetic": "/ˈiː.koʊ.sɪs.təm/",
+  "meaning": "생태계",
+  "example": "The forest is a complex ecosystem."
+ },
+ {
+  "word": "element",
+  "phonetic": "/ˈel.ə.mənt/",
+  "meaning": "요소, 원소",
+  "example": "Carbon is a common element."
+ },
+ {
+  "word": "emit",
+  "phonetic": "/iˈmɪt/",
+  "meaning": "방출하다",
+  "example": "The lamp emits a soft light."
+ },
+ {
+  "word": "empirical",
+  "phonetic": "/ɪmˈpɪr.ɪ.kəl/",
+  "meaning": "실증적인, 경험적인",
+  "example": "The claim lacks empirical support."
+ },
+ {
+  "word": "endure",
+  "phonetic": "/ɪnˈdʊr/",
+  "meaning": "견디다, 지속되다",
+  "example": "These plants endure long dry seasons."
+ },
+ {
+  "word": "enhance",
+  "phonetic": "/ɪnˈhæns/",
+  "meaning": "향상시키다",
+  "example": "Exercise enhances memory."
+ },
+ {
+  "word": "enormous",
+  "phonetic": "/ɪˈnɔːr.məs/",
+  "meaning": "거대한",
+  "example": "The project required an enormous effort."
+ },
+ {
+  "word": "entity",
+  "phonetic": "/ˈen.tə.ti/",
+  "meaning": "실체, 독립체",
+  "example": "Each company is a separate legal entity."
+ },
+ {
+  "word": "equilibrium",
+  "phonetic": "/ˌiː.kwɪˈlɪb.ri.əm/",
+  "meaning": "평형, 균형",
+  "example": "The system returns to equilibrium."
+ },
+ {
+  "word": "erode",
+  "phonetic": "/ɪˈroʊd/",
+  "meaning": "침식하다",
+  "example": "Waves slowly erode the cliffs."
+ },
+ {
+  "word": "establish",
+  "phonetic": "/ɪˈstæb.lɪʃ/",
+  "meaning": "확립하다, 설립하다",
+  "example": "The study establishes a clear pattern."
+ },
+ {
+  "word": "evolve",
+  "phonetic": "/ɪˈvɑːlv/",
+  "meaning": "진화하다",
+  "example": "Species evolve over millions of years."
+ },
+ {
+  "word": "exaggerate",
+  "phonetic": "/ɪɡˈzædʒ.ə.reɪt/",
+  "meaning": "과장하다",
+  "example": "The report exaggerates the risk."
+ },
+ {
+  "word": "excavate",
+  "phonetic": "/ˈek.skə.veɪt/",
+  "meaning": "발굴하다",
+  "example": "They excavated an ancient village."
+ },
+ {
+  "word": "exclude",
+  "phonetic": "/ɪkˈskluːd/",
+  "meaning": "제외하다",
+  "example": "The test excluded people under twenty."
+ },
+ {
+  "word": "expand",
+  "phonetic": "/ɪkˈspænd/",
+  "meaning": "확장하다",
+  "example": "The universe continues to expand."
+ },
+ {
+  "word": "explicit",
+  "phonetic": "/ɪkˈsplɪs.ɪt/",
+  "meaning": "명백한, 명시적인",
+  "example": "The rules are explicit about deadlines."
+ },
+ {
+  "word": "exploit",
+  "phonetic": "/ɪkˈsplɔɪt/",
+  "meaning": "활용하다, 착취하다",
+  "example": "Plants exploit light from every angle."
+ },
+ {
+  "word": "extract",
+  "phonetic": "/ɪkˈstrækt/",
+  "meaning": "추출하다",
+  "example": "They extracted oil from the seeds."
+ },
+ {
+  "word": "fluctuate",
+  "phonetic": "/ˈflʌk.tʃu.eɪt/",
+  "meaning": "변동하다",
+  "example": "Temperatures fluctuate during the day."
+ },
+ {
+  "word": "fragile",
+  "phonetic": "/ˈfrædʒ.əl/",
+  "meaning": "깨지기 쉬운, 취약한",
+  "example": "The desert ecosystem is fragile."
+ },
+ {
+  "word": "fundamental",
+  "phonetic": "/ˌfʌn.dəˈmen.təl/",
+  "meaning": "근본적인",
+  "example": "Water is fundamental to life."
+ },
+ {
+  "word": "generate",
+  "phonetic": "/ˈdʒen.ə.reɪt/",
+  "meaning": "발생시키다",
+  "example": "The panels generate electricity."
+ },
+ {
+  "word": "genetic",
+  "phonetic": "/dʒəˈnet.ɪk/",
+  "meaning": "유전적인",
+  "example": "Genetic tests can reveal the risk."
+ },
+ {
+  "word": "gradual",
+  "phonetic": "/ˈɡrædʒ.u.əl/",
+  "meaning": "점진적인",
+  "example": "There was a gradual rise in sea level."
+ },
+ {
+  "word": "habitat",
+  "phonetic": "/ˈhæb.ɪ.tæt/",
+  "meaning": "서식지",
+  "example": "The bird's habitat is disappearing."
+ },
+ {
+  "word": "hierarchy",
+  "phonetic": "/ˈhaɪ.ər.ɑːr.ki/",
+  "meaning": "위계, 계층",
+  "example": "The ants live in a strict hierarchy."
+ },
+ {
+  "word": "hypothesis",
+  "phonetic": "/haɪˈpɑː.θə.sɪs/",
+  "meaning": "가설",
+  "example": "The hypothesis was tested in the lab."
+ },
+ {
+  "word": "identical",
+  "phonetic": "/aɪˈden.tɪ.kəl/",
+  "meaning": "동일한",
+  "example": "The two samples were identical."
+ },
+ {
+  "word": "illustrate",
+  "phonetic": "/ˈɪl.ə.streɪt/",
+  "meaning": "설명하다, 예시하다",
+  "example": "The graph illustrates the trend."
+ },
+ {
+  "word": "immune",
+  "phonetic": "/ɪˈmjuːn/",
+  "meaning": "면역의",
+  "example": "The body's immune system fights infection."
+ },
+ {
+  "word": "imply",
+  "phonetic": "/ɪmˈplaɪ/",
+  "meaning": "암시하다",
+  "example": "The result implies a hidden factor."
+ },
+ {
+  "word": "impose",
+  "phonetic": "/ɪmˈpoʊz/",
+  "meaning": "부과하다",
+  "example": "The city imposed a new tax."
+ },
+ {
+  "word": "incident",
+  "phonetic": "/ˈɪn.sə.dənt/",
+  "meaning": "사건",
+  "example": "The incident was reported to the police."
+ },
+ {
+  "word": "incorporate",
+  "phonetic": "/ɪnˈkɔːr.pə.reɪt/",
+  "meaning": "포함하다, 통합하다",
+  "example": "The design incorporates recycled materials."
+ },
+ {
+  "word": "indigenous",
+  "phonetic": "/ɪnˈdɪdʒ.ə.nəs/",
+  "meaning": "토착의",
+  "example": "Indigenous plants need less water."
+ },
+ {
+  "word": "induce",
+  "phonetic": "/ɪnˈduːs/",
+  "meaning": "유도하다, 유발하다",
+  "example": "The drug induces sleep."
+ },
+ {
+  "word": "infer",
+  "phonetic": "/ɪnˈfɜːr/",
+  "meaning": "추론하다",
+  "example": "We infer meaning from context."
+ },
+ {
+  "word": "inherent",
+  "phonetic": "/ɪnˈhɪr.ənt/",
+  "meaning": "내재된",
+  "example": "There are inherent risks in the method."
+ },
+ {
+  "word": "initial",
+  "phonetic": "/ɪˈnɪʃ.əl/",
+  "meaning": "초기의",
+  "example": "The initial results look promising."
+ },
+ {
+  "word": "innovation",
+  "phonetic": "/ˌɪn.əˈveɪ.ʃən/",
+  "meaning": "혁신",
+  "example": "The company is known for innovation."
+ },
+ {
+  "word": "insight",
+  "phonetic": "/ˈɪn.saɪt/",
+  "meaning": "통찰",
+  "example": "The study offers new insight into memory."
+ },
+ {
+  "word": "integrate",
+  "phonetic": "/ˈɪn.tə.ɡreɪt/",
+  "meaning": "통합하다",
+  "example": "The school integrates art into science."
+ },
+ {
+  "word": "interpret",
+  "phonetic": "/ɪnˈtɜːr.prɪt/",
+  "meaning": "해석하다",
+  "example": "Scientists interpret the data carefully."
+ }
+]

@@ -1,0 +1,28 @@
+name: word_alarm_app
+description: "WordWake - 영어단어로 깨우는 알람 (이지 플랜 / 스파르타 플랜)"
+publish_to: 'none'
+version: 1.1.0+2
+
+environment:
+  sdk: '>=3.4.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  flutter_local_notifications: ^17.2.3
+  flutter_timezone: ^3.0.1
+  timezone: ^0.9.4
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/words.json
+    - assets/audio/alarm.wav

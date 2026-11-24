@@ -1,0 +1,5762 @@
+[
+  {
+    "word": "action",
+    "phonetic": "/ˈækʃən/",
+    "meaning": "행동, 조치, 소송",
+    "example": "She decided to take legal action against the company."
+  },
+  {
+    "word": "activity",
+    "phonetic": "/ækˈtɪvɪti/",
+    "meaning": "활동, 행동",
+    "example": "The teacher planned several activities for the long train ride."
+  },
+  {
+    "word": "actor",
+    "phonetic": "/ˈæktɚ/",
+    "meaning": "배우",
+    "example": "Tom is a very dedicated actor."
+  },
+  {
+    "word": "add",
+    "phonetic": "/æd/",
+    "meaning": "더하다, 추가하다, 합산하다",
+    "example": "Add these numbers and tell me the total."
+  },
+  {
+    "word": "address",
+    "phonetic": "/əˈdrɛs/",
+    "meaning": "주소, 연설",
+    "example": "The president gave a short address to the nation last night."
+  },
+  {
+    "word": "afraid",
+    "phonetic": "/əˈfreɪd/",
+    "meaning": "두려운, 무서워하는, 유감스럽지만",
+    "example": "I'm afraid I can't come to the meeting tomorrow."
+  },
+  {
+    "word": "afternoon",
+    "phonetic": "/ˌæftərˈnun/",
+    "meaning": "오후",
+    "example": "Tom wasn't with us that afternoon."
+  },
+  {
+    "word": "again",
+    "phonetic": "/əˈɡeɪn/",
+    "meaning": "다시, 또",
+    "example": "Could you say that again, please? I didn't hear you well."
+  },
+  {
+    "word": "age",
+    "phonetic": "/eɪdʒ/",
+    "meaning": "나이, 연령, 시대",
+    "example": "The Stone Age lasted for many thousands of years."
+  },
+  {
+    "word": "ago",
+    "phonetic": "/əˈɡoʊ/",
+    "meaning": "~ 전에",
+    "example": "I woke up ten minutes ago."
+  },
+  {
+    "word": "agree",
+    "phonetic": "/əˈɡɹiː/",
+    "meaning": "찬성하다, 동의하다",
+    "example": "Tom has agreed to take a lie detector test."
+  },
+  {
+    "word": "airport",
+    "phonetic": "/ˈɛrˌpɔrt/",
+    "meaning": "공항",
+    "example": "Tom is waiting for us at the airport."
+  },
+  {
+    "word": "almost",
+    "phonetic": "/ˈɔlmoʊst/",
+    "meaning": "거의, 하마터면",
+    "example": "I swim almost every day."
+  },
+  {
+    "word": "alone",
+    "phonetic": "/əˈloʊn/",
+    "meaning": "혼자인, 홀로 있는",
+    "example": "Tom felt alone even in a crowded room."
+  },
+  {
+    "word": "already",
+    "phonetic": "/ɔlˈrɛdi/",
+    "meaning": "이미, 벌써",
+    "example": "It was already very late."
+  },
+  {
+    "word": "also",
+    "phonetic": "/ˈɔlsoʊ/",
+    "meaning": "또한, 역시, ~도",
+    "example": "Mary also plays the piano very well."
+  },
+  {
+    "word": "always",
+    "phonetic": "/ˈɔːl.weɪz/",
+    "meaning": "언제나, 항상",
+    "example": "Tom is late, as always."
+  },
+  {
+    "word": "america",
+    "phonetic": "/əˈmɛrɪkə/",
+    "meaning": "미국, 아메리카 대륙",
+    "example": "I have no time to go to America."
+  },
+  {
+    "word": "american",
+    "phonetic": "/əˈmɛrɪkən/",
+    "meaning": "미국의, 미국인의",
+    "example": "My neighbor is an American teacher who loves Korean food."
+  },
+  {
+    "word": "angry",
+    "phonetic": "/ˈæŋɡri/",
+    "meaning": "화난, 성난",
+    "example": "Are you still angry at me for being late yesterday?"
+  },
+  {
+    "word": "animal",
+    "phonetic": "/ˈænɪməl/",
+    "meaning": "동물",
+    "example": "Man is a rational animal."
+  },
+  {
+    "word": "answer",
+    "phonetic": "/ˈænsɚ/",
+    "meaning": "대답하다, 응답하다, 받다",
+    "example": "Mary answered the door in her pajamas."
+  },
+  {
+    "word": "apple",
+    "phonetic": "/ˈæpəl/",
+    "meaning": "사과",
+    "example": "Would you like an apple with your lunch today?"
+  },
+  {
+    "word": "april",
+    "phonetic": "/ˈeɪprəl/",
+    "meaning": "4월",
+    "example": "We usually plant flowers in our garden in April."
+  },
+  {
+    "word": "arm",
+    "phonetic": "/ɑrm/",
+    "meaning": "팔, 팔걸이",
+    "example": "Tom rested his elbow on the arm of the sofa."
+  },
+  {
+    "word": "arrive",
+    "phonetic": "/əˈraɪv/",
+    "meaning": "도착하다, 닿다",
+    "example": "Will we arrive on time?"
+  },
+  {
+    "word": "art",
+    "phonetic": "/ɑrt/",
+    "meaning": "예술, 미술, 기술",
+    "example": "Music is an art, not a science."
+  },
+  {
+    "word": "ask",
+    "phonetic": "/æsk/",
+    "meaning": "묻다, 질문하다, 요청하다",
+    "example": "Can I ask you a favour?"
+  },
+  {
+    "word": "august",
+    "phonetic": "/ˈɔɡəst/",
+    "meaning": "8월",
+    "example": "It is very hot and humid in Seoul in August."
+  },
+  {
+    "word": "aunt",
+    "phonetic": "/ænt/",
+    "meaning": "이모, 고모, 숙모",
+    "example": "Tom has an aunt who is in prison."
+  },
+  {
+    "word": "autumn",
+    "phonetic": "/ˈɔtəm/",
+    "meaning": "가을",
+    "example": "There are four seasons in a year: spring, summer, autumn and winter."
+  },
+  {
+    "word": "away",
+    "phonetic": "/əˈweɪ/",
+    "meaning": "떨어져, 멀리, 저쪽으로",
+    "example": "Tom is away on business this week."
+  },
+  {
+    "word": "baby",
+    "phonetic": "/ˈbeɪbi/",
+    "meaning": "아기, 갓난아이, 자기",
+    "example": "Baby, I will call you after the meeting."
+  },
+  {
+    "word": "back",
+    "phonetic": "/bæk/",
+    "meaning": "원래 자리로, 되돌아, 뒤로",
+    "example": "Please step back from the edge."
+  },
+  {
+    "word": "bad",
+    "phonetic": "/bæd/",
+    "meaning": "나쁜, 좋지 않은, 심한",
+    "example": "Eating too much sugar is bad for your teeth."
+  },
+  {
+    "word": "bag",
+    "phonetic": "/bæɡ/",
+    "meaning": "가방, 봉지, 짐",
+    "example": "Do you have any bags to check?"
+  },
+  {
+    "word": "ball",
+    "phonetic": "/bɔl/",
+    "meaning": "공, 무도회",
+    "example": "Mary wore a long blue dress to the ball."
+  },
+  {
+    "word": "banana",
+    "phonetic": "/bəˈnænə/",
+    "meaning": "바나나",
+    "example": "Put one banana in your bag for a quick snack later."
+  },
+  {
+    "word": "bank",
+    "phonetic": "/bæŋk/",
+    "meaning": "은행, 둑, 강둑",
+    "example": "We sat on the bank of the river and fished."
+  },
+  {
+    "word": "baseball",
+    "phonetic": "/ˈbeɪsˌbɔl/",
+    "meaning": "야구, 야구공",
+    "example": "Tom is wearing a baseball cap."
+  },
+  {
+    "word": "basketball",
+    "phonetic": "/ˈbæskətˌbɔl/",
+    "meaning": "농구, 농구공",
+    "example": "Many students in Busan watch professional basketball games on television after school."
+  },
+  {
+    "word": "bat",
+    "phonetic": "/bæt/",
+    "meaning": "방망이, 배트, 박쥐",
+    "example": "A bat flew out of the old barn at dusk."
+  },
+  {
+    "word": "bath",
+    "phonetic": "/bæθ/",
+    "meaning": "목욕, 욕조",
+    "example": "I've just got in the bath."
+  },
+  {
+    "word": "bathroom",
+    "phonetic": "/ˈbæθruːm/",
+    "meaning": "화장실, 욕실",
+    "example": "The hotel room has a large bathroom with a bathtub."
+  },
+  {
+    "word": "beach",
+    "phonetic": "/bitʃ/",
+    "meaning": "해변, 바닷가",
+    "example": "The sand on the beach was white."
+  },
+  {
+    "word": "bean",
+    "phonetic": "/bin/",
+    "meaning": "콩, 원두",
+    "example": "Mary added black beans to the rice for dinner."
+  },
+  {
+    "word": "beautiful",
+    "phonetic": "/ˈbjutəfəl/",
+    "meaning": "아름다운, 예쁜",
+    "example": "It was a beautiful sunny day."
+  },
+  {
+    "word": "bed",
+    "phonetic": "/bɛd/",
+    "meaning": "침대, 잠자리, 화단",
+    "example": "Fish were swimming over the sandy river bed."
+  },
+  {
+    "word": "bedroom",
+    "phonetic": "/ˈbɛdˌrum/",
+    "meaning": "침실, 방",
+    "example": "Tom quietly closed the bedroom door."
+  },
+  {
+    "word": "bee",
+    "phonetic": "/bi/",
+    "meaning": "벌, 꿀벌",
+    "example": "A bee landed on the flower in our garden."
+  },
+  {
+    "word": "beef",
+    "phonetic": "/biːf/",
+    "meaning": "소고기, 쇠고기, 불평",
+    "example": "I have no beef with you about the schedule."
+  },
+  {
+    "word": "before",
+    "phonetic": "/bɪˈfɔr/",
+    "meaning": "전에, 이전에",
+    "example": "I never saw him before."
+  },
+  {
+    "word": "believe",
+    "phonetic": "/bɪˈliːv/",
+    "meaning": "믿다, 생각하다, 여기다",
+    "example": "I believe this is the best choice for us."
+  },
+  {
+    "word": "bell",
+    "phonetic": "/bɛl/",
+    "meaning": "종, 방울, 종소리",
+    "example": "The bell rang and the students ran outside."
+  },
+  {
+    "word": "best",
+    "phonetic": "/bɛst/",
+    "meaning": "가장 좋은",
+    "example": "I will do my best."
+  },
+  {
+    "word": "better",
+    "phonetic": "/ˈbɛtər/",
+    "meaning": "더 좋은, 더 나은, 나아진",
+    "example": "This phone is better than my old one."
+  },
+  {
+    "word": "bicycle",
+    "phonetic": "/ˈbaɪsɪkəl/",
+    "meaning": "자전거",
+    "example": "Mary rides her bicycle to school every morning."
+  },
+  {
+    "word": "big",
+    "phonetic": "/bɪɡ/",
+    "meaning": "큰, 중요한",
+    "example": "Tomorrow is a big day for us."
+  },
+  {
+    "word": "bike",
+    "phonetic": "/baɪk/",
+    "meaning": "자전거, 오토바이",
+    "example": "I usually go to work by bike in the summer."
+  },
+  {
+    "word": "bird",
+    "phonetic": "/bɝd/",
+    "meaning": "새",
+    "example": "Some kinds of birds can't fly."
+  },
+  {
+    "word": "birthday",
+    "phonetic": "/ˈbɝθdeɪ/",
+    "meaning": "생일",
+    "example": "Mary baked a chocolate cake for her friend's birthday party on Saturday."
+  },
+  {
+    "word": "black",
+    "phonetic": "/blæk/",
+    "meaning": "검은, 까만, 어두운",
+    "example": "The room was black after the lights went out."
+  },
+  {
+    "word": "blow",
+    "phonetic": "/bloʊ/",
+    "meaning": "(바람이) 불다, 불다, 불어 넣다",
+    "example": "He can blow the trumpet well, so he joins the school band."
+  },
+  {
+    "word": "blue",
+    "phonetic": "/blu/",
+    "meaning": "파란, 푸른, 우울한",
+    "example": "I felt a little blue after the long rainy week."
+  },
+  {
+    "word": "boat",
+    "phonetic": "/boʊt/",
+    "meaning": "배, 보트",
+    "example": "The fishing boat returned safely to the harbor before the storm."
+  },
+  {
+    "word": "body",
+    "phonetic": "/ˈbɑdi/",
+    "meaning": "몸, 신체, 시신",
+    "example": "The police found a body in the river."
+  },
+  {
+    "word": "bone",
+    "phonetic": "/boʊn/",
+    "meaning": "뼈",
+    "example": "The dog buried a large bone in the garden yesterday."
+  },
+  {
+    "word": "book",
+    "phonetic": "/bʊk/",
+    "meaning": "책",
+    "example": "The book is on the desk."
+  },
+  {
+    "word": "bookstore",
+    "phonetic": "/ˈbʊkˌstɔr/",
+    "meaning": "서점",
+    "example": "Could you check whether this bookstore carries the Korean edition?"
+  },
+  {
+    "word": "boring",
+    "phonetic": "/ˈbɔrɪŋ/",
+    "meaning": "지루한, 따분한",
+    "example": "Brown rice is boring. Serve white rice!"
+  },
+  {
+    "word": "born",
+    "phonetic": "/bɔrn/",
+    "meaning": "태어난, 타고난",
+    "example": "She is a born leader who never gives up."
+  },
+  {
+    "word": "borrow",
+    "phonetic": "/ˈbɑroʊ/",
+    "meaning": "빌리다",
+    "example": "I often borrow books from the library."
+  },
+  {
+    "word": "bottle",
+    "phonetic": "/ˈbɑtəl/",
+    "meaning": "병, 술병",
+    "example": "I opened a bottle of red wine."
+  },
+  {
+    "word": "bowl",
+    "phonetic": "/boʊl/",
+    "meaning": "그릇, 사발",
+    "example": "I'd like mapo tofu and two bowls of rice, please."
+  },
+  {
+    "word": "box",
+    "phonetic": "/bɑks/",
+    "meaning": "상자",
+    "example": "How much is it per box?"
+  },
+  {
+    "word": "boy",
+    "phonetic": "/bɔɪ/",
+    "meaning": "소년, 남자아이, 아들",
+    "example": "The boy has a horse."
+  },
+  {
+    "word": "boyfriend",
+    "phonetic": "/ˈbɔɪˌfrɛnd/",
+    "meaning": "남자친구, 남친",
+    "example": "No, he's not my new boyfriend."
+  },
+  {
+    "word": "bread",
+    "phonetic": "/brɛd/",
+    "meaning": "빵",
+    "example": "Mary buys fresh bread at the bakery every morning."
+  },
+  {
+    "word": "break",
+    "phonetic": "/breɪk/",
+    "meaning": "깨뜨리다, 부수다, 부러뜨리다",
+    "example": "Be careful not to break the glass."
+  },
+  {
+    "word": "breakfast",
+    "phonetic": "/ˈbrɛkfəst/",
+    "meaning": "아침 식사, 아침밥",
+    "example": "I just had breakfast with Tom."
+  },
+  {
+    "word": "bridge",
+    "phonetic": "/brɪdʒ/",
+    "meaning": "다리, 교량, 가교",
+    "example": "The program is a bridge between school and work."
+  },
+  {
+    "word": "bright",
+    "phonetic": "/braɪt/",
+    "meaning": "밝은, 환한, 화창한",
+    "example": "Mary is a bright student who learns new words quickly."
+  },
+  {
+    "word": "bring",
+    "phonetic": "/brɪŋ/",
+    "meaning": "가져오다, 데려오다, 초래하다",
+    "example": "Please bring your passport to the office tomorrow."
+  },
+  {
+    "word": "broken",
+    "phonetic": "/ˈbroʊkən/",
+    "meaning": "부서진, 깨진, 고장 난",
+    "example": "Be careful of the broken glass on the floor."
+  },
+  {
+    "word": "brother",
+    "phonetic": "/ˈbrʌðɚ/",
+    "meaning": "형, 오빠, 남동생",
+    "example": "My younger brother lives with our parents in Seoul."
+  },
+  {
+    "word": "brown",
+    "phonetic": "/braʊn/",
+    "meaning": "갈색의",
+    "example": "I remember Tom was wearing a brown hat."
+  },
+  {
+    "word": "brush",
+    "phonetic": "/brʌʃ/",
+    "meaning": "솔, 브러시, 붓",
+    "example": "I bought a new brush to clean the kitchen floor."
+  },
+  {
+    "word": "build",
+    "phonetic": "/bɪld/",
+    "meaning": "짓다, 세우다, 쌓다",
+    "example": "Mary wants to build a house near the sea."
+  },
+  {
+    "word": "building",
+    "phonetic": "/ˈbɪldɪŋ/",
+    "meaning": "건물, 건축물, 건축",
+    "example": "The building of the new bridge took three years."
+  },
+  {
+    "word": "burger",
+    "phonetic": "/ˈbɜrɡər/",
+    "meaning": "햄버거",
+    "example": "The burger was juicy and still warm inside."
+  },
+  {
+    "word": "bus",
+    "phonetic": "/bʌs/",
+    "meaning": "버스",
+    "example": "I will go by bus."
+  },
+  {
+    "word": "busy",
+    "phonetic": "/ˈbɪzi/",
+    "meaning": "바쁜, 붐비는, 혼잡한",
+    "example": "This is a busy street at rush hour."
+  },
+  {
+    "word": "butter",
+    "phonetic": "/ˈbʌtɚ/",
+    "meaning": "버터",
+    "example": "We make milk into cheese and butter."
+  },
+  {
+    "word": "butterfly",
+    "phonetic": "/ˈbʌtərflaɪ/",
+    "meaning": "나비",
+    "example": "Mary watched a butterfly fly slowly over the garden."
+  },
+  {
+    "word": "button",
+    "phonetic": "/ˈbʌtn/",
+    "meaning": "버튼, 단추",
+    "example": "Press the green button to start the washing machine."
+  },
+  {
+    "word": "buy",
+    "phonetic": "/baɪ/",
+    "meaning": "사다, 구입하다",
+    "example": "Did you buy cat food?"
+  },
+  {
+    "word": "cake",
+    "phonetic": "/keɪk/",
+    "meaning": "케이크",
+    "example": "I baked Tom a cake."
+  },
+  {
+    "word": "call",
+    "phonetic": "/kɔl/",
+    "meaning": "전화하다, 부르다, ~라고 부르다",
+    "example": "Call me by my name."
+  },
+  {
+    "word": "camera",
+    "phonetic": "/ˈkæmrə/",
+    "meaning": "카메라, 사진기",
+    "example": "This is the camera I bought yesterday."
+  },
+  {
+    "word": "camp",
+    "phonetic": "/kæmp/",
+    "meaning": "야영지, 캠프장, 캠프",
+    "example": "We set up camp near the river before dark."
+  },
+  {
+    "word": "candy",
+    "phonetic": "/ˈkændi/",
+    "meaning": "사탕, 캔디",
+    "example": "Tom bought a bag of candy for the kids."
+  },
+  {
+    "word": "cannot",
+    "phonetic": "/ˈkænɑt/",
+    "meaning": "할 수 없다",
+    "example": "Our baby cannot talk yet."
+  },
+  {
+    "word": "cap",
+    "phonetic": "/kæp/",
+    "meaning": "모자, 뚜껑",
+    "example": "Please put the cap back on the bottle after you drink."
+  },
+  {
+    "word": "car",
+    "phonetic": "/kɑr/",
+    "meaning": "자동차, 차",
+    "example": "Tom had to rent a car."
+  },
+  {
+    "word": "card",
+    "phonetic": "/kɑrd/",
+    "meaning": "카드, 엽서, 축하 카드",
+    "example": "Here is my card, so please call me anytime."
+  },
+  {
+    "word": "care",
+    "phonetic": "/kɛr/",
+    "meaning": "돌봄, 보살핌, 주의",
+    "example": "She works in health care at a big hospital."
+  },
+  {
+    "word": "careful",
+    "phonetic": "/ˈkɛrfəl/",
+    "meaning": "조심하는, 신중한",
+    "example": "Be careful not to catch a cold."
+  },
+  {
+    "word": "carefully",
+    "phonetic": "/ˈkɛrfəli/",
+    "meaning": "조심스럽게, 주의 깊게",
+    "example": "Now, listen carefully to what I am saying."
+  },
+  {
+    "word": "carry",
+    "phonetic": "/ˈkæri/",
+    "meaning": "나르다, 들고 가다, 휴대하다",
+    "example": "I always carry a small umbrella in my bag."
+  },
+  {
+    "word": "cartoon",
+    "phonetic": "/kɑrˈtun/",
+    "meaning": "만화 영화, 애니메이션, 풍자만화",
+    "example": "The newspaper printed a funny cartoon about the election."
+  },
+  {
+    "word": "cat",
+    "phonetic": "/kæt/",
+    "meaning": "고양이",
+    "example": "A cat is not human."
+  },
+  {
+    "word": "catch",
+    "phonetic": "/kætʃ/",
+    "meaning": "잡다, 붙잡다, 걸리다",
+    "example": "We need to catch the last bus home tonight."
+  },
+  {
+    "word": "celebrate",
+    "phonetic": "/ˈsɛləˌbreɪt/",
+    "meaning": "축하하다, 기념하다",
+    "example": "I don't want to celebrate my birthday."
+  },
+  {
+    "word": "chair",
+    "phonetic": "/tʃɛr/",
+    "meaning": "의자",
+    "example": "The chair is far away from the door."
+  },
+  {
+    "word": "change",
+    "phonetic": "/tʃeɪndʒ/",
+    "meaning": "바꾸다, 변경하다, 변하다",
+    "example": "I need to change my clothes."
+  },
+  {
+    "word": "check",
+    "phonetic": "/tʃɛk/",
+    "meaning": "확인하다, 점검하다, 맡기다",
+    "example": "She tried to check her anger during the meeting."
+  },
+  {
+    "word": "cheese",
+    "phonetic": "/tʃiz/",
+    "meaning": "치즈",
+    "example": "Which cheese is best for pizza?"
+  },
+  {
+    "word": "chicken",
+    "phonetic": "/ˈtʃɪkən/",
+    "meaning": "닭, 닭고기, 겁쟁이",
+    "example": "Tom and Mary have chickens in their backyard."
+  },
+  {
+    "word": "child",
+    "phonetic": "/t͡ʃaɪld/",
+    "meaning": "어린이, 아이, 자식",
+    "example": "Tom is a timid child."
+  },
+  {
+    "word": "children",
+    "phonetic": "/ˈtʃɪldrən/",
+    "meaning": "아이들, 어린이들, 자녀들",
+    "example": "The children are playing happily in the park."
+  },
+  {
+    "word": "chocolate",
+    "phonetic": "/ˈtʃɔklət/",
+    "meaning": "초콜릿, 초콜릿색",
+    "example": "I can't believe that you used to hate chocolate."
+  },
+  {
+    "word": "choose",
+    "phonetic": "/tʃuz/",
+    "meaning": "고르다, 선택하다",
+    "example": "Choose either one or the other."
+  },
+  {
+    "word": "christmas",
+    "phonetic": "/ˈkrɪsməs/",
+    "meaning": "크리스마스, 성탄절",
+    "example": "I need to buy Christmas gifts."
+  },
+  {
+    "word": "church",
+    "phonetic": "/tʃɝtʃ/",
+    "meaning": "교회",
+    "example": "There are two churches in this street."
+  },
+  {
+    "word": "circle",
+    "phonetic": "/ˈsɝːkəl/",
+    "meaning": "원, 동그라미, 모임",
+    "example": "She has a small circle of close friends in Seoul."
+  },
+  {
+    "word": "city",
+    "phonetic": "/ˈsɪti/",
+    "meaning": "도시, 시",
+    "example": "He wants to live in the city."
+  },
+  {
+    "word": "class",
+    "phonetic": "/klæs/",
+    "meaning": "수업, 반, 학급",
+    "example": "The middle class is growing in many countries."
+  },
+  {
+    "word": "classmate",
+    "phonetic": "/ˈklæsˌmeɪt/",
+    "meaning": "반 친구, 급우",
+    "example": "Mary and her classmates are preparing a presentation about recycling."
+  },
+  {
+    "word": "classroom",
+    "phonetic": "/ˈklæsˌrum/",
+    "meaning": "교실",
+    "example": "Tom said no one was in the classroom."
+  },
+  {
+    "word": "clean",
+    "phonetic": "/kliːn/",
+    "meaning": "깨끗한",
+    "example": "You must keep your hands clean."
+  },
+  {
+    "word": "climb",
+    "phonetic": "/klaɪm/",
+    "meaning": "오르다, 올라가다, 등반하다",
+    "example": "The boy seized the ladder, and began to climb."
+  },
+  {
+    "word": "clock",
+    "phonetic": "/klɑk/",
+    "meaning": "시계, 탁상시계",
+    "example": "The clock on the wall is five minutes slow."
+  },
+  {
+    "word": "close",
+    "phonetic": "/kloʊz/",
+    "meaning": "닫다, 닫히다, 감다",
+    "example": "Mary closed her eyes and made a wish."
+  },
+  {
+    "word": "closed",
+    "phonetic": "/kloʊzd/",
+    "meaning": "닫힌, 문을 닫은, 폐쇄적인",
+    "example": "Please keep the windows closed during the storm."
+  },
+  {
+    "word": "clothes",
+    "phonetic": "/kloʊðz/",
+    "meaning": "옷, 의복",
+    "example": "It's cold today, so wear thick clothes."
+  },
+  {
+    "word": "cloud",
+    "phonetic": "/klaʊd/",
+    "meaning": "구름, 클라우드",
+    "example": "I save all my photos in the cloud for safety."
+  },
+  {
+    "word": "cloudy",
+    "phonetic": "/ˈklaʊdi/",
+    "meaning": "흐린, 구름이 낀, 탁한",
+    "example": "The water in the glass looked cloudy and strange."
+  },
+  {
+    "word": "club",
+    "phonetic": "/klʌb/",
+    "meaning": "동호회, 클럽",
+    "example": "I'm a member of the swimming club."
+  },
+  {
+    "word": "coach",
+    "phonetic": "/koʊtʃ/",
+    "meaning": "코치, 감독, 지도하다",
+    "example": "The coach showed us how to improve our passing."
+  },
+  {
+    "word": "coat",
+    "phonetic": "/koʊt/",
+    "meaning": "코트, 외투",
+    "example": "The coat is on the chair."
+  },
+  {
+    "word": "coffee",
+    "phonetic": "/ˈkɑfi/",
+    "meaning": "커피",
+    "example": "I like milk in my coffee."
+  },
+  {
+    "word": "cold",
+    "phonetic": "/koʊld/",
+    "meaning": "추운, 차가운, 냉담한",
+    "example": "She gave me a cold look and walked away."
+  },
+  {
+    "word": "collect",
+    "phonetic": "/kəˈlɛkt/",
+    "meaning": "모으다, 수집하다, 수거하다",
+    "example": "The landlord comes to collect the rent on the first day."
+  },
+  {
+    "word": "come",
+    "phonetic": "/kʌm/",
+    "meaning": "오다, 도착하다, 이르다",
+    "example": "Christmas comes once a year."
+  },
+  {
+    "word": "computer",
+    "phonetic": "/kəmˈpjutɚ/",
+    "meaning": "컴퓨터",
+    "example": "Tom shut his computer off."
+  },
+  {
+    "word": "concert",
+    "phonetic": "/ˈkɑnsərt/",
+    "meaning": "콘서트, 음악회, 연주회",
+    "example": "I love biking and hard rock concerts."
+  },
+  {
+    "word": "conversation",
+    "phonetic": "/ˌkɑːnvɚˈseɪʃən/",
+    "meaning": "대화, 담소",
+    "example": "We had a pleasant conversation about movies over lunch."
+  },
+  {
+    "word": "cook",
+    "phonetic": "/kʊk/",
+    "meaning": "요리하다, 조리하다",
+    "example": "Mary cooks dinner for her family every evening."
+  },
+  {
+    "word": "cookie",
+    "phonetic": "/ˈkʊki/",
+    "meaning": "쿠키, 쿠키 파일",
+    "example": "Mary baked chocolate cookies for the school party."
+  },
+  {
+    "word": "cool",
+    "phonetic": "/kul/",
+    "meaning": "시원한, 서늘한, 멋진",
+    "example": "Let's grab a cool drink before we walk home."
+  },
+  {
+    "word": "copy",
+    "phonetic": "/ˈkɑpi/",
+    "meaning": "복사본, 사본, 부",
+    "example": "Please make a copy of this document for me."
+  },
+  {
+    "word": "corner",
+    "phonetic": "/ˈkɔrnər/",
+    "meaning": "모퉁이, 모서리, 구석",
+    "example": "The cat was sleeping in the corner of the room."
+  },
+  {
+    "word": "cousin",
+    "phonetic": "/ˈkʌzən/",
+    "meaning": "사촌",
+    "example": "Tom and I are cousins, so we often visit together."
+  },
+  {
+    "word": "cow",
+    "phonetic": "/kaʊ/",
+    "meaning": "소, 젖소, 암소",
+    "example": "Tom saw a cow eating grass near the river."
+  },
+  {
+    "word": "cream",
+    "phonetic": "/kriːm/",
+    "meaning": "크림, 생크림, 크림형 연고",
+    "example": "Tom rubbed some cream on his dry hands."
+  },
+  {
+    "word": "cry",
+    "phonetic": "/kraɪ/",
+    "meaning": "울다, 외치다, 소리치다",
+    "example": "Mary heard someone cry for help outside."
+  },
+  {
+    "word": "cup",
+    "phonetic": "/kʌp/",
+    "meaning": "컵, 잔",
+    "example": "She ordered a cup of tea."
+  },
+  {
+    "word": "cut",
+    "phonetic": "/kʌt/",
+    "meaning": "자르다, 베다, 줄이다",
+    "example": "The company plans to cut costs this year."
+  },
+  {
+    "word": "cute",
+    "phonetic": "/kjut/",
+    "meaning": "귀엽다, 예쁘다",
+    "example": "Both of them are very cute."
+  },
+  {
+    "word": "dad",
+    "phonetic": "/dæd/",
+    "meaning": "아빠",
+    "example": "Tom asked his dad to drive him to school."
+  },
+  {
+    "word": "daddy",
+    "phonetic": "/ˈdædi/",
+    "meaning": "아빠",
+    "example": "Daddy, can you help me tie my shoe?"
+  },
+  {
+    "word": "dance",
+    "phonetic": "/dæns/",
+    "meaning": "춤추다",
+    "example": "I'm too old to dance."
+  },
+  {
+    "word": "dark",
+    "phonetic": "/dɑrk/",
+    "meaning": "어두운, 캄캄한, 짙은",
+    "example": "She has dark hair and brown eyes."
+  },
+  {
+    "word": "date",
+    "phonetic": "/deɪt/",
+    "meaning": "날짜, 데이트, 만남",
+    "example": "Have you ever been on a blind date?"
+  },
+  {
+    "word": "daughter",
+    "phonetic": "/ˈdɔtər/",
+    "meaning": "딸",
+    "example": "Is it a son or a daughter?"
+  },
+  {
+    "word": "day",
+    "phonetic": "/deɪ/",
+    "meaning": "하루, 날, 낮",
+    "example": "Things were different in my grandfather's day."
+  },
+  {
+    "word": "dear",
+    "phonetic": "/dɪr/",
+    "meaning": "사랑하는, 소중한, 친애하는",
+    "example": "Dear Mary, thank you for the lovely birthday gift."
+  },
+  {
+    "word": "december",
+    "phonetic": "/dɪˈsɛmbɚ/",
+    "meaning": "12월, 십이월",
+    "example": "We usually visit our grandparents in Seoul every December."
+  },
+  {
+    "word": "delicious",
+    "phonetic": "/dɪˈlɪʃəs/",
+    "meaning": "맛있는",
+    "example": "Thank you for the delicious dinner."
+  },
+  {
+    "word": "desk",
+    "phonetic": "/dɛsk/",
+    "meaning": "책상, 안내 데스크, 접수 창구",
+    "example": "This desk is too small for Tom."
+  },
+  {
+    "word": "dictionary",
+    "phonetic": "/ˈdɪkʃəˌnɛri/",
+    "meaning": "사전",
+    "example": "She bought a small dictionary for her trip abroad."
+  },
+  {
+    "word": "difference",
+    "phonetic": "/ˈdɪfrəns/",
+    "meaning": "차이, 다름",
+    "example": "Let's not pretend that this will make any difference."
+  },
+  {
+    "word": "different",
+    "phonetic": "/ˈdɪfrənt/",
+    "meaning": "다른, 상이한",
+    "example": "Tom sees this in a different way."
+  },
+  {
+    "word": "difficult",
+    "phonetic": "/ˈdɪfɪkəlt/",
+    "meaning": "어려운, 힘든, 곤란한",
+    "example": "Why is French so difficult?"
+  },
+  {
+    "word": "dinner",
+    "phonetic": "/ˈdɪnər/",
+    "meaning": "저녁 식사, 저녁밥",
+    "example": "I play the guitar after dinner."
+  },
+  {
+    "word": "dirty",
+    "phonetic": "/ˈdɜrti/",
+    "meaning": "더러운, 지저분한",
+    "example": "Please do not put dirty dishes on the clean table."
+  },
+  {
+    "word": "dish",
+    "phonetic": "/dɪʃ/",
+    "meaning": "접시, 그릇, 요리",
+    "example": "If you cook, I'll wash the dishes."
+  },
+  {
+    "word": "doctor",
+    "phonetic": "/ˈdɑktər/",
+    "meaning": "의사, 박사",
+    "example": "He is a doctor of chemistry, not a medical doctor."
+  },
+  {
+    "word": "dog",
+    "phonetic": "/dɔɡ/",
+    "meaning": "개",
+    "example": "Do you have a dog?"
+  },
+  {
+    "word": "doll",
+    "phonetic": "/dɑːl/",
+    "meaning": "인형",
+    "example": "She placed the porcelain doll carefully on the shelf."
+  },
+  {
+    "word": "dollar",
+    "phonetic": "/ˈdɑlɚ/",
+    "meaning": "달러",
+    "example": "The cost of the book is five dollars."
+  },
+  {
+    "word": "door",
+    "phonetic": "/dɔr/",
+    "meaning": "문, 문짝",
+    "example": "Please close the door quietly so the baby can keep sleeping."
+  },
+  {
+    "word": "down",
+    "phonetic": "/daʊn/",
+    "meaning": "아래로, 아래쪽에, 쓰러져",
+    "example": "The old tree fell down in the storm."
+  },
+  {
+    "word": "draw",
+    "phonetic": "/drɔ/",
+    "meaning": "그리다, 끌다, 끌어당기다",
+    "example": "The horses draw the carriage along the road."
+  },
+  {
+    "word": "dream",
+    "phonetic": "/drim/",
+    "meaning": "꿈, 희망, 이상",
+    "example": "Her dream is to become a doctor."
+  },
+  {
+    "word": "dress",
+    "phonetic": "/drɛs/",
+    "meaning": "원피스, 드레스, 옷",
+    "example": "The children wore traditional dress at the festival."
+  },
+  {
+    "word": "drink",
+    "phonetic": "/drɪŋk/",
+    "meaning": "음료, 마실 것, 술",
+    "example": "Let's go out for a drink after work."
+  },
+  {
+    "word": "drive",
+    "phonetic": "/draɪv/",
+    "meaning": "운전하다, 몰다, 내몰다",
+    "example": "I used to drive a truck."
+  },
+  {
+    "word": "driver",
+    "phonetic": "/ˈdraɪvɚ/",
+    "meaning": "운전자, 운전사, 드라이버",
+    "example": "I'm a taxi driver who works at night."
+  },
+  {
+    "word": "drum",
+    "phonetic": "/drʌm/",
+    "meaning": "북, 드럼, 드럼통",
+    "example": "My brother plays the drum in a school band."
+  },
+  {
+    "word": "dry",
+    "phonetic": "/draɪ/",
+    "meaning": "마른, 건조한, 달지 않은",
+    "example": "The desert climate is hot and very dry."
+  },
+  {
+    "word": "ear",
+    "phonetic": "/ɪr/",
+    "meaning": "귀",
+    "example": "After swimming, water often stays in my ear for a while."
+  },
+  {
+    "word": "early",
+    "phonetic": "/ˈɝli/",
+    "meaning": "일찍, 이르게",
+    "example": "He advised us to leave early."
+  },
+  {
+    "word": "easy",
+    "phonetic": "/ˈizi/",
+    "meaning": "쉬운, 편안한",
+    "example": "Not as easy as I thought."
+  },
+  {
+    "word": "eat",
+    "phonetic": "/iːt/",
+    "meaning": "먹다",
+    "example": "I want to eat it."
+  },
+  {
+    "word": "egg",
+    "phonetic": "/ɛɡ/",
+    "meaning": "알, 달걀",
+    "example": "How many eggs did you buy?"
+  },
+  {
+    "word": "elementary",
+    "phonetic": "/ˌɛləˈmɛntri/",
+    "meaning": "초등의, 기초의, 초보의",
+    "example": "Was your elementary school a large school?"
+  },
+  {
+    "word": "else",
+    "phonetic": "/ɛls/",
+    "meaning": "그 밖에, 달리, 다른",
+    "example": "Who else does Tom work with?"
+  },
+  {
+    "word": "end",
+    "phonetic": "/ɛnd/",
+    "meaning": "끝, 마지막, 목적",
+    "example": "Tom waited at the end of the line."
+  },
+  {
+    "word": "english",
+    "phonetic": "/ˈɪŋɡlɪʃ/",
+    "meaning": "영어",
+    "example": "She reads English novels before going to bed every night."
+  },
+  {
+    "word": "enjoy",
+    "phonetic": "/ɪnˈdʒɔɪ/",
+    "meaning": "즐기다, 즐겁게 보내다",
+    "example": "We enjoyed listening to the music."
+  },
+  {
+    "word": "evening",
+    "phonetic": "/ˈivnɪŋ/",
+    "meaning": "저녁, 밤",
+    "example": "It'll be ready by six this evening."
+  },
+  {
+    "word": "everywhere",
+    "phonetic": "/ˈɛvriˌwɛr/",
+    "meaning": "어디에나, 곳곳에",
+    "example": "There were flowers everywhere in the park this spring."
+  },
+  {
+    "word": "example",
+    "phonetic": "/ɪɡˈzæmpəl/",
+    "meaning": "예, 보기",
+    "example": "Can you give me an example?"
+  },
+  {
+    "word": "excellent",
+    "phonetic": "/ˈɛksələnt/",
+    "meaning": "훌륭한, 뛰어난",
+    "example": "Her English is excellent after years of study abroad."
+  },
+  {
+    "word": "excited",
+    "phonetic": "/ɪkˈsaɪtɪd/",
+    "meaning": "신난, 들뜬, 흥분한",
+    "example": "I'm really excited at the prospect of working abroad."
+  },
+  {
+    "word": "exercise",
+    "phonetic": "/ˈɛksɚˌsaɪz/",
+    "meaning": "운동하다",
+    "example": "I don't exercise a lot these days."
+  },
+  {
+    "word": "expensive",
+    "phonetic": "/ɪkˈspɛnsɪv/",
+    "meaning": "비싼, 값비싼",
+    "example": "I was invited to an expensive Chinese restaurant."
+  },
+  {
+    "word": "eye",
+    "phonetic": "/aɪ/",
+    "meaning": "눈",
+    "example": "I could barely open my eyes."
+  },
+  {
+    "word": "face",
+    "phonetic": "/feɪs/",
+    "meaning": "얼굴, 표면, 면",
+    "example": "She made a funny face at the baby."
+  },
+  {
+    "word": "factory",
+    "phonetic": "/ˈfæktəri/",
+    "meaning": "공장",
+    "example": "My cousin started working at a food factory last month."
+  },
+  {
+    "word": "fairy",
+    "phonetic": "/ˈfɛri/",
+    "meaning": "요정",
+    "example": "The little girl dressed up as a fairy with wings for the party."
+  },
+  {
+    "word": "family",
+    "phonetic": "/ˈfæməli/",
+    "meaning": "가족, 식구, (생물) 과",
+    "example": "Tom grew up in a rich family."
+  },
+  {
+    "word": "famous",
+    "phonetic": "/ˈfeɪməs/",
+    "meaning": "유명한, 이름난",
+    "example": "My dream is to become a famous singer."
+  },
+  {
+    "word": "fan",
+    "phonetic": "/fæn/",
+    "meaning": "팬, 애호가, 선풍기",
+    "example": "Please turn on the fan because it is hot."
+  },
+  {
+    "word": "farm",
+    "phonetic": "/fɑrm/",
+    "meaning": "농장, 농원, 농사짓다",
+    "example": "We visited a dairy farm during our school trip."
+  },
+  {
+    "word": "farmer",
+    "phonetic": "/ˈfɑrmər/",
+    "meaning": "농부, 농민",
+    "example": "My uncle is a farmer who grows rice near the river."
+  },
+  {
+    "word": "fast",
+    "phonetic": "/fæst/",
+    "meaning": "빠른, 빨리, 신속히",
+    "example": "This train is much faster than the old bus."
+  },
+  {
+    "word": "fat",
+    "phonetic": "/fæt/",
+    "meaning": "뚱뚱한, 살찐, 두꺼운",
+    "example": "He read a fat book about history on the train."
+  },
+  {
+    "word": "father",
+    "phonetic": "/ˈfɑðɚ/",
+    "meaning": "아버지, 아빠, 신부님",
+    "example": "The father spoke kindly to the people after the service."
+  },
+  {
+    "word": "february",
+    "phonetic": "/ˈfɛbjuˌɛri/",
+    "meaning": "2월",
+    "example": "This warm weather is abnormal for February."
+  },
+  {
+    "word": "feel",
+    "phonetic": "/fil/",
+    "meaning": "느끼다, 기분이 들다, 만져 보다",
+    "example": "I could feel the wind on my face."
+  },
+  {
+    "word": "fell",
+    "phonetic": "/fɛl/",
+    "meaning": "베어 넘어뜨리다, 쓰러뜨리다",
+    "example": "A powerful punch can fell even a large opponent."
+  },
+  {
+    "word": "festival",
+    "phonetic": "/ˈfɛstəvəl/",
+    "meaning": "축제",
+    "example": "The town holds a lantern festival every autumn near the river."
+  },
+  {
+    "word": "field",
+    "phonetic": "/fiːld/",
+    "meaning": "들판, 밭, 분야",
+    "example": "The players ran onto the field before the game started."
+  },
+  {
+    "word": "fight",
+    "phonetic": "/faɪt/",
+    "meaning": "싸우다, 다투다, 맞서 싸우다",
+    "example": "Doctors are fighting the disease with new medicine."
+  },
+  {
+    "word": "find",
+    "phonetic": "/faɪnd/",
+    "meaning": "찾다, 발견하다, 알게 되다",
+    "example": "I find this book very interesting."
+  },
+  {
+    "word": "fine",
+    "phonetic": "/faɪn/",
+    "meaning": "괜찮은, 좋은, 훌륭한",
+    "example": "It's fine if you arrive a little late."
+  },
+  {
+    "word": "finish",
+    "phonetic": "/ˈfɪnɪʃ/",
+    "meaning": "끝내다, 마치다",
+    "example": "I need to finish it."
+  },
+  {
+    "word": "fire",
+    "phonetic": "/ˈfaɪɚ/",
+    "meaning": "불, 화재",
+    "example": "Tom sat down by the fire."
+  },
+  {
+    "word": "first",
+    "phonetic": "/fɝst/",
+    "meaning": "먼저, 처음으로",
+    "example": "I first met Mary in Seoul."
+  },
+  {
+    "word": "fish",
+    "phonetic": "/fɪʃ/",
+    "meaning": "물고기, 생선",
+    "example": "Let's grill the fish with lemon and herbs tonight."
+  },
+  {
+    "word": "fishing",
+    "phonetic": "/ˈfɪʃɪŋ/",
+    "meaning": "낚시, 어업, 고기잡이",
+    "example": "The lost fishing boat made a safe return to harbour."
+  },
+  {
+    "word": "flag",
+    "phonetic": "/flæɡ/",
+    "meaning": "깃발, 기, 표시",
+    "example": "The flag above the school waved in the wind."
+  },
+  {
+    "word": "floor",
+    "phonetic": "/flɔr/",
+    "meaning": "바닥, 층",
+    "example": "I don't like sitting on the floor."
+  },
+  {
+    "word": "flower",
+    "phonetic": "/ˈflaʊɚ/",
+    "meaning": "꽃, 화초",
+    "example": "Mary works at a flower shop."
+  },
+  {
+    "word": "fly",
+    "phonetic": "/flaɪ/",
+    "meaning": "날다, 비행기로 가다, 비행기를 조종하다",
+    "example": "We will fly from Seoul to Busan tomorrow morning."
+  },
+  {
+    "word": "food",
+    "phonetic": "/fuːd/",
+    "meaning": "음식, 식품",
+    "example": "I want to eat Korean food."
+  },
+  {
+    "word": "football",
+    "phonetic": "/ˈfʊtˌbɔl/",
+    "meaning": "축구, 미식축구",
+    "example": "In football, only goalkeepers can normally handle the ball."
+  },
+  {
+    "word": "free",
+    "phonetic": "/fri/",
+    "meaning": "무료의, 공짜의, 자유로운",
+    "example": "Coffee is free for all members on Thursday."
+  },
+  {
+    "word": "french",
+    "phonetic": "/frɛntʃ/",
+    "meaning": "프랑스어, 프랑스의",
+    "example": "I read a French book."
+  },
+  {
+    "word": "friday",
+    "phonetic": "/ˈfraɪdeɪ/",
+    "meaning": "금요일",
+    "example": "The store closes early on Friday, so shop before five."
+  },
+  {
+    "word": "friend",
+    "phonetic": "/frɛnd/",
+    "meaning": "친구",
+    "example": "I met a new friend at the library today."
+  },
+  {
+    "word": "frog",
+    "phonetic": "/frɑɡ/",
+    "meaning": "개구리",
+    "example": "The frogs' croaking helped me fall asleep."
+  },
+  {
+    "word": "front",
+    "phonetic": "/frʌnt/",
+    "meaning": "앞, 앞쪽, 정면, (전쟁의) 전선",
+    "example": "Please wait at the front of the building."
+  },
+  {
+    "word": "fruit",
+    "phonetic": "/frut/",
+    "meaning": "과일, 열매, 성과",
+    "example": "He eats nothing other than fruit."
+  },
+  {
+    "word": "full",
+    "phonetic": "/fʊl/",
+    "meaning": "가득한, 꽉 찬, 배부른",
+    "example": "I am full, so I cannot eat any more."
+  },
+  {
+    "word": "fun",
+    "phonetic": "/fʌn/",
+    "meaning": "재미, 즐거움",
+    "example": "This game is a lot of fun."
+  },
+  {
+    "word": "funny",
+    "phonetic": "/ˈfʌni/",
+    "meaning": "웃긴, 재미있는, 이상한",
+    "example": "This milk tastes a little funny to me."
+  },
+  {
+    "word": "future",
+    "phonetic": "/ˈfjuːtʃɚ/",
+    "meaning": "미래",
+    "example": "We study the past for the sake of the future."
+  },
+  {
+    "word": "game",
+    "phonetic": "/ɡeɪm/",
+    "meaning": "게임, 놀이, 경기",
+    "example": "We watched the game on TV last night."
+  },
+  {
+    "word": "garden",
+    "phonetic": "/ˈɡɑɹdn̩/",
+    "meaning": "정원, 뜰",
+    "example": "The cat is playing in the garden."
+  },
+  {
+    "word": "get",
+    "phonetic": "/ɡɛt/",
+    "meaning": "받다, 얻다, ~해지다",
+    "example": "It gets cold in Seoul in winter."
+  },
+  {
+    "word": "gift",
+    "phonetic": "/ɡɪft/",
+    "meaning": "선물, 재능, 타고난 소질",
+    "example": "Mary has a gift for learning foreign languages quickly."
+  },
+  {
+    "word": "girl",
+    "phonetic": "/gɝl/",
+    "meaning": "소녀, 여자아이, 딸",
+    "example": "The little girl is playing in the garden."
+  },
+  {
+    "word": "girlfriend",
+    "phonetic": "/ˈɡɝlfrɛnd/",
+    "meaning": "여자친구",
+    "example": "My sister introduced me to her new girlfriend at dinner."
+  },
+  {
+    "word": "give",
+    "phonetic": "/ɡɪv/",
+    "meaning": "주다, (시간·기회를) 주다, 베풀다",
+    "example": "Please give me a little more time."
+  },
+  {
+    "word": "glad",
+    "phonetic": "/ɡlæd/",
+    "meaning": "기쁜, 반가운",
+    "example": "I'm glad to hear Tom did that."
+  },
+  {
+    "word": "glass",
+    "phonetic": "/glæs/",
+    "meaning": "유리, 유리잔, 컵",
+    "example": "What about a glass of beer?"
+  },
+  {
+    "word": "glasses",
+    "phonetic": "/ˈɡlæsɪz/",
+    "meaning": "안경, 유리잔, 잔",
+    "example": "Mary put four glasses on the table for dinner."
+  },
+  {
+    "word": "go",
+    "phonetic": "/goʊ/",
+    "meaning": "가다, 떠나다, 진행되다",
+    "example": "I go to the park."
+  },
+  {
+    "word": "goal",
+    "phonetic": "/goʊl/",
+    "meaning": "목표, 목적, 골",
+    "example": "My goal in life is to be a novelist."
+  },
+  {
+    "word": "gold",
+    "phonetic": "/ɡoʊld/",
+    "meaning": "금, 황금",
+    "example": "The ring is made of pure gold."
+  },
+  {
+    "word": "good",
+    "phonetic": "/ɡʊd/",
+    "meaning": "좋은, 훌륭한, 착한",
+    "example": "Mary is a good cook who enjoys baking."
+  },
+  {
+    "word": "goodbye",
+    "phonetic": "/ɡʊdˈbaɪ/",
+    "meaning": "작별 인사, 작별",
+    "example": "Go say goodbye to Tom."
+  },
+  {
+    "word": "grandfather",
+    "phonetic": "/ˈɡrænˌfɑðɚ/",
+    "meaning": "할아버지",
+    "example": "Tom is like his grandfather."
+  },
+  {
+    "word": "grandma",
+    "phonetic": "/ˈɡrænˌmɑ/",
+    "meaning": "할머니",
+    "example": "My grandma makes the best apple pie in town."
+  },
+  {
+    "word": "grandmother",
+    "phonetic": "/ˈɡrænˌmʌðər/",
+    "meaning": "할머니",
+    "example": "My grandmother used to tell me pleasant fairy tales."
+  },
+  {
+    "word": "grandpa",
+    "phonetic": "/ˈɡrænˌpɑ/",
+    "meaning": "할아버지",
+    "example": "My grandpa tells the funniest stories about his childhood."
+  },
+  {
+    "word": "grandparent",
+    "phonetic": "/ˈɡrænˌpɛrənt/",
+    "meaning": "할아버지, 할머니",
+    "example": "Tom's grandparents live in a small village near Busan."
+  },
+  {
+    "word": "grape",
+    "phonetic": "/ɡreɪp/",
+    "meaning": "포도",
+    "example": "Tom peeled a grape and handed it to Mary as a snack."
+  },
+  {
+    "word": "grass",
+    "phonetic": "/græs/",
+    "meaning": "풀, 잔디",
+    "example": "The cows were eating fresh grass in the field."
+  },
+  {
+    "word": "great",
+    "phonetic": "/ɡreɪt/",
+    "meaning": "훌륭한, 정말 좋은, 큰",
+    "example": "A great crowd gathered in the square."
+  },
+  {
+    "word": "green",
+    "phonetic": "/ɡrin/",
+    "meaning": "초록색의, 녹색의, 친환경의",
+    "example": "Mary was still green when she joined the team."
+  },
+  {
+    "word": "ground",
+    "phonetic": "/ɡraʊnd/",
+    "meaning": "땅, 지면, 운동장",
+    "example": "The workers dug a deep hole in the ground."
+  },
+  {
+    "word": "group",
+    "phonetic": "/ɡrup/",
+    "meaning": "집단, 그룹, 무리",
+    "example": "I work better alone than in a group."
+  },
+  {
+    "word": "grow",
+    "phonetic": "/ɡroʊ/",
+    "meaning": "자라다, 성장하다, 기르다",
+    "example": "My father grows tomatoes in the small garden."
+  },
+  {
+    "word": "guest",
+    "phonetic": "/gɛst/",
+    "meaning": "손님, 초대 손님",
+    "example": "Every guest at the wedding received a small thank-you card."
+  },
+  {
+    "word": "guitar",
+    "phonetic": "/ɡɪˈtɑr/",
+    "meaning": "기타",
+    "example": "Tom practices the guitar every evening after dinner."
+  },
+  {
+    "word": "hair",
+    "phonetic": "/hɛr/",
+    "meaning": "머리카락, 털",
+    "example": "She brushed her wet hair before going out into the cold wind."
+  },
+  {
+    "word": "haircut",
+    "phonetic": "/ˈhɛrˌkʌt/",
+    "meaning": "이발, 머리 자르기, 머리 모양",
+    "example": "He got a short haircut for the summer heat."
+  },
+  {
+    "word": "half",
+    "phonetic": "/hæf/",
+    "meaning": "반, 절반",
+    "example": "Cut the cake in half, please."
+  },
+  {
+    "word": "hamburger",
+    "phonetic": "/ˈhæmˌbɝɡɚ/",
+    "meaning": "햄버거",
+    "example": "Let's grab a hamburger and fries before the movie starts."
+  },
+  {
+    "word": "hand",
+    "phonetic": "/hænd/",
+    "meaning": "손",
+    "example": "Your hand is as cold as ice."
+  },
+  {
+    "word": "happen",
+    "phonetic": "/ˈhæpən/",
+    "meaning": "일어나다, 발생하다, 우연히 ~하다",
+    "example": "I happened to see Mary at the station yesterday."
+  },
+  {
+    "word": "happy",
+    "phonetic": "/ˈhæpi/",
+    "meaning": "행복한, 만족한",
+    "example": "I was happy to help you."
+  },
+  {
+    "word": "hard",
+    "phonetic": "/hɑrd/",
+    "meaning": "어려운, 힘든, 단단한",
+    "example": "The ground was too hard to dig."
+  },
+  {
+    "word": "hat",
+    "phonetic": "/hæt/",
+    "meaning": "모자",
+    "example": "Tom left his hat on the bus this morning."
+  },
+  {
+    "word": "head",
+    "phonetic": "/hɛd/",
+    "meaning": "머리, 우두머리, 책임자",
+    "example": "Tom rested his head on a soft pillow."
+  },
+  {
+    "word": "headache",
+    "phonetic": "/ˈhɛdˌeɪk/",
+    "meaning": "두통, 골칫거리",
+    "example": "Parking in this city is a real headache."
+  },
+  {
+    "word": "health",
+    "phonetic": "/hɛlθ/",
+    "meaning": "건강",
+    "example": "I assure you I'm in perfect health."
+  },
+  {
+    "word": "healthy",
+    "phonetic": "/ˈhɛlθi/",
+    "meaning": "건강한, 건강에 좋은",
+    "example": "Eating vegetables every day is a healthy habit."
+  },
+  {
+    "word": "hear",
+    "phonetic": "/hɪɹ/",
+    "meaning": "듣다, 청취하다",
+    "example": "Did you hear it too?"
+  },
+  {
+    "word": "heart",
+    "phonetic": "/hɑrt/",
+    "meaning": "심장, 마음, 심정",
+    "example": "Tom is a man with a good heart."
+  },
+  {
+    "word": "heavy",
+    "phonetic": "/ˈhɛvi/",
+    "meaning": "무거운, 심한, 많은",
+    "example": "The boy tried to move the heavy sofa."
+  },
+  {
+    "word": "help",
+    "phonetic": "/hɛlp/",
+    "meaning": "돕다, 도와주다, 덜어 먹다",
+    "example": "Please help yourself to some more cake."
+  },
+  {
+    "word": "here",
+    "phonetic": "/hɪr/",
+    "meaning": "여기에, 여기서, 자, 여기",
+    "example": "He is no longer here."
+  },
+  {
+    "word": "high",
+    "phonetic": "/haɪ/",
+    "meaning": "높은, 고등의",
+    "example": "I was popular in high school."
+  },
+  {
+    "word": "hill",
+    "phonetic": "/hɪl/",
+    "meaning": "언덕, 야트막한 산",
+    "example": "From the top of that hill, you can see the whole city."
+  },
+  {
+    "word": "history",
+    "phonetic": "/ˈhɪstri/",
+    "meaning": "역사, 이력, 내력",
+    "example": "The doctor asked about Tom's medical history."
+  },
+  {
+    "word": "hobby",
+    "phonetic": "/ˈhɑbi/",
+    "meaning": "취미",
+    "example": "Reading is one of my hobbies."
+  },
+  {
+    "word": "hole",
+    "phonetic": "/hoʊl/",
+    "meaning": "구멍",
+    "example": "An ant hole can bring down a river bank."
+  },
+  {
+    "word": "holiday",
+    "phonetic": "/ˈhɑləˌdeɪ/",
+    "meaning": "휴일, 공휴일, 휴가",
+    "example": "I was in the middle of my holiday."
+  },
+  {
+    "word": "home",
+    "phonetic": "/hoʊm/",
+    "meaning": "집, 가정, 고향",
+    "example": "Busan is my home, and I miss it."
+  },
+  {
+    "word": "hometown",
+    "phonetic": "/ˈhoʊmˌtaʊn/",
+    "meaning": "고향",
+    "example": "Every summer, I take the train back to my hometown in Busan."
+  },
+  {
+    "word": "homework",
+    "phonetic": "/ˈhoʊmˌwɝk/",
+    "meaning": "숙제",
+    "example": "Today, I have a lot of homework."
+  },
+  {
+    "word": "hope",
+    "phonetic": "/hoʊp/",
+    "meaning": "바라다, 희망하다",
+    "example": "We hope the rain will stop before the picnic."
+  },
+  {
+    "word": "horse",
+    "phonetic": "/hɔrs/",
+    "meaning": "말",
+    "example": "A horse needs fresh water and food every day."
+  },
+  {
+    "word": "hospital",
+    "phonetic": "/ˈhɑspɪtəl/",
+    "meaning": "병원",
+    "example": "Take me to a hospital."
+  },
+  {
+    "word": "hot",
+    "phonetic": "/hɑt/",
+    "meaning": "뜨거운, 더운, 매운",
+    "example": "This soup is too hot for me to eat."
+  },
+  {
+    "word": "hotel",
+    "phonetic": "/hoʊˈtɛl/",
+    "meaning": "호텔",
+    "example": "We booked a hotel near the beach for three nights."
+  },
+  {
+    "word": "hour",
+    "phonetic": "/ˈaʊɚ/",
+    "meaning": "시간, 한 시간, 시각",
+    "example": "Why are you calling me at this late hour?"
+  },
+  {
+    "word": "house",
+    "phonetic": "/haʊs/",
+    "meaning": "집, 주택, 관객",
+    "example": "The whole house stood up and clapped."
+  },
+  {
+    "word": "how",
+    "phonetic": "/haʊ/",
+    "meaning": "어떻게, 얼마나, 정말",
+    "example": "How do you say it?"
+  },
+  {
+    "word": "hungry",
+    "phonetic": "/ˈhʌŋgri/",
+    "meaning": "배고픈, 굶주린, 갈망하는",
+    "example": "The young players are hungry for success this season."
+  },
+  {
+    "word": "hurry",
+    "phonetic": "/ˈhɝi/",
+    "meaning": "서두르다, 서둘러 가다, 서두름",
+    "example": "She left in a hurry and forgot her umbrella."
+  },
+  {
+    "word": "hurt",
+    "phonetic": "/hɝt/",
+    "meaning": "아프다, 다치게 하다, 해치다",
+    "example": "I am sorry that my words hurt your feelings yesterday."
+  },
+  {
+    "word": "husband",
+    "phonetic": "/ˈhʌzbənd/",
+    "meaning": "남편",
+    "example": "Her husband usually cooks dinner for the family."
+  },
+  {
+    "word": "ice",
+    "phonetic": "/aɪs/",
+    "meaning": "얼음, 빙판",
+    "example": "The ice is thick enough to walk on."
+  },
+  {
+    "word": "idea",
+    "phonetic": "/aɪˈdiə/",
+    "meaning": "아이디어, 생각",
+    "example": "That is a clever idea for saving money on groceries."
+  },
+  {
+    "word": "imagine",
+    "phonetic": "/ɪˈmædʒɪn/",
+    "meaning": "상상하다, 추측하다, 짐작하다",
+    "example": "I imagine he will be late again today."
+  },
+  {
+    "word": "important",
+    "phonetic": "/ɪmˈpɔrtənt/",
+    "meaning": "중요한",
+    "example": "It is important to drink enough water every day."
+  },
+  {
+    "word": "information",
+    "phonetic": "/ˌɪnfərˈmeɪʃən/",
+    "meaning": "정보, 안내",
+    "example": "Please ask at the desk for information about tickets."
+  },
+  {
+    "word": "interested",
+    "phonetic": "/ˈɪntrəstɪd/",
+    "meaning": "관심 있는, 흥미를 느끼는",
+    "example": "I know you're not interested."
+  },
+  {
+    "word": "interesting",
+    "phonetic": "/ˈɪntrəstɪŋ/",
+    "meaning": "흥미로운, 재미있는",
+    "example": "That was an interesting story."
+  },
+  {
+    "word": "interview",
+    "phonetic": "/ˈɪntɚˌvju/",
+    "meaning": "면접, 인터뷰, 회견",
+    "example": "The actor gave an interview to a local newspaper."
+  },
+  {
+    "word": "introduce",
+    "phonetic": "/ˌɪntrəˈdus/",
+    "meaning": "소개하다, 도입하다",
+    "example": "The school will introduce a new rule next month."
+  },
+  {
+    "word": "island",
+    "phonetic": "/ˈaɪlənd/",
+    "meaning": "섬",
+    "example": "There are many islands near the southern coast."
+  },
+  {
+    "word": "jacket",
+    "phonetic": "/ˈdʒækɪt/",
+    "meaning": "재킷, 상의",
+    "example": "Mary found a long blonde hair on Tom's jacket."
+  },
+  {
+    "word": "january",
+    "phonetic": "/ˈdʒænjuˌɛri/",
+    "meaning": "1월, 일월",
+    "example": "Tom starts his new gym routine every January after the holidays end."
+  },
+  {
+    "word": "jeans",
+    "phonetic": "/dʒiːnz/",
+    "meaning": "청바지",
+    "example": "Tom wore jeans and a cowboy hat."
+  },
+  {
+    "word": "job",
+    "phonetic": "/dʒɑb/",
+    "meaning": "직업, 일자리, 일",
+    "example": "Cleaning the kitchen is my job tonight."
+  },
+  {
+    "word": "join",
+    "phonetic": "/dʒɔɪn/",
+    "meaning": "함께하다, 가입하다, 참가하다",
+    "example": "The two roads join near the bridge."
+  },
+  {
+    "word": "juice",
+    "phonetic": "/dʒuːs/",
+    "meaning": "주스",
+    "example": "Would you like some orange juice with your breakfast this morning?"
+  },
+  {
+    "word": "july",
+    "phonetic": "/dʒuˈlaɪ/",
+    "meaning": "7월",
+    "example": "Tom starts his summer vacation in July every year."
+  },
+  {
+    "word": "jump",
+    "phonetic": "/dʒʌmp/",
+    "meaning": "뛰다, 뛰어오르다, 뛰어넘다",
+    "example": "The horse jumped over the low fence easily."
+  },
+  {
+    "word": "june",
+    "phonetic": "/dʒun/",
+    "meaning": "6월, 유월",
+    "example": "Mary's birthday is in June, so we plan a party."
+  },
+  {
+    "word": "just",
+    "phonetic": "/dʒʌst/",
+    "meaning": "그냥, 단지, 그저",
+    "example": "This is just what I needed today."
+  },
+  {
+    "word": "keep",
+    "phonetic": "/kiːp/",
+    "meaning": "가지고 있다, 보관하다, 유지하다",
+    "example": "You can keep the change."
+  },
+  {
+    "word": "key",
+    "phonetic": "/ki/",
+    "meaning": "열쇠, 키, 비결",
+    "example": "Hard work is the key to success."
+  },
+  {
+    "word": "kick",
+    "phonetic": "/kɪk/",
+    "meaning": "차다, 걷어차다, 쫓아내다",
+    "example": "Have you ever been kicked out of a bar?"
+  },
+  {
+    "word": "kid",
+    "phonetic": "/kɪd/",
+    "meaning": "아이, 어린이, 새끼 염소",
+    "example": "I hope my kids are safe."
+  },
+  {
+    "word": "kind",
+    "phonetic": "/kaɪnd/",
+    "meaning": "친절한, 상냥한, 종류",
+    "example": "Our new teacher is patient and kind to us."
+  },
+  {
+    "word": "king",
+    "phonetic": "/kɪŋ/",
+    "meaning": "왕, 임금",
+    "example": "The lion is the king of the jungle."
+  },
+  {
+    "word": "kitchen",
+    "phonetic": "/ˈkɪtʃən/",
+    "meaning": "부엌, 주방",
+    "example": "Mary is cooking dinner in the kitchen."
+  },
+  {
+    "word": "kite",
+    "phonetic": "/kaɪt/",
+    "meaning": "연, 솔개",
+    "example": "The children flew a colorful kite in the park."
+  },
+  {
+    "word": "knee",
+    "phonetic": "/ni/",
+    "meaning": "무릎",
+    "example": "The child scraped his knee when he fell off the bicycle."
+  },
+  {
+    "word": "knife",
+    "phonetic": "/naɪf/",
+    "meaning": "칼, 나이프",
+    "example": "I need a knife to cut the rope."
+  },
+  {
+    "word": "know",
+    "phonetic": "/noʊ/",
+    "meaning": "알다, 알고 지내다",
+    "example": "I know who he is."
+  },
+  {
+    "word": "lady",
+    "phonetic": "/ˈleɪdi/",
+    "meaning": "여성, 숙녀, 부인",
+    "example": "That lady over there is waiting for the bus."
+  },
+  {
+    "word": "language",
+    "phonetic": "/ˈlæŋɡwɪdʒ/",
+    "meaning": "언어, 말, 표현",
+    "example": "Legal language is hard for most people to understand."
+  },
+  {
+    "word": "large",
+    "phonetic": "/lɑːrdʒ/",
+    "meaning": "큰, 넓은, 많은",
+    "example": "A large number of people came to the concert."
+  },
+  {
+    "word": "late",
+    "phonetic": "/leɪt/",
+    "meaning": "늦은, 지각한, 늦은 시간의",
+    "example": "He wrote this in his late years."
+  },
+  {
+    "word": "later",
+    "phonetic": "/ˈleɪtɚ/",
+    "meaning": "나중에, 이후에",
+    "example": "I will call you later, because I am busy now."
+  },
+  {
+    "word": "laugh",
+    "phonetic": "/læf/",
+    "meaning": "웃다, 비웃다",
+    "example": "The children began to laugh when the clown fell down."
+  },
+  {
+    "word": "lazy",
+    "phonetic": "/ˈleɪzi/",
+    "meaning": "게으른",
+    "example": "I know Tom is a lazy kid."
+  },
+  {
+    "word": "leader",
+    "phonetic": "/ˈliːdɚ/",
+    "meaning": "지도자, 리더, 선두 주자",
+    "example": "Tom is the leader in the race so far."
+  },
+  {
+    "word": "leaf",
+    "phonetic": "/lif/",
+    "meaning": "잎, 잎사귀, 책장",
+    "example": "Tom turned over a leaf and kept reading the old book."
+  },
+  {
+    "word": "learn",
+    "phonetic": "/lɝn/",
+    "meaning": "배우다, 익히다, 알게 되다",
+    "example": "We learned about the accident this morning."
+  },
+  {
+    "word": "leave",
+    "phonetic": "/liv/",
+    "meaning": "떠나다, 나가다, 남기다",
+    "example": "The train leaves at nine every morning."
+  },
+  {
+    "word": "left",
+    "phonetic": "/lɛft/",
+    "meaning": "왼쪽의, 좌측의",
+    "example": "Mary writes with her left hand, not her right."
+  },
+  {
+    "word": "leg",
+    "phonetic": "/lɛɡ/",
+    "meaning": "다리, (가구의) 다리",
+    "example": "One leg of the table is shorter than the others."
+  },
+  {
+    "word": "lesson",
+    "phonetic": "/ˈlɛsən/",
+    "meaning": "수업, 레슨, 교훈",
+    "example": "She teaches lessons in math, physics, and biology."
+  },
+  {
+    "word": "let",
+    "phonetic": "/lɛt/",
+    "meaning": "허락하다, ~하게 놔두다, 세놓다",
+    "example": "They let the spare room to a student."
+  },
+  {
+    "word": "letter",
+    "phonetic": "/ˈlɛɾɚ/",
+    "meaning": "편지, 글자, 문자",
+    "example": "I wrote a long letter to her."
+  },
+  {
+    "word": "library",
+    "phonetic": "/ˈlaɪˌbrɛri/",
+    "meaning": "도서관, 서재, 장서",
+    "example": "Our city has a library near the station."
+  },
+  {
+    "word": "life",
+    "phonetic": "/laɪf/",
+    "meaning": "삶, 인생, 목숨",
+    "example": "I want to live a happy life."
+  },
+  {
+    "word": "light",
+    "phonetic": "/laɪt/",
+    "meaning": "빛, 불빛, 전등",
+    "example": "Could I turn off the light?"
+  },
+  {
+    "word": "line",
+    "phonetic": "/laɪn/",
+    "meaning": "선, 줄, 열",
+    "example": "I phoned Mary, but the line was busy."
+  },
+  {
+    "word": "lion",
+    "phonetic": "/ˈlaɪən/",
+    "meaning": "(동물) 사자",
+    "example": "Tom saw a lion at the zoo."
+  },
+  {
+    "word": "list",
+    "phonetic": "/lɪst/",
+    "meaning": "목록, 명단",
+    "example": "Please check the shopping list before you leave."
+  },
+  {
+    "word": "listen",
+    "phonetic": "/ˈlɪsən/",
+    "meaning": "듣다, 귀를 기울이다, 말을 듣다",
+    "example": "Please listen carefully because the teacher will explain the homework rules."
+  },
+  {
+    "word": "little",
+    "phonetic": "/ˈlɪtəl/",
+    "meaning": "작은, 어린, 거의 없는",
+    "example": "They live in a little house near the sea."
+  },
+  {
+    "word": "live",
+    "phonetic": "/lɪv/",
+    "meaning": "살다, 거주하다, 생존하다",
+    "example": "He lived a hard life."
+  },
+  {
+    "word": "long",
+    "phonetic": "/lɔŋ/",
+    "meaning": "긴, 길쭉한, 오랜",
+    "example": "It is a long way to Busan."
+  },
+  {
+    "word": "look",
+    "phonetic": "/lʊk/",
+    "meaning": "보다, 쳐다보다, ~해 보이다",
+    "example": "Please look for your keys under the sofa."
+  },
+  {
+    "word": "lot",
+    "phonetic": "/lɑt/",
+    "meaning": "많은 양, 많은 수, 부지",
+    "example": "We parked the car in the lot."
+  },
+  {
+    "word": "love",
+    "phonetic": "/lʌv/",
+    "meaning": "사랑하다, 아주 좋아하다, 즐기다",
+    "example": "I no longer love Tom."
+  },
+  {
+    "word": "lovely",
+    "phonetic": "/ˈlʌvli/",
+    "meaning": "사랑스러운, 아름다운, 멋진",
+    "example": "We had a lovely time at the beach yesterday."
+  },
+  {
+    "word": "luck",
+    "phonetic": "/lʌk/",
+    "meaning": "운, 행운",
+    "example": "Good luck on your exam tomorrow morning, Tom."
+  },
+  {
+    "word": "lucky",
+    "phonetic": "/ˈlʌki/",
+    "meaning": "운이 좋은, 행운의",
+    "example": "Tom was lucky to find a seat on the crowded train."
+  },
+  {
+    "word": "lunch",
+    "phonetic": "/lʌntʃ/",
+    "meaning": "점심, 점심 식사",
+    "example": "I want Tom to eat lunch with me."
+  },
+  {
+    "word": "machine",
+    "phonetic": "/məˈʃiːn/",
+    "meaning": "기계",
+    "example": "You can buy the ticket from the vending machine too."
+  },
+  {
+    "word": "mail",
+    "phonetic": "/meɪl/",
+    "meaning": "우편, 우편물, 이메일",
+    "example": "I checked my mail before leaving the office today."
+  },
+  {
+    "word": "make",
+    "phonetic": "/meɪk/",
+    "meaning": "만들다, ~하게 하다, ~시키다",
+    "example": "I need to make a phone call."
+  },
+  {
+    "word": "man",
+    "phonetic": "/mæn/",
+    "meaning": "남자, 남성, 인간",
+    "example": "The man at the door is waiting for you."
+  },
+  {
+    "word": "map",
+    "phonetic": "/mæp/",
+    "meaning": "지도",
+    "example": "Show me where the nearest station is on the map."
+  },
+  {
+    "word": "maybe",
+    "phonetic": "/ˈmeɪbi/",
+    "meaning": "아마, 어쩌면",
+    "example": "Maybe I should talk to her."
+  },
+  {
+    "word": "mean",
+    "phonetic": "/miːn/",
+    "meaning": "의미하다, 뜻하다, 의도하다",
+    "example": "I did not mean to hurt you."
+  },
+  {
+    "word": "meat",
+    "phonetic": "/miːt/",
+    "meaning": "고기, 육류",
+    "example": "I'm going to cut down on meat."
+  },
+  {
+    "word": "medicine",
+    "phonetic": "/ˈmɛdəsən/",
+    "meaning": "약, 약물, 의학",
+    "example": "I don't want to study medicine."
+  },
+  {
+    "word": "meet",
+    "phonetic": "/miːt/",
+    "meaning": "만나다, 충족시키다, 지키다",
+    "example": "We must meet the deadline this Friday."
+  },
+  {
+    "word": "meeting",
+    "phonetic": "/ˈmitɪŋ/",
+    "meaning": "회의, 모임",
+    "example": "We have a team meeting every Monday morning."
+  },
+  {
+    "word": "message",
+    "phonetic": "/ˈmɛsɪdʒ/",
+    "meaning": "메시지, 전갈",
+    "example": "Would you like me to take a message?"
+  },
+  {
+    "word": "middle",
+    "phonetic": "/ˈmɪdəl/",
+    "meaning": "중간, 중앙, 허리",
+    "example": "The water came up to his middle."
+  },
+  {
+    "word": "milk",
+    "phonetic": "/mɪlk/",
+    "meaning": "우유, 젖",
+    "example": "The milk is in the fridge."
+  },
+  {
+    "word": "minute",
+    "phonetic": "/ˈmɪnɪt/",
+    "meaning": "분, 잠깐, 순간",
+    "example": "Wait a minute, I will be right back."
+  },
+  {
+    "word": "miss",
+    "phonetic": "/mɪs/",
+    "meaning": "놓치다, 그리워하다, 빠지다",
+    "example": "I had to miss class because I was sick."
+  },
+  {
+    "word": "mom",
+    "phonetic": "/mɑm/",
+    "meaning": "엄마, 어머니",
+    "example": "Mom is making a cake."
+  },
+  {
+    "word": "money",
+    "phonetic": "/ˈmʌni/",
+    "meaning": "돈",
+    "example": "I have money for you."
+  },
+  {
+    "word": "monkey",
+    "phonetic": "/ˈmʌŋki/",
+    "meaning": "원숭이",
+    "example": "A curious monkey climbed the tree and stole a banana from the tourist."
+  },
+  {
+    "word": "month",
+    "phonetic": "/mʌnθ/",
+    "meaning": "달, 개월",
+    "example": "A year has twelve months."
+  },
+  {
+    "word": "moon",
+    "phonetic": "/muːn/",
+    "meaning": "달, 위성",
+    "example": "Jupiter has dozens of moons orbiting around it."
+  },
+  {
+    "word": "morning",
+    "phonetic": "/ˈmɔrnɪŋ/",
+    "meaning": "아침, 오전",
+    "example": "Who woke Tom up this morning?"
+  },
+  {
+    "word": "mother",
+    "phonetic": "/ˈmʌðɚ/",
+    "meaning": "어머니, 엄마",
+    "example": "My mother cooks dinner for us every evening."
+  },
+  {
+    "word": "mountain",
+    "phonetic": "/ˈmaʊntn/",
+    "meaning": "산",
+    "example": "They were too tired to climb a mountain."
+  },
+  {
+    "word": "mouse",
+    "phonetic": "/maʊs/",
+    "meaning": "쥐, 생쥐, 마우스",
+    "example": "A small mouse ran across the kitchen floor last night."
+  },
+  {
+    "word": "mouth",
+    "phonetic": "/maʊθ/",
+    "meaning": "입",
+    "example": "You took the words right out of my mouth."
+  },
+  {
+    "word": "move",
+    "phonetic": "/muv/",
+    "meaning": "움직이다, 옮기다, 이사하다",
+    "example": "We are going to move to Seoul next month."
+  },
+  {
+    "word": "movie",
+    "phonetic": "/ˈmuvi/",
+    "meaning": "영화",
+    "example": "I meet my friend and watch a movie."
+  },
+  {
+    "word": "music",
+    "phonetic": "/ˈmjuzɪk/",
+    "meaning": "음악",
+    "example": "I like music as well."
+  },
+  {
+    "word": "musician",
+    "phonetic": "/mjuˈzɪʃən/",
+    "meaning": "음악가, 연주자",
+    "example": "Tom is the only professional musician I know."
+  },
+  {
+    "word": "name",
+    "phonetic": "/neɪm/",
+    "meaning": "이름, 성명, 명성",
+    "example": "The company has a good name in this industry."
+  },
+  {
+    "word": "neck",
+    "phonetic": "/nɛk/",
+    "meaning": "목",
+    "example": "My neck hurts after sleeping on the sofa all night."
+  },
+  {
+    "word": "never",
+    "phonetic": "/ˈnɛvɚ/",
+    "meaning": "결코 ~ 않다, 한 번도 ~ 않다",
+    "example": "Tom will never catch me."
+  },
+  {
+    "word": "new",
+    "phonetic": "/nu/",
+    "meaning": "새로운, 새, 처음 접하는",
+    "example": "Everything is new to me here."
+  },
+  {
+    "word": "news",
+    "phonetic": "/nuz/",
+    "meaning": "뉴스, 소식",
+    "example": "This news is important to us."
+  },
+  {
+    "word": "newspaper",
+    "phonetic": "/ˈnuzˌpeɪpər/",
+    "meaning": "신문",
+    "example": "He reads the newspaper every morning."
+  },
+  {
+    "word": "nice",
+    "phonetic": "/naɪs/",
+    "meaning": "좋은, 멋진, 친절한",
+    "example": "We had a nice time at the beach."
+  },
+  {
+    "word": "night",
+    "phonetic": "/naɪt/",
+    "meaning": "밤",
+    "example": "He sat up all night."
+  },
+  {
+    "word": "no",
+    "phonetic": "/noʊ/",
+    "meaning": "아니요, 아니, 조금도 ~않게",
+    "example": "This old computer is no faster than mine."
+  },
+  {
+    "word": "noise",
+    "phonetic": "/nɔɪz/",
+    "meaning": "소음, 소리",
+    "example": "The noise from the street kept me awake all night."
+  },
+  {
+    "word": "nose",
+    "phonetic": "/noʊz/",
+    "meaning": "코",
+    "example": "My nose is stuffed up."
+  },
+  {
+    "word": "not",
+    "phonetic": "/nɑt/",
+    "meaning": "않다, 아니다",
+    "example": "Tom is not a liar."
+  },
+  {
+    "word": "note",
+    "phonetic": "/noʊt/",
+    "meaning": "메모, 쪽지, 음, 음표",
+    "example": "She played the high note on the piano very softly."
+  },
+  {
+    "word": "notebook",
+    "phonetic": "/ˈnoʊtˌbʊk/",
+    "meaning": "공책, 노트, 노트북",
+    "example": "Please write the new words in your notebook."
+  },
+  {
+    "word": "november",
+    "phonetic": "/noʊˈvɛmbɚ/",
+    "meaning": "11월",
+    "example": "Our class trip to the museum is planned for November."
+  },
+  {
+    "word": "now",
+    "phonetic": "/naʊ/",
+    "meaning": "지금, 이제",
+    "example": "I have to go now."
+  },
+  {
+    "word": "number",
+    "phonetic": "/ˈnʌmbɚ/",
+    "meaning": "번호, 수, 숫자",
+    "example": "A large number of people came to the show."
+  },
+  {
+    "word": "nurse",
+    "phonetic": "/nɝs/",
+    "meaning": "간호사, 유모",
+    "example": "The rich family hired a nurse for their baby."
+  },
+  {
+    "word": "o'clock",
+    "phonetic": "/əˈklɑk/",
+    "meaning": "~시, 정각",
+    "example": "I get up every morning at six o'clock."
+  },
+  {
+    "word": "october",
+    "phonetic": "/ɑːkˈtoʊbɚ/",
+    "meaning": "10월, 시월",
+    "example": "We'll meet again in October."
+  },
+  {
+    "word": "off",
+    "phonetic": "/ɔf/",
+    "meaning": "떨어져, 벗겨져, 꺼져",
+    "example": "Please turn the lights off before you leave."
+  },
+  {
+    "word": "office",
+    "phonetic": "/ˈɔfɪs/",
+    "meaning": "사무실",
+    "example": "Tom and Mary work in the same office."
+  },
+  {
+    "word": "often",
+    "phonetic": "/ˈɔfən/",
+    "meaning": "자주, 종종",
+    "example": "Tom often sings in his car."
+  },
+  {
+    "word": "okay",
+    "phonetic": "/oʊˈkeɪ/",
+    "meaning": "괜찮은, 좋은, 그저 그런",
+    "example": "The food was okay, but nothing special."
+  },
+  {
+    "word": "old",
+    "phonetic": "/oʊld/",
+    "meaning": "늙은, 나이 든, 오래된",
+    "example": "This old chair belonged to my grandmother."
+  },
+  {
+    "word": "once",
+    "phonetic": "/wʌns/",
+    "meaning": "한 번, 한때, 예전에",
+    "example": "Mary once lived in Busan for two years."
+  },
+  {
+    "word": "only",
+    "phonetic": "/ˈoʊnli/",
+    "meaning": "오직, 단지, ~만",
+    "example": "I could only find two."
+  },
+  {
+    "word": "open",
+    "phonetic": "/ˈoʊpən/",
+    "meaning": "열다, 열리다, 시작하다",
+    "example": "She opened the meeting with a short speech."
+  },
+  {
+    "word": "orange",
+    "phonetic": "/ˈɔrɪndʒ/",
+    "meaning": "오렌지, 주황색",
+    "example": "She painted the walls of her room bright orange."
+  },
+  {
+    "word": "out",
+    "phonetic": "/aʊt/",
+    "meaning": "밖으로, 밖에, 꺼진",
+    "example": "The new book is out now."
+  },
+  {
+    "word": "outside",
+    "phonetic": "/ˌaʊtˈsaɪd/",
+    "meaning": "밖에, 밖으로, 바깥에서",
+    "example": "There are two cats outside the house."
+  },
+  {
+    "word": "page",
+    "phonetic": "/peɪdʒ/",
+    "meaning": "쪽, 페이지, 웹페이지",
+    "example": "This page takes a long time to load."
+  },
+  {
+    "word": "paint",
+    "phonetic": "/peɪnt/",
+    "meaning": "칠하다, 그리다",
+    "example": "Mary likes to paint flowers in the garden."
+  },
+  {
+    "word": "painting",
+    "phonetic": "/ˈpeɪntɪŋ/",
+    "meaning": "그림, 회화, 페인트칠",
+    "example": "Painting our house took much longer than we expected."
+  },
+  {
+    "word": "pants",
+    "phonetic": "/pænts/",
+    "meaning": "바지",
+    "example": "He spilled coffee on his pants during the meeting."
+  },
+  {
+    "word": "paper",
+    "phonetic": "/ˈpeɪpɚ/",
+    "meaning": "종이, 신문, 서류",
+    "example": "Please write your name on a sheet of paper."
+  },
+  {
+    "word": "parent",
+    "phonetic": "/ˈpɛrənt/",
+    "meaning": "부모, 어버이",
+    "example": "I want to meet Tom's parents."
+  },
+  {
+    "word": "park",
+    "phonetic": "/pɑrk/",
+    "meaning": "공원, 주차장",
+    "example": "We walk in the park every Sunday morning."
+  },
+  {
+    "word": "party",
+    "phonetic": "/ˈpɑrti/",
+    "meaning": "파티, 모임, 정당",
+    "example": "They gave a big party for me."
+  },
+  {
+    "word": "past",
+    "phonetic": "/pæst/",
+    "meaning": "과거",
+    "example": "We don't know anything about Tom's past."
+  },
+  {
+    "word": "pay",
+    "phonetic": "/peɪ/",
+    "meaning": "지불하다, 내다, 대가를 치르다",
+    "example": "He had to pay for his mistake later."
+  },
+  {
+    "word": "peace",
+    "phonetic": "/pis/",
+    "meaning": "평화, 평온, 고요",
+    "example": "I just want some peace and quiet this weekend."
+  },
+  {
+    "word": "pen",
+    "phonetic": "/pɛn/",
+    "meaning": "펜, 볼펜, 우리",
+    "example": "The farmer kept the pigs in a pen behind the barn."
+  },
+  {
+    "word": "pencil",
+    "phonetic": "/ˈpɛnsəl/",
+    "meaning": "연필",
+    "example": "If you want a pencil, I'll lend you one."
+  },
+  {
+    "word": "people",
+    "phonetic": "/ˈpipəl/",
+    "meaning": "사람들, 사람, 국민, 민족",
+    "example": "The people of Korea love kimchi."
+  },
+  {
+    "word": "person",
+    "phonetic": "/ˈpɝsən/",
+    "meaning": "사람",
+    "example": "He is a good person."
+  },
+  {
+    "word": "pet",
+    "phonetic": "/pɛt/",
+    "meaning": "반려동물, 애완동물",
+    "example": "Some people keep unusual animals as pets at home."
+  },
+  {
+    "word": "phone",
+    "phonetic": "/foʊn/",
+    "meaning": "전화, 전화기",
+    "example": "Can I make a phone call?"
+  },
+  {
+    "word": "photo",
+    "phonetic": "/ˈfoʊtoʊ/",
+    "meaning": "사진",
+    "example": "Could you send the photo that was taken yesterday?"
+  },
+  {
+    "word": "piano",
+    "phonetic": "/piˈænoʊ/",
+    "meaning": "피아노",
+    "example": "Tom wants to learn how to play piano."
+  },
+  {
+    "word": "pick",
+    "phonetic": "/pɪk/",
+    "meaning": "고르다, 선택하다, 따다",
+    "example": "Please pick a few flowers from the garden."
+  },
+  {
+    "word": "picnic",
+    "phonetic": "/ˈpɪknɪk/",
+    "meaning": "소풍, 피크닉, 식은 죽 먹기",
+    "example": "The math test was a picnic for her."
+  },
+  {
+    "word": "picture",
+    "phonetic": "/ˈpɪktʃɚ/",
+    "meaning": "사진, 그림",
+    "example": "I took this picture a week ago."
+  },
+  {
+    "word": "piece",
+    "phonetic": "/pis/",
+    "meaning": "조각, 부분, 말",
+    "example": "She played a beautiful piece on the piano."
+  },
+  {
+    "word": "pig",
+    "phonetic": "/pɪɡ/",
+    "meaning": "돼지, 욕심쟁이, 지저분한 사람",
+    "example": "The farmer keeps a few pigs behind the barn."
+  },
+  {
+    "word": "pink",
+    "phonetic": "/ˈpɪŋk/",
+    "meaning": "분홍색",
+    "example": "Mary chose a soft pink for the nursery walls."
+  },
+  {
+    "word": "pizza",
+    "phonetic": "/ˈpitsə/",
+    "meaning": "피자",
+    "example": "We shared a large pizza after the soccer game."
+  },
+  {
+    "word": "place",
+    "phonetic": "/pleɪs/",
+    "meaning": "곳, 장소, 처지",
+    "example": "I would not want to be in your place."
+  },
+  {
+    "word": "plan",
+    "phonetic": "/plæn/",
+    "meaning": "계획, 방안, 설계도",
+    "example": "The architect showed us the plan of the building."
+  },
+  {
+    "word": "plane",
+    "phonetic": "/pleɪn/",
+    "meaning": "비행기, 평면",
+    "example": "A flat surface in geometry is called a plane."
+  },
+  {
+    "word": "play",
+    "phonetic": "/pleɪ/",
+    "meaning": "놀다, 경기하다, (게임을) 하다",
+    "example": "The children play in the park every day."
+  },
+  {
+    "word": "player",
+    "phonetic": "/ˈpleɪɚ/",
+    "meaning": "선수, 경기자, 연주자",
+    "example": "I left my music player on the bus."
+  },
+  {
+    "word": "please",
+    "phonetic": "/pliz/",
+    "meaning": "제발, 부디, ~해 주세요",
+    "example": "Please lend me your car."
+  },
+  {
+    "word": "pocket",
+    "phonetic": "/ˈpɑkɪt/",
+    "meaning": "주머니, 호주머니",
+    "example": "I always keep a small notebook in my jacket pocket."
+  },
+  {
+    "word": "poem",
+    "phonetic": "/ˈpoʊəm/",
+    "meaning": "시",
+    "example": "The poem on that card made me smile all afternoon."
+  },
+  {
+    "word": "point",
+    "phonetic": "/pɔɪnt/",
+    "meaning": "요점, 핵심, 점",
+    "example": "I agreed with him on that point."
+  },
+  {
+    "word": "pool",
+    "phonetic": "/pul/",
+    "meaning": "수영장, 물웅덩이",
+    "example": "There were too many children in the pool."
+  },
+  {
+    "word": "poor",
+    "phonetic": "/pʊr/",
+    "meaning": "가난한, 불쌍한, 서투른",
+    "example": "The poor dog was lost in the rain."
+  },
+  {
+    "word": "pop",
+    "phonetic": "/pɑp/",
+    "meaning": "팝 음악, 팝, 펑 하는 소리",
+    "example": "We heard a loud pop when the balloon burst."
+  },
+  {
+    "word": "potato",
+    "phonetic": "/pəˈteɪtoʊ/",
+    "meaning": "감자",
+    "example": "My grandmother makes delicious potato soup every winter for the family."
+  },
+  {
+    "word": "practice",
+    "phonetic": "/ˈpræktɪs/",
+    "meaning": "연습, 훈련, 관행",
+    "example": "You need more practice before the big game."
+  },
+  {
+    "word": "present",
+    "phonetic": "/ˈprɛznt/",
+    "meaning": "선물, 현재",
+    "example": "At present, he is in Canada."
+  },
+  {
+    "word": "pretty",
+    "phonetic": "/ˈprɪti/",
+    "meaning": "꽤, 상당히, 예쁜",
+    "example": "The exam was pretty difficult for most students."
+  },
+  {
+    "word": "price",
+    "phonetic": "/praɪs/",
+    "meaning": "가격, 값, 대가",
+    "example": "The price of eggs is going up."
+  },
+  {
+    "word": "prince",
+    "phonetic": "/prɪns/",
+    "meaning": "왕자, 군주, 제후",
+    "example": "The prince ruled the small country for many years."
+  },
+  {
+    "word": "princess",
+    "phonetic": "/ˈprɪnsəs/",
+    "meaning": "공주",
+    "example": "The princess lived in a big castle by the sea."
+  },
+  {
+    "word": "problem",
+    "phonetic": "/ˈprɑbləm/",
+    "meaning": "문제, 골칫거리",
+    "example": "We have a problem with the car."
+  },
+  {
+    "word": "purple",
+    "phonetic": "/ˈpɝpəl/",
+    "meaning": "보라색",
+    "example": "The grapes on the table were a rich purple."
+  },
+  {
+    "word": "push",
+    "phonetic": "/pʊʃ/",
+    "meaning": "밀다, 떠밀다, 재촉하다",
+    "example": "The government is pushing the new law through parliament."
+  },
+  {
+    "word": "put",
+    "phonetic": "/pʊt/",
+    "meaning": "놓다, 두다, 넣다",
+    "example": "I put some sugar in my coffee."
+  },
+  {
+    "word": "question",
+    "phonetic": "/ˈkwɛstʃən/",
+    "meaning": "질문, 물음, 문제",
+    "example": "Can I ask you a question?"
+  },
+  {
+    "word": "quickly",
+    "phonetic": "/ˈkwɪkli/",
+    "meaning": "빨리, 재빨리",
+    "example": "He made up his mind quickly."
+  },
+  {
+    "word": "quiet",
+    "phonetic": "/ˈkwaɪət/",
+    "meaning": "조용한, 고요한, 한적한",
+    "example": "We found a quiet little cafe near the river."
+  },
+  {
+    "word": "rabbit",
+    "phonetic": "/ˈræbɪt/",
+    "meaning": "토끼",
+    "example": "I've had a thing for rabbits ever since."
+  },
+  {
+    "word": "radio",
+    "phonetic": "/ˈreɪdioʊ/",
+    "meaning": "라디오, 라디오 수신기, 라디오 방송",
+    "example": "I cannot hear the radio, please turn it up."
+  },
+  {
+    "word": "rain",
+    "phonetic": "/reɪn/",
+    "meaning": "비, 비가 오다",
+    "example": "The rain stopped just before we left home."
+  },
+  {
+    "word": "rainy",
+    "phonetic": "/ˈreɪni/",
+    "meaning": "비 오는, 비가 많은",
+    "example": "Summer is hot and rainy in Seoul."
+  },
+  {
+    "word": "read",
+    "phonetic": "/riːd/",
+    "meaning": "읽다",
+    "example": "I saw him reading a book."
+  },
+  {
+    "word": "reader",
+    "phonetic": "/ˈridər/",
+    "meaning": "독자, 읽는 사람",
+    "example": "Every reader of this magazine receives a free monthly calendar."
+  },
+  {
+    "word": "reading",
+    "phonetic": "/ˈridɪŋ/",
+    "meaning": "독서, 읽기, 낭독",
+    "example": "The author gave a reading at the local library."
+  },
+  {
+    "word": "ready",
+    "phonetic": "/ˈrɛdi/",
+    "meaning": "준비된, 준비가 된, 기꺼이 하려는",
+    "example": "Mary is always ready to help her friends."
+  },
+  {
+    "word": "really",
+    "phonetic": "/ˈɹɪəli/",
+    "meaning": "정말로, 실제로, 참으로",
+    "example": "I really love what I do."
+  },
+  {
+    "word": "reason",
+    "phonetic": "/ˈrizən/",
+    "meaning": "이유, 까닭, 이성",
+    "example": "Humans use reason to solve difficult problems."
+  },
+  {
+    "word": "red",
+    "phonetic": "/rɛd/",
+    "meaning": "빨간, 붉은",
+    "example": "He decided on the red car."
+  },
+  {
+    "word": "remember",
+    "phonetic": "/rɪˈmɛmbɚ/",
+    "meaning": "기억하다, 기억나다",
+    "example": "I still remember the advice she gave me yesterday."
+  },
+  {
+    "word": "repeat",
+    "phonetic": "/rɪˈpit/",
+    "meaning": "반복하다, 되풀이하다",
+    "example": "How many times do I need to repeat it?"
+  },
+  {
+    "word": "reporter",
+    "phonetic": "/rɪˈpɔrtər/",
+    "meaning": "기자, 리포터",
+    "example": "Mary wants to become a reporter for a local newspaper."
+  },
+  {
+    "word": "restaurant",
+    "phonetic": "/ˈrɛstərənt/",
+    "meaning": "식당, 음식점",
+    "example": "I was going to the restaurant."
+  },
+  {
+    "word": "ribbon",
+    "phonetic": "/ˈrɪbən/",
+    "meaning": "리본",
+    "example": "The gift was wrapped with a blue ribbon."
+  },
+  {
+    "word": "rice",
+    "phonetic": "/raɪs/",
+    "meaning": "쌀, 밥, 벼",
+    "example": "Farmers plant rice in flooded fields every spring."
+  },
+  {
+    "word": "rich",
+    "phonetic": "/rɪtʃ/",
+    "meaning": "부유한, 부자의, 풍부한",
+    "example": "I felt full after eating the rich chocolate cake."
+  },
+  {
+    "word": "ride",
+    "phonetic": "/raɪd/",
+    "meaning": "타다, 말을 타다",
+    "example": "She likes to ride her bike along the river."
+  },
+  {
+    "word": "right",
+    "phonetic": "/raɪt/",
+    "meaning": "옳은, 맞는, 오른쪽의",
+    "example": "I think this is the right answer."
+  },
+  {
+    "word": "ring",
+    "phonetic": "/rɪŋ/",
+    "meaning": "반지, 고리, 원형",
+    "example": "Mary wears a silver ring on her left hand."
+  },
+  {
+    "word": "river",
+    "phonetic": "/ˈɹɪvɚ/",
+    "meaning": "강",
+    "example": "The river flows into the lake."
+  },
+  {
+    "word": "room",
+    "phonetic": "/rum/",
+    "meaning": "방, 공간, 여유",
+    "example": "There is no room for another chair here."
+  },
+  {
+    "word": "rose",
+    "phonetic": "/roʊz/",
+    "meaning": "장미",
+    "example": "The blue roses are very beautiful."
+  },
+  {
+    "word": "rule",
+    "phonetic": "/ruːl/",
+    "meaning": "규칙, 규정, 지배",
+    "example": "The country was under military rule for years."
+  },
+  {
+    "word": "run",
+    "phonetic": "/rʌn/",
+    "meaning": "달리다, 뛰다, 운영하다",
+    "example": "Her parents run a small restaurant in Busan."
+  },
+  {
+    "word": "sad",
+    "phonetic": "/sæd/",
+    "meaning": "슬픈, 우울한",
+    "example": "I felt sad for no reason."
+  },
+  {
+    "word": "salad",
+    "phonetic": "/ˈsæləd/",
+    "meaning": "샐러드",
+    "example": "Could you add some fresh tomatoes to my salad, please?"
+  },
+  {
+    "word": "same",
+    "phonetic": "/seɪm/",
+    "meaning": "같은, 동일한",
+    "example": "We went to the same school."
+  },
+  {
+    "word": "sandwich",
+    "phonetic": "/ˈsænwɪtʃ/",
+    "meaning": "샌드위치",
+    "example": "Mary packed a ham sandwich for her lunch today."
+  },
+  {
+    "word": "saturday",
+    "phonetic": "/ˈsætərdeɪ/",
+    "meaning": "토요일",
+    "example": "Mary and Tom are planning a picnic for this Saturday."
+  },
+  {
+    "word": "save",
+    "phonetic": "/seɪv/",
+    "meaning": "구하다, 구조하다, 저축하다",
+    "example": "Don't try to talk. Save your energy."
+  },
+  {
+    "word": "saw",
+    "phonetic": "/sɔ/",
+    "meaning": "보았다, 봤다",
+    "example": "I saw Tom on Monday."
+  },
+  {
+    "word": "say",
+    "phonetic": "/seɪ/",
+    "meaning": "말하다, 낭독하다, 암송하다",
+    "example": "We say a short prayer before each meal."
+  },
+  {
+    "word": "school",
+    "phonetic": "/skul/",
+    "meaning": "학교",
+    "example": "Do you go to school?"
+  },
+  {
+    "word": "science",
+    "phonetic": "/ˈsaɪəns/",
+    "meaning": "과학",
+    "example": "I got a D on my science test."
+  },
+  {
+    "word": "scientist",
+    "phonetic": "/ˈsaɪəntɪst/",
+    "meaning": "과학자",
+    "example": "Scientists can easily compute the distance between planets."
+  },
+  {
+    "word": "sea",
+    "phonetic": "/siː/",
+    "meaning": "바다",
+    "example": "There are islands in the sea."
+  },
+  {
+    "word": "seat",
+    "phonetic": "/sit/",
+    "meaning": "자리, 좌석, 좌판",
+    "example": "The seat of this chair is too hard for me."
+  },
+  {
+    "word": "second",
+    "phonetic": "/ˈsɛkənd/",
+    "meaning": "두 번째의, 둘째의, 부차적인",
+    "example": "Her own comfort was always a second consideration."
+  },
+  {
+    "word": "see",
+    "phonetic": "/si/",
+    "meaning": "보다, 보이다, 만나다",
+    "example": "I can see the mountains from my window."
+  },
+  {
+    "word": "sell",
+    "phonetic": "/sɛl/",
+    "meaning": "팔다, 판매하다",
+    "example": "Selling cars is my job."
+  },
+  {
+    "word": "sentence",
+    "phonetic": "/ˈsɛntns/",
+    "meaning": "문장, 판결, 형량",
+    "example": "The judge gave him a sentence of two years."
+  },
+  {
+    "word": "september",
+    "phonetic": "/sɛpˈtɛmbɚ/",
+    "meaning": "9월, 구월",
+    "example": "School starts again in September after the long summer holiday."
+  },
+  {
+    "word": "sheep",
+    "phonetic": "/ʃiːp/",
+    "meaning": "(동물) 양",
+    "example": "There are a lot of sheep in the pasture."
+  },
+  {
+    "word": "ship",
+    "phonetic": "/ʃɪp/",
+    "meaning": "배, 선박",
+    "example": "The ship carried hundreds of passengers across the ocean."
+  },
+  {
+    "word": "shirt",
+    "phonetic": "/ʃɜrt/",
+    "meaning": "셔츠, 와이셔츠",
+    "example": "How much is the shirt?"
+  },
+  {
+    "word": "shoe",
+    "phonetic": "/ʃuː/",
+    "meaning": "신, 신발",
+    "example": "He slept with his shoes on."
+  },
+  {
+    "word": "shop",
+    "phonetic": "/ʃɑp/",
+    "meaning": "가게, 상점, 작업실",
+    "example": "He fixes bikes in a small shop behind his house."
+  },
+  {
+    "word": "shopping",
+    "phonetic": "/ˈʃɑpɪŋ/",
+    "meaning": "쇼핑, 장보기",
+    "example": "You want to come shopping with us?"
+  },
+  {
+    "word": "short",
+    "phonetic": "/ʃɔrt/",
+    "meaning": "짧은, 키가 작은, 간결한",
+    "example": "Tom is short for his age."
+  },
+  {
+    "word": "shoulder",
+    "phonetic": "/ˈʃoʊldər/",
+    "meaning": "어깨, 갓길",
+    "example": "Tom wrapped his jacket around Mary's shoulders."
+  },
+  {
+    "word": "show",
+    "phonetic": "/ʃoʊ/",
+    "meaning": "보여 주다, 제시하다, 나타내다",
+    "example": "The results show that the plan works."
+  },
+  {
+    "word": "shower",
+    "phonetic": "/ˈʃaʊɚ/",
+    "meaning": "샤워, 소나기",
+    "example": "A heavy shower caught us on the way home yesterday."
+  },
+  {
+    "word": "shy",
+    "phonetic": "/ʃaɪ/",
+    "meaning": "수줍어하는, 낯을 가리는",
+    "example": "Tom is quite shy, isn't he?"
+  },
+  {
+    "word": "sick",
+    "phonetic": "/sɪk/",
+    "meaning": "아픈, 병든, 메스꺼운",
+    "example": "I feel sick after eating too much."
+  },
+  {
+    "word": "side",
+    "phonetic": "/saɪd/",
+    "meaning": "쪽, 편, 면",
+    "example": "Tom sat down at the side of the road."
+  },
+  {
+    "word": "sign",
+    "phonetic": "/saɪn/",
+    "meaning": "표지판, 간판, 징후",
+    "example": "The plus sign means you add the numbers together."
+  },
+  {
+    "word": "sing",
+    "phonetic": "/sɪŋ/",
+    "meaning": "노래하다, 노래를 부르다, 지저귀다",
+    "example": "Birds sing outside my window every morning."
+  },
+  {
+    "word": "singer",
+    "phonetic": "/ˈsɪŋɚ/",
+    "meaning": "가수, 노래하는 사람",
+    "example": "Mary is a talented singer in the school choir."
+  },
+  {
+    "word": "sir",
+    "phonetic": "/sɝ/",
+    "meaning": "선생님, 손님",
+    "example": "Would you like a window seat, sir, or the aisle?"
+  },
+  {
+    "word": "sister",
+    "phonetic": "/ˈsɪstɚ/",
+    "meaning": "누나, 언니, 여동생",
+    "example": "Mary lives with her younger sister in Seoul."
+  },
+  {
+    "word": "sit",
+    "phonetic": "/sɪt/",
+    "meaning": "앉다, 앉히다, 위치하다",
+    "example": "The old house sits on a hill above the town."
+  },
+  {
+    "word": "size",
+    "phonetic": "/saɪz/",
+    "meaning": "크기, 치수, 사이즈, 양, 부피, 규모",
+    "example": "Could you bring me a larger size of this jacket, please?"
+  },
+  {
+    "word": "skirt",
+    "phonetic": "/skɜrt/",
+    "meaning": "치마, 스커트",
+    "example": "She wore a long blue skirt to the wedding yesterday."
+  },
+  {
+    "word": "sky",
+    "phonetic": "/skaɪ/",
+    "meaning": "하늘",
+    "example": "Seen against the sky, the mountain looked really beautiful."
+  },
+  {
+    "word": "sleep",
+    "phonetic": "/sliːp/",
+    "meaning": "잠, 수면",
+    "example": "Lack of sleep makes it hard for me to focus."
+  },
+  {
+    "word": "slow",
+    "phonetic": "/sloʊ/",
+    "meaning": "느린, 이해가 느린, 둔한",
+    "example": "The service at this restaurant is unusually slow today."
+  },
+  {
+    "word": "small",
+    "phonetic": "/smɔl/",
+    "meaning": "작은",
+    "example": "My son is small for his age."
+  },
+  {
+    "word": "smart",
+    "phonetic": "/smɑrt/",
+    "meaning": "똑똑한, 영리한",
+    "example": "I'm not a smart person."
+  },
+  {
+    "word": "smell",
+    "phonetic": "/smɛl/",
+    "meaning": "냄새, 향기",
+    "example": "There's a bad smell in the conference room."
+  },
+  {
+    "word": "smile",
+    "phonetic": "/smaɪl/",
+    "meaning": "웃다, 미소 짓다",
+    "example": "Mary smiled at Tom when he walked into the room."
+  },
+  {
+    "word": "snake",
+    "phonetic": "/sneɪk/",
+    "meaning": "뱀",
+    "example": "We saw a long snake near the river yesterday."
+  },
+  {
+    "word": "snow",
+    "phonetic": "/snoʊ/",
+    "meaning": "눈",
+    "example": "It is white as snow."
+  },
+  {
+    "word": "snowy",
+    "phonetic": "/ˈsnoʊi/",
+    "meaning": "눈이 내리는, 눈이 많이 오는, 눈 덮인",
+    "example": "The snowy mountains looked beautiful from the cabin window."
+  },
+  {
+    "word": "soccer",
+    "phonetic": "/ˈsɑkɚ/",
+    "meaning": "축구",
+    "example": "How many soccer stadiums are there in this country?"
+  },
+  {
+    "word": "sofa",
+    "phonetic": "/ˈsoʊfə/",
+    "meaning": "소파",
+    "example": "My cat likes to nap on the sofa in the afternoon."
+  },
+  {
+    "word": "son",
+    "phonetic": "/sʌn/",
+    "meaning": "아들",
+    "example": "My son plays soccer every Saturday morning."
+  },
+  {
+    "word": "song",
+    "phonetic": "/sɔŋ/",
+    "meaning": "노래, 곡",
+    "example": "We sang a cheerful song together while walking home from school."
+  },
+  {
+    "word": "soon",
+    "phonetic": "/sun/",
+    "meaning": "곧, 금방",
+    "example": "The bus should arrive soon, so let's wait a little longer."
+  },
+  {
+    "word": "sorry",
+    "phonetic": "/ˈsɑri/",
+    "meaning": "미안한, 죄송한, 안타까운",
+    "example": "I'm sorry to hear that your grandfather is sick."
+  },
+  {
+    "word": "soup",
+    "phonetic": "/sup/",
+    "meaning": "수프, 국",
+    "example": "Mary made a hot vegetable soup for dinner."
+  },
+  {
+    "word": "speak",
+    "phonetic": "/spik/",
+    "meaning": "말하다, 이야기하다",
+    "example": "Mary can speak French and Spanish very well."
+  },
+  {
+    "word": "special",
+    "phonetic": "/ˈspɛʃəl/",
+    "meaning": "특별한, 특수한",
+    "example": "The city wants to build special lanes for bicycles."
+  },
+  {
+    "word": "spell",
+    "phonetic": "/spɛl/",
+    "meaning": "철자를 말하다, 철자를 쓰다",
+    "example": "Can you spell your last name for me, please?"
+  },
+  {
+    "word": "spend",
+    "phonetic": "/spɛnd/",
+    "meaning": "(돈을) 쓰다, (시간을) 보내다",
+    "example": "Where did you spend your summer?"
+  },
+  {
+    "word": "sport",
+    "phonetic": "/spɔɹt/",
+    "meaning": "운동, 스포츠, 경기",
+    "example": "I am not good at sports."
+  },
+  {
+    "word": "spring",
+    "phonetic": "/sprɪŋ/",
+    "meaning": "봄, 용수철, 스프링",
+    "example": "The spring in this old mattress is broken."
+  },
+  {
+    "word": "stand",
+    "phonetic": "/stænd/",
+    "meaning": "서다, 일어서다, 참다",
+    "example": "Please stand the ladder against the wall."
+  },
+  {
+    "word": "star",
+    "phonetic": "/stɑr/",
+    "meaning": "별, 스타, 인기인",
+    "example": "She became a big star after her first movie."
+  },
+  {
+    "word": "start",
+    "phonetic": "/stɑːrt/",
+    "meaning": "시작하다, 시작되다, 출발하다",
+    "example": "Mary couldn't start the car this morning."
+  },
+  {
+    "word": "station",
+    "phonetic": "/ˈsteɪʃən/",
+    "meaning": "역, 정거장, 방송국",
+    "example": "This radio station plays old songs all day."
+  },
+  {
+    "word": "stay",
+    "phonetic": "/steɪ/",
+    "meaning": "머무르다, 묵다, 남아 있다",
+    "example": "We stayed at a small hotel in Busan."
+  },
+  {
+    "word": "step",
+    "phonetic": "/stɛp/",
+    "meaning": "걸음, 발걸음, 단계",
+    "example": "The first step is to read the instructions carefully."
+  },
+  {
+    "word": "still",
+    "phonetic": "/stɪl/",
+    "meaning": "아직도, 여전히, 그래도",
+    "example": "It was raining, but we still went out."
+  },
+  {
+    "word": "stone",
+    "phonetic": "/stoʊn/",
+    "meaning": "돌, 암석, 보석",
+    "example": "She wore a ring with a large blue stone."
+  },
+  {
+    "word": "stop",
+    "phonetic": "/stɑp/",
+    "meaning": "멈추다, 그만두다",
+    "example": "Tom stopped to help us with the bags."
+  },
+  {
+    "word": "store",
+    "phonetic": "/stɔr/",
+    "meaning": "가게, 상점, 비축물",
+    "example": "We keep a large store of rice for the winter."
+  },
+  {
+    "word": "story",
+    "phonetic": "/ˈstɔri/",
+    "meaning": "이야기, 기사, 보도",
+    "example": "The story was on the front page today."
+  },
+  {
+    "word": "strange",
+    "phonetic": "/streɪndʒ/",
+    "meaning": "이상한, 낯선",
+    "example": "I heard a strange noise in the kitchen last night."
+  },
+  {
+    "word": "street",
+    "phonetic": "/stɹiːt/",
+    "meaning": "길, 거리, 도로",
+    "example": "He ended up on the streets."
+  },
+  {
+    "word": "strong",
+    "phonetic": "/strɔŋ/",
+    "meaning": "강한, 힘센, 튼튼한",
+    "example": "He is short but strong."
+  },
+  {
+    "word": "student",
+    "phonetic": "/ˈstudənt/",
+    "meaning": "학생, 연구자, 학도",
+    "example": "The student raised her hand to answer the question."
+  },
+  {
+    "word": "study",
+    "phonetic": "/ˈstʌdi/",
+    "meaning": "공부하다, 연구하다",
+    "example": "Scientists study the effects of sleep."
+  },
+  {
+    "word": "subway",
+    "phonetic": "/ˈsʌbˌweɪ/",
+    "meaning": "지하철, 지하도",
+    "example": "Use the subway to cross the busy road safely."
+  },
+  {
+    "word": "sugar",
+    "phonetic": "/ˈʃʊgɚ/",
+    "meaning": "설탕",
+    "example": "Tom is trying to avoid drinks with sugar."
+  },
+  {
+    "word": "summer",
+    "phonetic": "/ˈsʌmɚ/",
+    "meaning": "여름",
+    "example": "Tom learned to swim last summer."
+  },
+  {
+    "word": "sun",
+    "phonetic": "/sʌn/",
+    "meaning": "태양, 해",
+    "example": "The sun will go down in two hours."
+  },
+  {
+    "word": "sunday",
+    "phonetic": "/ˈsʌndeɪ/",
+    "meaning": "일요일",
+    "example": "We usually visit my grandparents on Sunday afternoon."
+  },
+  {
+    "word": "sunny",
+    "phonetic": "/ˈsʌni/",
+    "meaning": "화창한, 햇살 좋은",
+    "example": "We had lunch on the sunny terrace."
+  },
+  {
+    "word": "sunshine",
+    "phonetic": "/ˈsʌnˌʃaɪn/",
+    "meaning": "햇빛, 햇살",
+    "example": "We ate lunch outside in the park under bright sunshine."
+  },
+  {
+    "word": "supermarket",
+    "phonetic": "/ˈsupərˌmɑrkət/",
+    "meaning": "슈퍼마켓, 마트",
+    "example": "I work at the supermarket on the weekends."
+  },
+  {
+    "word": "sure",
+    "phonetic": "/ʃʊr/",
+    "meaning": "확실한, 틀림없는",
+    "example": "I am sure the bus will arrive soon."
+  },
+  {
+    "word": "surprise",
+    "phonetic": "/sɚˈpraɪz/",
+    "meaning": "놀라게 하다",
+    "example": "Mary surprised me by arriving an hour early."
+  },
+  {
+    "word": "sweet",
+    "phonetic": "/swit/",
+    "meaning": "달콤한, 단, 다정한",
+    "example": "Mary is a sweet girl who always helps her neighbors."
+  },
+  {
+    "word": "swim",
+    "phonetic": "/swɪm/",
+    "meaning": "헤엄치다, 수영하다",
+    "example": "Are you able to swim?"
+  },
+  {
+    "word": "swimming",
+    "phonetic": "/ˈswɪmɪŋ/",
+    "meaning": "수영",
+    "example": "Tom said he wanted to go swimming."
+  },
+  {
+    "word": "table",
+    "phonetic": "/ˈteɪbəl/",
+    "meaning": "탁자, 테이블, 표",
+    "example": "The table shows sales figures for each month."
+  },
+  {
+    "word": "take",
+    "phonetic": "/teɪk/",
+    "meaning": "가져가다, 데려가다, 받다",
+    "example": "Please take these empty cups to the kitchen when you leave."
+  },
+  {
+    "word": "talk",
+    "phonetic": "/tɔːk/",
+    "meaning": "말하다, 이야기하다",
+    "example": "Talk to me in French."
+  },
+  {
+    "word": "tall",
+    "phonetic": "/tɔl/",
+    "meaning": "키가 큰, 높은",
+    "example": "Tom is a tall man."
+  },
+  {
+    "word": "taxi",
+    "phonetic": "/ˈtæksi/",
+    "meaning": "택시",
+    "example": "I didn't come by taxi."
+  },
+  {
+    "word": "tea",
+    "phonetic": "/ti/",
+    "meaning": "차, 홍차",
+    "example": "Would you like coffee or tea?"
+  },
+  {
+    "word": "teach",
+    "phonetic": "/tiːtʃ/",
+    "meaning": "가르치다, 알려 주다",
+    "example": "I can teach French to Tom."
+  },
+  {
+    "word": "teacher",
+    "phonetic": "/ˈtitʃɚ/",
+    "meaning": "선생님, 교사",
+    "example": "I want to meet the teacher."
+  },
+  {
+    "word": "team",
+    "phonetic": "/tim/",
+    "meaning": "팀, 조",
+    "example": "Tom is the star of the football team."
+  },
+  {
+    "word": "telephone",
+    "phonetic": "/ˈtɛləˌfoʊn/",
+    "meaning": "전화, 전화기",
+    "example": "There's a telephone in my room."
+  },
+  {
+    "word": "television",
+    "phonetic": "/ˈtɛləˌvɪʒən/",
+    "meaning": "텔레비전",
+    "example": "There is a television in my room."
+  },
+  {
+    "word": "tell",
+    "phonetic": "/tɛl/",
+    "meaning": "말하다, 알려 주다, 알다",
+    "example": "I can tell he is tired."
+  },
+  {
+    "word": "tennis",
+    "phonetic": "/ˈtɛnɪs/",
+    "meaning": "테니스",
+    "example": "Tennis is a very popular sport."
+  },
+  {
+    "word": "test",
+    "phonetic": "/tɛst/",
+    "meaning": "시험, 테스트, 검사",
+    "example": "The doctor ordered a blood test for Tom."
+  },
+  {
+    "word": "thank",
+    "phonetic": "/θæŋk/",
+    "meaning": "감사하다, 고마워하다",
+    "example": "I wanted to thank the driver before getting off."
+  },
+  {
+    "word": "then",
+    "phonetic": "/ðɛn/",
+    "meaning": "그때, 그 당시, 그러면",
+    "example": "Finish your homework, then you can play."
+  },
+  {
+    "word": "there",
+    "phonetic": "/ðɛr/",
+    "meaning": "거기에, 그곳에, ~가 있다",
+    "example": "I'm going to be there."
+  },
+  {
+    "word": "thin",
+    "phonetic": "/θɪn/",
+    "meaning": "얇은, 마른, 날씬한",
+    "example": "Muscles are made of hundreds of thin fibers."
+  },
+  {
+    "word": "thing",
+    "phonetic": "/θɪŋ/",
+    "meaning": "것, 물건, 일",
+    "example": "It's a thing of the past."
+  },
+  {
+    "word": "think",
+    "phonetic": "/θɪŋk/",
+    "meaning": "생각하다, ~라고 여기다, ~할 생각이다",
+    "example": "I think Tom is great."
+  },
+  {
+    "word": "thursday",
+    "phonetic": "/ˈθɝzdeɪ/",
+    "meaning": "목요일",
+    "example": "We usually have our team meeting on Thursday afternoons."
+  },
+  {
+    "word": "ticket",
+    "phonetic": "/ˈtɪkɪt/",
+    "meaning": "표, 티켓, 입장권",
+    "example": "I lost my ticket. What should I do?"
+  },
+  {
+    "word": "tiger",
+    "phonetic": "/ˈtaɪɡər/",
+    "meaning": "호랑이",
+    "example": "We saw a tiger at the zoo near Seoul."
+  },
+  {
+    "word": "time",
+    "phonetic": "/taɪm/",
+    "meaning": "시간, 시각, 때",
+    "example": "I don't have time to talk now."
+  },
+  {
+    "word": "tired",
+    "phonetic": "/ˈtaɪɚd/",
+    "meaning": "피곤한, 지친, 질린",
+    "example": "I am tired of eating the same lunch every day."
+  },
+  {
+    "word": "today",
+    "phonetic": "/təˈdeɪ/",
+    "meaning": "오늘, 오늘날, 요즘",
+    "example": "I am staying in Seoul with Mary today."
+  },
+  {
+    "word": "together",
+    "phonetic": "/təˈɡɛðɚ/",
+    "meaning": "함께, 같이, 동시에",
+    "example": "Mary and Tom often go shopping together."
+  },
+  {
+    "word": "toilet",
+    "phonetic": "/ˈtɔɪlət/",
+    "meaning": "변기, 화장실",
+    "example": "He was staring at the toilet water."
+  },
+  {
+    "word": "tomato",
+    "phonetic": "/təˈmeɪtoʊ/",
+    "meaning": "토마토",
+    "example": "I added a fresh tomato to my sandwich this morning."
+  },
+  {
+    "word": "tomorrow",
+    "phonetic": "/təˈmɑroʊ/",
+    "meaning": "내일",
+    "example": "I am not at home tomorrow."
+  },
+  {
+    "word": "tonight",
+    "phonetic": "/təˈnaɪt/",
+    "meaning": "오늘 밤에, 오늘 저녁에",
+    "example": "Do you have to work tonight?"
+  },
+  {
+    "word": "too",
+    "phonetic": "/tu/",
+    "meaning": "너무, 지나치게, ~도",
+    "example": "I may be too old."
+  },
+  {
+    "word": "tool",
+    "phonetic": "/tul/",
+    "meaning": "도구, 연장, 수단",
+    "example": "Social media is a powerful tool for small businesses."
+  },
+  {
+    "word": "tooth",
+    "phonetic": "/tuθ/",
+    "meaning": "이, 치아",
+    "example": "The baby got her first tooth last week."
+  },
+  {
+    "word": "top",
+    "phonetic": "/tɑːp/",
+    "meaning": "꼭대기, 맨 위, 윗옷",
+    "example": "Tom climbed to the top of the hill."
+  },
+  {
+    "word": "touch",
+    "phonetic": "/tʌtʃ/",
+    "meaning": "만지다, 건드리다, 닿다",
+    "example": "If you touch that wire, you'll get a shock."
+  },
+  {
+    "word": "towel",
+    "phonetic": "/ˈtaʊəl/",
+    "meaning": "수건",
+    "example": "After the swim, Mary wrapped herself in a large yellow towel."
+  },
+  {
+    "word": "tower",
+    "phonetic": "/ˈtaʊɚ/",
+    "meaning": "탑, 타워",
+    "example": "Have you ever climbed the tower near the river?"
+  },
+  {
+    "word": "town",
+    "phonetic": "/taʊn/",
+    "meaning": "마을, 소도시, 시내",
+    "example": "Mary went into town to buy some shoes."
+  },
+  {
+    "word": "toy",
+    "phonetic": "/tɔɪ/",
+    "meaning": "장난감",
+    "example": "Tom left his toys all over the living room floor."
+  },
+  {
+    "word": "train",
+    "phonetic": "/treɪn/",
+    "meaning": "기차, 열차",
+    "example": "The trains run every two hours."
+  },
+  {
+    "word": "travel",
+    "phonetic": "/ˈtɹævəl/",
+    "meaning": "여행하다",
+    "example": "I usually keep a diary when I travel."
+  },
+  {
+    "word": "tree",
+    "phonetic": "/triː/",
+    "meaning": "나무",
+    "example": "We sat under a big tree and ate our sandwiches at noon."
+  },
+  {
+    "word": "trip",
+    "phonetic": "/trɪp/",
+    "meaning": "여행, 나들이, 헛디딤",
+    "example": "Could you tell me about your trip to Australia?"
+  },
+  {
+    "word": "truck",
+    "phonetic": "/trʌk/",
+    "meaning": "트럭, 화물차",
+    "example": "The dog was hit by a truck."
+  },
+  {
+    "word": "true",
+    "phonetic": "/truː/",
+    "meaning": "사실인, 참인, 진짜의",
+    "example": "Is it true that you are moving to Busan?"
+  },
+  {
+    "word": "try",
+    "phonetic": "/traɪ/",
+    "meaning": "노력하다, 시도하다, 해 보다",
+    "example": "Try this soup and tell me what you think."
+  },
+  {
+    "word": "tuesday",
+    "phonetic": "/ˈtuzdeɪ/",
+    "meaning": "화요일",
+    "example": "Tom has English class every Tuesday morning."
+  },
+  {
+    "word": "turkey",
+    "phonetic": "/ˈtɝki/",
+    "meaning": "칠면조, 칠면조 고기",
+    "example": "A large turkey wandered around the farm this morning."
+  },
+  {
+    "word": "turn",
+    "phonetic": "/tɝn/",
+    "meaning": "돌다, 돌리다, ~이 되다",
+    "example": "The leaves turn red in the fall."
+  },
+  {
+    "word": "umbrella",
+    "phonetic": "/ʌmˈbrɛlə/",
+    "meaning": "우산",
+    "example": "Tom left his umbrella on the bus again this morning."
+  },
+  {
+    "word": "uncle",
+    "phonetic": "/ˈʌŋkəl/",
+    "meaning": "삼촌, 외삼촌, 고모부·이모부",
+    "example": "It would be nice if my uncles were very rich."
+  },
+  {
+    "word": "use",
+    "phonetic": "/juz/",
+    "meaning": "쓰다, 사용하다, 이용하다",
+    "example": "Can I use your phone for a minute?"
+  },
+  {
+    "word": "usually",
+    "phonetic": "/ˈjuʒuəli/",
+    "meaning": "보통, 흔히",
+    "example": "I usually get home by six o'clock."
+  },
+  {
+    "word": "vacation",
+    "phonetic": "/veɪˈkeɪʃən/",
+    "meaning": "휴가, 방학",
+    "example": "What did you do last vacation?"
+  },
+  {
+    "word": "vegetable",
+    "phonetic": "/ˈvɛdʒtəbəl/",
+    "meaning": "채소, 야채",
+    "example": "We made a vegetable soup for lunch today."
+  },
+  {
+    "word": "very",
+    "phonetic": "/ˈvɛri/",
+    "meaning": "매우, 아주",
+    "example": "It is very hot today."
+  },
+  {
+    "word": "video",
+    "phonetic": "/ˈvɪdioʊ/",
+    "meaning": "영상, 동영상",
+    "example": "Who wants to watch a video?"
+  },
+  {
+    "word": "visit",
+    "phonetic": "/ˈvɪzɪt/",
+    "meaning": "방문하다, 찾아가다",
+    "example": "I have to visit Tom."
+  },
+  {
+    "word": "volleyball",
+    "phonetic": "/ˈvɑliˌbɔl/",
+    "meaning": "배구",
+    "example": "Tom doesn't like volleyball very much."
+  },
+  {
+    "word": "wait",
+    "phonetic": "/weɪt/",
+    "meaning": "기다리다",
+    "example": "Please wait here until your name is called."
+  },
+  {
+    "word": "waiter",
+    "phonetic": "/ˈweɪtɚ/",
+    "meaning": "웨이터, 종업원",
+    "example": "The waiter took our order and returned with drinks soon."
+  },
+  {
+    "word": "walk",
+    "phonetic": "/wɔk/",
+    "meaning": "걷다, 걸어가다, 산책시키다",
+    "example": "I walk to school with Mary every day."
+  },
+  {
+    "word": "wall",
+    "phonetic": "/wɔl/",
+    "meaning": "벽, 담",
+    "example": "My neighbor painted the wall behind his garden bright yellow."
+  },
+  {
+    "word": "want",
+    "phonetic": "/wɑnt/",
+    "meaning": "원하다, 바라다, ~하고 싶다",
+    "example": "Mary wants a new bike for her birthday."
+  },
+  {
+    "word": "warm",
+    "phonetic": "/wɔːrm/",
+    "meaning": "따뜻한, 따스한, 다정한",
+    "example": "Tom filled the bathtub with warm water."
+  },
+  {
+    "word": "wash",
+    "phonetic": "/wɑʃ/",
+    "meaning": "씻다, 빨다, 세탁하다",
+    "example": "I need to wash my jeans this weekend."
+  },
+  {
+    "word": "watch",
+    "phonetic": "/wɑtʃ/",
+    "meaning": "보다, 지켜보다, 돌보다",
+    "example": "Please watch the kids while I cook dinner."
+  },
+  {
+    "word": "water",
+    "phonetic": "/ˈwɔtɚ/",
+    "meaning": "물",
+    "example": "Could I have a glass of water, please?"
+  },
+  {
+    "word": "way",
+    "phonetic": "/weɪ/",
+    "meaning": "방법, 방식, 길",
+    "example": "Can you tell me the way to the station?"
+  },
+  {
+    "word": "wear",
+    "phonetic": "/wɛr/",
+    "meaning": "입다, 착용하다, 닳다",
+    "example": "These old shoes wear out very quickly on rough roads."
+  },
+  {
+    "word": "weather",
+    "phonetic": "/ˈwɛðər/",
+    "meaning": "날씨, 일기",
+    "example": "The weather is good today."
+  },
+  {
+    "word": "wednesday",
+    "phonetic": "/ˈwɛnzdeɪ/",
+    "meaning": "수요일",
+    "example": "We usually went to the zoo on Wednesday."
+  },
+  {
+    "word": "week",
+    "phonetic": "/wiːk/",
+    "meaning": "주, 일주일, 평일",
+    "example": "I work late during the week."
+  },
+  {
+    "word": "weekend",
+    "phonetic": "/ˈwikˌɛnd/",
+    "meaning": "주말",
+    "example": "Did you have a good weekend?"
+  },
+  {
+    "word": "welcome",
+    "phonetic": "/ˈwɛlkəm/",
+    "meaning": "환영, 환대, 환영받는",
+    "example": "Tom gave me a warm welcome at the airport."
+  },
+  {
+    "word": "well",
+    "phonetic": "/wɛl/",
+    "meaning": "잘, 충분히, 철저히",
+    "example": "The final cost was well above our budget."
+  },
+  {
+    "word": "wheel",
+    "phonetic": "/wil/",
+    "meaning": "바퀴, 핸들, 운전대",
+    "example": "Tom was so tired that he let Mary take the wheel."
+  },
+  {
+    "word": "when",
+    "phonetic": "/wɛn/",
+    "meaning": "언제, ~할 때",
+    "example": "When did you get up?"
+  },
+  {
+    "word": "white",
+    "phonetic": "/waɪt/",
+    "meaning": "흰, 하얀, 백인의",
+    "example": "The survey included both white and black students."
+  },
+  {
+    "word": "why",
+    "phonetic": "/waɪ/",
+    "meaning": "왜, 어째서",
+    "example": "Why do you like me?"
+  },
+  {
+    "word": "wife",
+    "phonetic": "/waɪf/",
+    "meaning": "아내, 부인",
+    "example": "My wife is wearing a blue dress."
+  },
+  {
+    "word": "win",
+    "phonetic": "/wɪn/",
+    "meaning": "이기다, 승리하다",
+    "example": "I knew I would win."
+  },
+  {
+    "word": "wind",
+    "phonetic": "/wɪnd/",
+    "meaning": "바람",
+    "example": "Adriano adjusted his sails to catch the wind."
+  },
+  {
+    "word": "window",
+    "phonetic": "/ˈwɪndoʊ/",
+    "meaning": "창문, 창, 윈도",
+    "example": "Close the window on your screen before you restart."
+  },
+  {
+    "word": "winter",
+    "phonetic": "/ˈwɪntɚ/",
+    "meaning": "겨울",
+    "example": "It gets very cold in Seoul during winter."
+  },
+  {
+    "word": "wish",
+    "phonetic": "/wɪʃ/",
+    "meaning": "바라다, 원하다, 기원하다",
+    "example": "We wish you a happy new year."
+  },
+  {
+    "word": "woman",
+    "phonetic": "/ˈwʊmən/",
+    "meaning": "여자, 여성, 여인",
+    "example": "Who is that old woman?"
+  },
+  {
+    "word": "wonderful",
+    "phonetic": "/ˈwʌndərfəl/",
+    "meaning": "멋진, 훌륭한, 굉장한",
+    "example": "We had a wonderful time at the beach last summer."
+  },
+  {
+    "word": "word",
+    "phonetic": "/wɝd/",
+    "meaning": "단어, 낱말, 말씀, 이야기, 약속",
+    "example": "He gave me his word that he would come."
+  },
+  {
+    "word": "work",
+    "phonetic": "/wɜrk/",
+    "meaning": "일하다, 근무하다, 작동하다",
+    "example": "This old phone still works well."
+  },
+  {
+    "word": "worker",
+    "phonetic": "/ˈwɝkɚ/",
+    "meaning": "근로자, 노동자",
+    "example": "Wages vary in relation to the age of the worker."
+  },
+  {
+    "word": "world",
+    "phonetic": "/wɝld/",
+    "meaning": "세계, 세상, 지구",
+    "example": "It is the tallest building in the world."
+  },
+  {
+    "word": "worry",
+    "phonetic": "/ˈwɝi/",
+    "meaning": "걱정하다, 염려하다",
+    "example": "Don't worry about me; I'll be fine."
+  },
+  {
+    "word": "write",
+    "phonetic": "/raɪt/",
+    "meaning": "쓰다, 적다, 편지를 보내다",
+    "example": "Please write to me when you arrive."
+  },
+  {
+    "word": "writer",
+    "phonetic": "/ˈraɪtər/",
+    "meaning": "작가, 글쓴이",
+    "example": "My cousin works as a writer for a magazine that covers local food."
+  },
+  {
+    "word": "wrong",
+    "phonetic": "/rɔŋ/",
+    "meaning": "틀린, 잘못된, 나쁜",
+    "example": "It is wrong to lie to your friends."
+  },
+  {
+    "word": "yard",
+    "phonetic": "/jɑrd/",
+    "meaning": "마당, 뜰, 야드",
+    "example": "The children are playing in the yard behind our house."
+  },
+  {
+    "word": "year",
+    "phonetic": "/jɪr/",
+    "meaning": "해, 년, 살",
+    "example": "It snowed a lot last year."
+  },
+  {
+    "word": "yellow",
+    "phonetic": "/ˈjɛloʊ/",
+    "meaning": "노란, 노란색의",
+    "example": "His shirt was gray and his tie was yellow."
+  },
+  {
+    "word": "yesterday",
+    "phonetic": "/ˈjɛstɚdeɪ/",
+    "meaning": "어제",
+    "example": "We visited the park together yesterday afternoon."
+  },
+  {
+    "word": "young",
+    "phonetic": "/jʌŋ/",
+    "meaning": "어린, 젊은",
+    "example": "He is young and foolish."
+  },
+  {
+    "word": "zoo",
+    "phonetic": "/zu/",
+    "meaning": "동물원",
+    "example": "Is there a zoo near Seoul?"
+  },
+  {
+    "word": "adventure",
+    "phonetic": "/ədˈvɛntʃɚ/",
+    "meaning": "모험, 색다른 경험",
+    "example": "Reading that comic book always feels like a small adventure."
+  },
+  {
+    "word": "air",
+    "phonetic": "/ɛɹ/",
+    "meaning": "공기, 분위기, 태도",
+    "example": "He has an air of mystery about him."
+  },
+  {
+    "word": "all",
+    "phonetic": "/ɔːl/",
+    "meaning": "모든",
+    "example": "All the windows are open."
+  },
+  {
+    "word": "apartment",
+    "phonetic": "/əˈpɑːrtmənt/",
+    "meaning": "아파트",
+    "example": "Mary found a small apartment near the station in Seoul."
+  },
+  {
+    "word": "arms",
+    "phonetic": "/ɑɹmz/",
+    "meaning": "팔, 무기, 병기",
+    "example": "The museum displays ancient arms used by early soldiers."
+  },
+  {
+    "word": "asleep",
+    "phonetic": "/əˈslip/",
+    "meaning": "잠든, 잠들어 있는",
+    "example": "Please be quiet because the children are still asleep."
+  },
+  {
+    "word": "badminton",
+    "phonetic": "/ˈbædmɪntn/",
+    "meaning": "배드민턴",
+    "example": "Badminton requires quick reflexes and good footwork on the court."
+  },
+  {
+    "word": "balloon",
+    "phonetic": "/bəˈlun/",
+    "meaning": "풍선, 기구, 열기구",
+    "example": "The children held colorful balloons at the birthday party."
+  },
+  {
+    "word": "basic",
+    "phonetic": "/ˈbeɪsɪk/",
+    "meaning": "기본적인, 기초적인",
+    "example": "Learning basic phrases before a trip can make travel much easier."
+  },
+  {
+    "word": "basket",
+    "phonetic": "/ˈbæskɪt/",
+    "meaning": "바구니, 광주리, (농구) 골대",
+    "example": "He carried the fresh eggs home in a small basket."
+  },
+  {
+    "word": "begin",
+    "phonetic": "/bɪˈɡɪn/",
+    "meaning": "시작하다",
+    "example": "The movie will begin soon."
+  },
+  {
+    "word": "beginner",
+    "phonetic": "/bɪˈɡɪnɚ/",
+    "meaning": "초보자, 초심자",
+    "example": "Tom is a beginner in English, so he speaks slowly."
+  },
+  {
+    "word": "blackboard",
+    "phonetic": "/ˈblækbɔrd/",
+    "meaning": "칠판",
+    "example": "The teacher wrote the new word on the blackboard."
+  },
+  {
+    "word": "bookshelf",
+    "phonetic": "/ˈbʊk.ʃɛlf/",
+    "meaning": "책장, 책꽂이",
+    "example": "Tom built a small bookshelf for his bedroom last summer."
+  },
+  {
+    "word": "british",
+    "phonetic": "/ˈbrɪtɪʃ/",
+    "meaning": "영국의, 영국 사람의",
+    "example": "Tom enjoys watching old British comedies on weekends."
+  },
+  {
+    "word": "burn",
+    "phonetic": "/bɝn/",
+    "meaning": "타다, 불타다, 태우다",
+    "example": "The oven's hot so be careful not to burn yourself."
+  },
+  {
+    "word": "calendar",
+    "phonetic": "/ˈkæləndɚ/",
+    "meaning": "달력",
+    "example": "I wrote the dentist appointment on the kitchen calendar."
+  },
+  {
+    "word": "camping",
+    "phonetic": "/ˈkæmpɪŋ/",
+    "meaning": "캠핑, 야영",
+    "example": "Camping is a cheap way to enjoy the outdoors."
+  },
+  {
+    "word": "carrot",
+    "phonetic": "/ˈkærət/",
+    "meaning": "당근",
+    "example": "My son refuses to eat anything orange except carrot sticks."
+  },
+  {
+    "word": "cheap",
+    "phonetic": "/tʃiːp/",
+    "meaning": "싼, 저렴한, 싸구려의",
+    "example": "The cheap umbrella broke in the first strong wind."
+  },
+  {
+    "word": "cheer",
+    "phonetic": "/tʃɪr/",
+    "meaning": "환호하다, 응원하다, 기운을 북돋우다",
+    "example": "Fans cheered loudly as the runners crossed the finish line."
+  },
+  {
+    "word": "chinese",
+    "phonetic": "/tʃaɪˈniz/",
+    "meaning": "중국의, 중국인의, 중국어의",
+    "example": "She teaches Chinese characters to young children."
+  },
+  {
+    "word": "clear",
+    "phonetic": "/klɪr/",
+    "meaning": "분명한, 명확한, 맑은",
+    "example": "It is clear that he is a great artist."
+  },
+  {
+    "word": "color",
+    "phonetic": "/ˈkʌlɚ/",
+    "meaning": "색, 색깔, 색, 색깔",
+    "example": "What color is your new car?"
+  },
+  {
+    "word": "company",
+    "phonetic": "/ˈkʌmpəni/",
+    "meaning": "회사, 기업, 함께 있음",
+    "example": "Tom works for a tech company."
+  },
+  {
+    "word": "count",
+    "phonetic": "/kaʊnt/",
+    "meaning": "세다, 계산하다, 중요하다",
+    "example": "The little boy can count to one hundred in English."
+  },
+  {
+    "word": "country",
+    "phonetic": "/ˈkʌntri/",
+    "meaning": "나라, 국가, 시골",
+    "example": "I live in the country."
+  },
+  {
+    "word": "cross",
+    "phonetic": "/krɔs/",
+    "meaning": "건너다, 가로지르다, 교차시키다",
+    "example": "Be careful when you cross the road."
+  },
+  {
+    "word": "dancer",
+    "phonetic": "/ˈdænsɚ/",
+    "meaning": "무용수, 댄서",
+    "example": "The dancer practiced for six hours before the show."
+  },
+  {
+    "word": "dangerous",
+    "phonetic": "/ˈdeɪnd͡ʒəɹəs/",
+    "meaning": "위험한, 위험스러운, 위태한",
+    "example": "The world is a dangerous place."
+  },
+  {
+    "word": "dead",
+    "phonetic": "/dɛd/",
+    "meaning": "죽은, 사망한, 작동하지 않는",
+    "example": "My phone is dead, so I can't call you."
+  },
+  {
+    "word": "deep",
+    "phonetic": "/diːp/",
+    "meaning": "깊은, 깊숙한, 심한",
+    "example": "Tom fell into a deep sleep on the sofa."
+  },
+  {
+    "word": "dentist",
+    "phonetic": "/ˈdɛntɪst/",
+    "meaning": "치과의사",
+    "example": "I have a dentist appointment on Friday afternoon at three."
+  },
+  {
+    "word": "diamond",
+    "phonetic": "/ˈdaɪmənd/",
+    "meaning": "다이아몬드, 금강석",
+    "example": "She wore a small diamond ring at the wedding party."
+  },
+  {
+    "word": "diary",
+    "phonetic": "/ˈdaɪri/",
+    "meaning": "일기, 일기장",
+    "example": "Mary writes in her diary every night before she goes to bed."
+  },
+  {
+    "word": "die",
+    "phonetic": "/daɪ/",
+    "meaning": "죽다",
+    "example": "We were born to die."
+  },
+  {
+    "word": "dinosaur",
+    "phonetic": "/ˈdaɪnəˌsɔr/",
+    "meaning": "공룡",
+    "example": "My son drew a dinosaur with huge teeth and short arms."
+  },
+  {
+    "word": "discover",
+    "phonetic": "/dɪˈskʌvər/",
+    "meaning": "발견하다, 찾아내다, 알게 되다",
+    "example": "We hope to discover new ways to save energy."
+  },
+  {
+    "word": "duck",
+    "phonetic": "/dʌk/",
+    "meaning": "오리",
+    "example": "A small duck waddled across the road toward the pond."
+  },
+  {
+    "word": "each",
+    "phonetic": "/iːtʃ/",
+    "meaning": "각각의",
+    "example": "Each child has a small bag."
+  },
+  {
+    "word": "earlier",
+    "phonetic": "/ˈɝliɚ/",
+    "meaning": "더 일찍, 아까, 전에",
+    "example": "Please forget what we talked about earlier."
+  },
+  {
+    "word": "earth",
+    "phonetic": "/ɝθ/",
+    "meaning": "지구, 땅, 지면",
+    "example": "The farmer dug a hole in the earth."
+  },
+  {
+    "word": "earthquake",
+    "phonetic": "/ˈɝθkweɪk/",
+    "meaning": "지진",
+    "example": "The earthquake woke us up at three in the morning."
+  },
+  {
+    "word": "east",
+    "phonetic": "/ist/",
+    "meaning": "동쪽, 동, 동쪽의",
+    "example": "The sun rises in the east every morning."
+  },
+  {
+    "word": "education",
+    "phonetic": "/ˌɛdʒəˈkeɪʃən/",
+    "meaning": "교육",
+    "example": "She works in education and loves teaching young children."
+  },
+  {
+    "word": "elephant",
+    "phonetic": "/ˈɛləfənt/",
+    "meaning": "코끼리",
+    "example": "An elephant at the zoo splashed water over its back."
+  },
+  {
+    "word": "email",
+    "phonetic": "/ˈimeɪl/",
+    "meaning": "이메일, 전자 우편",
+    "example": "I sent an email to Tom."
+  },
+  {
+    "word": "eraser",
+    "phonetic": "/ɪˈreɪ.sər/",
+    "meaning": "지우개",
+    "example": "Use an eraser to fix the mistake."
+  },
+  {
+    "word": "even",
+    "phonetic": "/ˈivən/",
+    "meaning": "~조차, ~도, 심지어",
+    "example": "Even Tom felt bad for the injured dog."
+  },
+  {
+    "word": "ever",
+    "phonetic": "/ˈɛvər/",
+    "meaning": "한 번이라도, 지금까지, 언제나",
+    "example": "The weather is ever changing in this mountain town."
+  },
+  {
+    "word": "exam",
+    "phonetic": "/ɪɡˈzæm/",
+    "meaning": "시험",
+    "example": "I studied hard for the English exam all last week."
+  },
+  {
+    "word": "explain",
+    "phonetic": "/ɪkˈspleɪn/",
+    "meaning": "설명하다",
+    "example": "Tom will explain this to you later."
+  },
+  {
+    "word": "fall",
+    "phonetic": "/fɔl/",
+    "meaning": "떨어지다, 넘어지다, 빠지다",
+    "example": "Prices usually fall after the holiday season ends."
+  },
+  {
+    "word": "far",
+    "phonetic": "/fɑr/",
+    "meaning": "멀리, 멀리 떨어져",
+    "example": "The beach is not far from our apartment."
+  },
+  {
+    "word": "favorite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "meaning": "가장 좋아하는, 마음에 드는",
+    "example": "What is your favorite food?"
+  },
+  {
+    "word": "few",
+    "phonetic": "/fjuː/",
+    "meaning": "적은",
+    "example": "Only a few people came."
+  },
+  {
+    "word": "final",
+    "phonetic": "/ˈfaɪnəl/",
+    "meaning": "마지막의, 최종의, 기말의",
+    "example": "This small town is our final destination today."
+  },
+  {
+    "word": "finally",
+    "phonetic": "/ˈfaɪnəli/",
+    "meaning": "마침내, 드디어, 마지막으로",
+    "example": "Finally, add a little salt and stir well."
+  },
+  {
+    "word": "fisherman",
+    "phonetic": "/ˈfɪʃərmən/",
+    "meaning": "어부, 낚시꾼",
+    "example": "The fisherman left the harbor before sunrise every morning."
+  },
+  {
+    "word": "fog",
+    "phonetic": "/fɑɡ/",
+    "meaning": "안개",
+    "example": "Thick fog covered the highway, so we drove very slowly."
+  },
+  {
+    "word": "forest",
+    "phonetic": "/ˈfɔrɪst/",
+    "meaning": "숲, 삼림",
+    "example": "Wild animals live in the forest."
+  },
+  {
+    "word": "forget",
+    "phonetic": "/fɚˈɡet/",
+    "meaning": "잊다",
+    "example": "Do not forget your homework."
+  },
+  {
+    "word": "fork",
+    "phonetic": "/fɔrk/",
+    "meaning": "포크, 갈림길, 분기점",
+    "example": "Tom dropped his fork on the floor during dinner."
+  },
+  {
+    "word": "friendship",
+    "phonetic": "/ˈfrɛndˌʃɪp/",
+    "meaning": "우정, 친분",
+    "example": "I hope that this is the beginning of a beautiful friendship."
+  },
+  {
+    "word": "gate",
+    "phonetic": "/ɡeɪt/",
+    "meaning": "문, 대문, 탑승구",
+    "example": "Your flight leaves from gate twelve, so please hurry."
+  },
+  {
+    "word": "german",
+    "phonetic": "/ˈdʒɝmən/",
+    "meaning": "독일어, 독일인",
+    "example": "She speaks fluent German after living in Berlin."
+  },
+  {
+    "word": "glove",
+    "phonetic": "/ɡlʌv/",
+    "meaning": "장갑",
+    "example": "I lost one glove on the bus this morning."
+  },
+  {
+    "word": "golf",
+    "phonetic": "/ɡɑlf/",
+    "meaning": "골프",
+    "example": "Mary and her father spend every Sunday morning playing golf together."
+  },
+  {
+    "word": "granddad",
+    "phonetic": "/ˈɡrænˌdæd/",
+    "meaning": "할아버지",
+    "example": "We visited our granddad on his farm last summer."
+  },
+  {
+    "word": "grandson",
+    "phonetic": "/ˈɡɹænˌsʌn/",
+    "meaning": "손자",
+    "example": "Her grandson visited her house during the summer holidays."
+  },
+  {
+    "word": "gun",
+    "phonetic": "/ɡʌn/",
+    "meaning": "총",
+    "example": "He laid down the gun."
+  },
+  {
+    "word": "ham",
+    "phonetic": "/hæm/",
+    "meaning": "햄, 아마추어 무선사",
+    "example": "We bought a whole ham for the family dinner."
+  },
+  {
+    "word": "happily",
+    "phonetic": "/ˈhæpɪli/",
+    "meaning": "행복하게, 즐겁게, 기꺼이",
+    "example": "The children played happily in the yard until sunset."
+  },
+  {
+    "word": "happiness",
+    "phonetic": "/ˈhæpinəs/",
+    "meaning": "행복, 기쁨",
+    "example": "Sharing your happiness with friends can make it even greater."
+  },
+  {
+    "word": "hate",
+    "phonetic": "/heɪt/",
+    "meaning": "싫어하다, 미워하다",
+    "example": "I hate waiting in long lines at the bank."
+  },
+  {
+    "word": "helpful",
+    "phonetic": "/ˈhɛlpfəl/",
+    "meaning": "도움이 되는, 유용한",
+    "example": "The hotel staff was very helpful when we lost our luggage."
+  },
+  {
+    "word": "hero",
+    "phonetic": "/ˈhɪroʊ/",
+    "meaning": "영웅, 주인공, 남자 주인공",
+    "example": "The hero of the movie is a young farmer who loves music."
+  },
+  {
+    "word": "higher",
+    "phonetic": "/ˈhaɪɚ/",
+    "meaning": "더 높은, 위쪽의",
+    "example": "My apartment is on a higher level than yours."
+  },
+  {
+    "word": "hit",
+    "phonetic": "/hɪt/",
+    "meaning": "치다, 때리다, 명중하다",
+    "example": "The storm hit the coast late last night."
+  },
+  {
+    "word": "honey",
+    "phonetic": "/ˈhʌni/",
+    "meaning": "벌꿀, 꿀, 여보",
+    "example": "Honey, can you help me carry these bags?"
+  },
+  {
+    "word": "ill",
+    "phonetic": "/ɪl/",
+    "meaning": "아픈, 병든, 나쁜",
+    "example": "The long drought had an ill effect on the farmers."
+  },
+  {
+    "word": "invite",
+    "phonetic": "/ɪnˈvaɪt/",
+    "meaning": "초대하다, 요청하다, 권유하다",
+    "example": "The teacher invited students to ask questions at the end."
+  },
+  {
+    "word": "japanese",
+    "phonetic": "/ˌdʒæpəˈniːz/",
+    "meaning": "일본의, 일본식의, 일본인의",
+    "example": "We bought some traditional Japanese bowls for our kitchen."
+  },
+  {
+    "word": "joke",
+    "phonetic": "/dʒoʊk/",
+    "meaning": "농담, 우스갯소리, 웃음거리",
+    "example": "The new rule became a joke among the workers."
+  },
+  {
+    "word": "lake",
+    "phonetic": "/leɪk/",
+    "meaning": "호수",
+    "example": "I went skating on the lake."
+  },
+  {
+    "word": "lamp",
+    "phonetic": "/læmp/",
+    "meaning": "전등, 램프, 등",
+    "example": "The lamp in the kitchen flickers whenever the washing machine runs."
+  },
+  {
+    "word": "land",
+    "phonetic": "/lænd/",
+    "meaning": "땅, 토지, 육지",
+    "example": "If I were you, I wouldn't sell your land."
+  },
+  {
+    "word": "lemon",
+    "phonetic": "/ˈlɛmən/",
+    "meaning": "레몬, 레몬 나무",
+    "example": "The cake had a hint of lemon in it."
+  },
+  {
+    "word": "lip",
+    "phonetic": "/lɪp/",
+    "meaning": "입술",
+    "example": "Tom kissed Mary gently on the lips."
+  },
+  {
+    "word": "listening",
+    "phonetic": "/ˈlɪsənɪŋ/",
+    "meaning": "듣기, 청취",
+    "example": "Tom practices English listening every morning on the bus."
+  },
+  {
+    "word": "lose",
+    "phonetic": "/luz/",
+    "meaning": "잃다, 분실하다, 지다",
+    "example": "I knew Tom would lose."
+  },
+  {
+    "word": "lost",
+    "phonetic": "/lɔst/",
+    "meaning": "길을 잃은, 잃어버린, 분실된",
+    "example": "The police returned the lost wallet to its owner yesterday."
+  },
+  {
+    "word": "loudly",
+    "phonetic": "/ˈlaʊdli/",
+    "meaning": "큰 소리로, 시끄럽게",
+    "example": "Please do not speak so loudly in the library."
+  },
+  {
+    "word": "low",
+    "phonetic": "/loʊ/",
+    "meaning": "낮은, 부족한, 얼마 남지 않은",
+    "example": "We are running low on milk, so I will buy some."
+  },
+  {
+    "word": "lunchtime",
+    "phonetic": "/ˈlʌntʃˌtaɪm/",
+    "meaning": "점심시간",
+    "example": "The library gets very crowded around lunchtime every weekday."
+  },
+  {
+    "word": "magic",
+    "phonetic": "/ˈmædʒɪk/",
+    "meaning": "마법, 마력, 마술",
+    "example": "The street performer did a card trick that looked like real magic."
+  },
+  {
+    "word": "many",
+    "phonetic": "/ˈmen.i/",
+    "meaning": "많은",
+    "example": "Many students come to school by bus."
+  },
+  {
+    "word": "market",
+    "phonetic": "/ˈmɑrkɪt/",
+    "meaning": "시장, 장터, 수요",
+    "example": "There is a big market for cheap phones."
+  },
+  {
+    "word": "melon",
+    "phonetic": "/ˈmɛlən/",
+    "meaning": "멜론",
+    "example": "The melon was ripe, so its smell filled the whole kitchen."
+  },
+  {
+    "word": "menu",
+    "phonetic": "/ˈmɛnju/",
+    "meaning": "메뉴, 메뉴판, 선택 항목 목록",
+    "example": "Click the menu at the top of the screen."
+  },
+  {
+    "word": "million",
+    "phonetic": "/ˈmɪljən/",
+    "meaning": "백만, 수백만, 무수히 많음",
+    "example": "She won a million dollars in the lottery."
+  },
+  {
+    "word": "mommy",
+    "phonetic": "/ˈmɑmi/",
+    "meaning": "엄마",
+    "example": "Mommy, can we stop at the store to buy some milk?"
+  },
+  {
+    "word": "museum",
+    "phonetic": "/mjuˈziəm/",
+    "meaning": "박물관",
+    "example": "We're going to meet in front of the museum at 2:30."
+  },
+  {
+    "word": "nature",
+    "phonetic": "/ˈneɪtʃɚ/",
+    "meaning": "자연, 본질, 본성",
+    "example": "I don't like questions of that nature."
+  },
+  {
+    "word": "near",
+    "phonetic": "/nɪr/",
+    "meaning": "가까운",
+    "example": "The shop is near my house."
+  },
+  {
+    "word": "need",
+    "phonetic": "/niːd/",
+    "meaning": "필요하다",
+    "example": "I need a glass of water."
+  },
+  {
+    "word": "next",
+    "phonetic": "/nɛkst/",
+    "meaning": "다음의",
+    "example": "When is the next World Cup?"
+  },
+  {
+    "word": "nod",
+    "phonetic": "/nɑːd/",
+    "meaning": "끄덕이다",
+    "example": "He gave a small nod."
+  },
+  {
+    "word": "noisy",
+    "phonetic": "/ˈnɔɪzi/",
+    "meaning": "시끄러운, 소란스러운",
+    "example": "The new neighbors are noisy on weekends, so we cannot nap."
+  },
+  {
+    "word": "north",
+    "phonetic": "/nɔrθ/",
+    "meaning": "북쪽, 북부, 북쪽으로",
+    "example": "The wind is blowing from the north today."
+  },
+  {
+    "word": "onion",
+    "phonetic": "/ˈʌnjən/",
+    "meaning": "양파",
+    "example": "Chop the onion finely so it melts into the tomato sauce."
+  },
+  {
+    "word": "painter",
+    "phonetic": "/ˈpeɪntər/",
+    "meaning": "화가, 페인트공, 도장공",
+    "example": "The painter used bright colors to capture the sunset."
+  },
+  {
+    "word": "part",
+    "phonetic": "/pɑːrt/",
+    "meaning": "부분, 일부, 역할",
+    "example": "We need to order a new part for the car."
+  },
+  {
+    "word": "pass",
+    "phonetic": "/pæs/",
+    "meaning": "지나가다, 통과하다, 건네주다",
+    "example": "The train passes through Busan every morning."
+  },
+  {
+    "word": "pear",
+    "phonetic": "/pɛr/",
+    "meaning": "배, 배나무",
+    "example": "We have a pear tree in our backyard."
+  },
+  {
+    "word": "pepper",
+    "phonetic": "/ˈpɛpər/",
+    "meaning": "후추, 고추, 피망",
+    "example": "Mary added a little black pepper to the soup."
+  },
+  {
+    "word": "planet",
+    "phonetic": "/ˈplænɪt/",
+    "meaning": "행성",
+    "example": "Each planet travels around a star in an orbit."
+  },
+  {
+    "word": "plant",
+    "phonetic": "/plænt/",
+    "meaning": "식물, 화초, 공장",
+    "example": "My uncle works at a car plant near Busan."
+  },
+  {
+    "word": "plate",
+    "phonetic": "/pleɪt/",
+    "meaning": "접시",
+    "example": "Patrons are putting some food on their plates."
+  },
+  {
+    "word": "playground",
+    "phonetic": "/ˈpleɪˌɡraʊnd/",
+    "meaning": "놀이터",
+    "example": "The children ran to the playground as soon as school ended."
+  },
+  {
+    "word": "police",
+    "phonetic": "/pəˈlis/",
+    "meaning": "경찰",
+    "example": "I didn't talk to the police."
+  },
+  {
+    "word": "popular",
+    "phonetic": "/ˈpɑpjəlɚ/",
+    "meaning": "인기 있는, 대중적인, 대중의",
+    "example": "The course explores popular culture through music and television."
+  },
+  {
+    "word": "program",
+    "phonetic": "/ˈproʊɡræm/",
+    "meaning": "컴퓨터 프로그램, 계획, 과정",
+    "example": "This program helps you edit photos on your computer."
+  },
+  {
+    "word": "pull",
+    "phonetic": "/pʊl/",
+    "meaning": "끌다, 당기다, 뽑다",
+    "example": "The horse pulled the heavy cart up the hill."
+  },
+  {
+    "word": "queen",
+    "phonetic": "/kwin/",
+    "meaning": "여왕",
+    "example": "My daughter wants to be a queen in her next school play."
+  },
+  {
+    "word": "quick",
+    "phonetic": "/kwɪk/",
+    "meaning": "빠른, 신속한",
+    "example": "Let's take a quick break before we continue."
+  },
+  {
+    "word": "quietly",
+    "phonetic": "/ˈkwaɪətli/",
+    "meaning": "조용히",
+    "example": "Please speak quietly, because the baby is sleeping now."
+  },
+  {
+    "word": "raincoat",
+    "phonetic": "/ˈreɪnˌkoʊt/",
+    "meaning": "비옷, 레인코트",
+    "example": "Please take your raincoat because it might rain this afternoon."
+  },
+  {
+    "word": "road",
+    "phonetic": "/roʊd/",
+    "meaning": "길, 도로",
+    "example": "The road bends sharply to the left ahead."
+  },
+  {
+    "word": "runner",
+    "phonetic": "/ˈrʌnɚ/",
+    "meaning": "달리는 사람, 달리기 선수",
+    "example": "Tom is a fast runner and joins every race."
+  },
+  {
+    "word": "safe",
+    "phonetic": "/seɪf/",
+    "meaning": "안전한",
+    "example": "Have a safe trip to China!"
+  },
+  {
+    "word": "salt",
+    "phonetic": "/sɔlt/",
+    "meaning": "소금",
+    "example": "I am adding salt to my food."
+  },
+  {
+    "word": "scarf",
+    "phonetic": "/skɑrf/",
+    "meaning": "목도리, 스카프",
+    "example": "Mary knitted a colorful scarf for her brother's birthday last week."
+  },
+  {
+    "word": "secret",
+    "phonetic": "/ˈsikrət/",
+    "meaning": "비밀",
+    "example": "Can you keep a secret about the surprise party?"
+  },
+  {
+    "word": "seed",
+    "phonetic": "/sid/",
+    "meaning": "씨앗, 씨, 근원",
+    "example": "Birds carried the seeds across the river to the other field."
+  },
+  {
+    "word": "send",
+    "phonetic": "/sɛnd/",
+    "meaning": "보내다, 발송하다, 파견하다",
+    "example": "Please send it to me by fax."
+  },
+  {
+    "word": "simple",
+    "phonetic": "/ˈsɪmpəl/",
+    "meaning": "간단한, 쉬운, 단순한",
+    "example": "She lives a simple life in a small village."
+  },
+  {
+    "word": "ski",
+    "phonetic": "/skiː/",
+    "meaning": "스키를 타다",
+    "example": "I'd like to learn how to ski."
+  },
+  {
+    "word": "sleeping",
+    "phonetic": "/ˈslipɪŋ/",
+    "meaning": "자고 있는, 잠자는",
+    "example": "The sleeping baby did not move at all."
+  },
+  {
+    "word": "sleepy",
+    "phonetic": "/ˈslipi/",
+    "meaning": "졸린, 졸음이 오는",
+    "example": "Drink some water if you feel sleepy while driving."
+  },
+  {
+    "word": "slowly",
+    "phonetic": "/ˈsloʊli/",
+    "meaning": "천천히, 느리게",
+    "example": "The old man walked slowly across the street."
+  },
+  {
+    "word": "snack",
+    "phonetic": "/snæk/",
+    "meaning": "간식",
+    "example": "I don't usually have an afternoon snack."
+  },
+  {
+    "word": "soap",
+    "phonetic": "/soʊp/",
+    "meaning": "비누",
+    "example": "Tom used soap and water to wash his hands."
+  },
+  {
+    "word": "sock",
+    "phonetic": "/sɑk/",
+    "meaning": "양말, 주먹으로 치다",
+    "example": "There is a small hole in my left sock."
+  },
+  {
+    "word": "soft",
+    "phonetic": "/sɔft/",
+    "meaning": "부드러운, 푹신한, 은은한",
+    "example": "A beaver's fur is very soft."
+  },
+  {
+    "word": "soldier",
+    "phonetic": "/ˈsoʊldʒər/",
+    "meaning": "군인, 병사",
+    "example": "The soldiers seized food from the people they conquered."
+  },
+  {
+    "word": "someday",
+    "phonetic": "/ˈsʌmˌdeɪ/",
+    "meaning": "언젠가, 훗날",
+    "example": "Tom hopes to be rich and famous someday."
+  },
+  {
+    "word": "somewhere",
+    "phonetic": "/ˈsʌmˌwɛr/",
+    "meaning": "어딘가에, 어디선가",
+    "example": "I left my keys somewhere in the kitchen this morning."
+  },
+  {
+    "word": "sound",
+    "phonetic": "/saʊnd/",
+    "meaning": "소리, 음량, 음향",
+    "example": "Please turn down the sound on the TV."
+  },
+  {
+    "word": "south",
+    "phonetic": "/saʊθ/",
+    "meaning": "남쪽, 남",
+    "example": "The birds return from the south every spring."
+  },
+  {
+    "word": "space",
+    "phonetic": "/speɪs/",
+    "meaning": "공간, 자리, 우주",
+    "example": "Please leave some space on the shelf for my books."
+  },
+  {
+    "word": "spaghetti",
+    "phonetic": "/spəˈɡɛti/",
+    "meaning": "스파게티",
+    "example": "For dinner, we cooked spaghetti with tomato sauce and fresh basil."
+  },
+  {
+    "word": "spanish",
+    "phonetic": "/ˈspænɪʃ/",
+    "meaning": "스페인어",
+    "example": "How come your Spanish is that good?"
+  },
+  {
+    "word": "speed",
+    "phonetic": "/spid/",
+    "meaning": "속도, 속력",
+    "example": "The train slowed its speed as it entered the small station."
+  },
+  {
+    "word": "spoon",
+    "phonetic": "/spun/",
+    "meaning": "숟가락",
+    "example": "Use a spoon to stir the soup slowly."
+  },
+  {
+    "word": "square",
+    "phonetic": "/skwɛr/",
+    "meaning": "정사각형, 네모, 광장",
+    "example": "We met in the town square after lunch."
+  },
+  {
+    "word": "sunflower",
+    "phonetic": "/ˈsʌnˌflaʊɚ/",
+    "meaning": "해바라기",
+    "example": "A tall sunflower grew beside our kitchen window."
+  },
+  {
+    "word": "surprised",
+    "phonetic": "/sɚˈpɹaɪzd/",
+    "meaning": "놀란",
+    "example": "She seemed to be very surprised."
+  },
+  {
+    "word": "sweater",
+    "phonetic": "/ˈswɛtɚ/",
+    "meaning": "스웨터",
+    "example": "That red sweater looks good on you."
+  },
+  {
+    "word": "teeth",
+    "phonetic": "/tiθ/",
+    "meaning": "이, 치아",
+    "example": "Tom brushes his teeth twice a day."
+  },
+  {
+    "word": "third",
+    "phonetic": "/θɝd/",
+    "meaning": "세 번째의, 제3의, 3분의 1의",
+    "example": "Tom lives on the third floor of this building."
+  },
+  {
+    "word": "thirsty",
+    "phonetic": "/ˈθɜrsti/",
+    "meaning": "목마른",
+    "example": "Please give the dog some water, he looks thirsty."
+  },
+  {
+    "word": "thought",
+    "phonetic": "/θɔt/",
+    "meaning": "생각, 사고",
+    "example": "The thought of flying makes me nervous."
+  },
+  {
+    "word": "throw",
+    "phonetic": "/θroʊ/",
+    "meaning": "던지다",
+    "example": "Throw the ball to your friend."
+  },
+  {
+    "word": "toe",
+    "phonetic": "/toʊ/",
+    "meaning": "발가락, 발끝, (신발의) 앞코",
+    "example": "She stubbed her toe on the edge of the bed."
+  },
+  {
+    "word": "toothache",
+    "phonetic": "/ˈtuːθeɪk/",
+    "meaning": "치통",
+    "example": "A toothache can make it hard to sleep well."
+  },
+  {
+    "word": "toothbrush",
+    "phonetic": "/ˈtuθˌbrʌʃ/",
+    "meaning": "칫솔",
+    "example": "Please replace your toothbrush every three months to keep your teeth clean."
+  },
+  {
+    "word": "tourist",
+    "phonetic": "/ˈtʊrɪst/",
+    "meaning": "관광객, 여행자, 이코노미석",
+    "example": "The tourist asked me how to get to the station."
+  },
+  {
+    "word": "twice",
+    "phonetic": "/twaɪs/",
+    "meaning": "두 번, 두 배로",
+    "example": "This room is twice as big as mine."
+  },
+  {
+    "word": "understand",
+    "phonetic": "/ˌʌndɚˈstænd/",
+    "meaning": "이해하다, 알아듣다",
+    "example": "Do you understand or not?"
+  },
+  {
+    "word": "unhappy",
+    "phonetic": "/ʌnˈhæpi/",
+    "meaning": "불행한, 슬픈, 불만스러운",
+    "example": "It looks like Tom and Mary are unhappy."
+  },
+  {
+    "word": "university",
+    "phonetic": "/ˌjunəˈvɝsəti/",
+    "meaning": "대학교, 대학",
+    "example": "Mary wants to go to a university in Seoul."
+  },
+  {
+    "word": "useful",
+    "phonetic": "/ˈjusfəl/",
+    "meaning": "유용한, 쓸모 있는",
+    "example": "This phrasebook is very useful to me."
+  },
+  {
+    "word": "usual",
+    "phonetic": "/ˈjuʒuəl/",
+    "meaning": "평소의, 보통의, 일상적인",
+    "example": "I'll be waiting for you at the usual place."
+  },
+  {
+    "word": "village",
+    "phonetic": "/ˈvɪlɪdʒ/",
+    "meaning": "마을, 촌락",
+    "example": "No one knew why he left the village."
+  },
+  {
+    "word": "violin",
+    "phonetic": "/ˌvaɪəˈlɪn/",
+    "meaning": "바이올린",
+    "example": "My daughter practices the violin for thirty minutes every evening."
+  },
+  {
+    "word": "wake",
+    "phonetic": "/weɪk/",
+    "meaning": "깨다, 깨우다",
+    "example": "I wake up at seven."
+  },
+  {
+    "word": "walking",
+    "phonetic": "/ˈwɔkɪŋ/",
+    "meaning": "걷기, 산책",
+    "example": "Walking is a good way to stay healthy."
+  },
+  {
+    "word": "wave",
+    "phonetic": "/weɪv/",
+    "meaning": "파도, 물결, 파동",
+    "example": "Sound travels through the air as a wave."
+  },
+  {
+    "word": "weak",
+    "phonetic": "/wik/",
+    "meaning": "약한, 허약한",
+    "example": "Tom is too weak to walk that far."
+  },
+  {
+    "word": "website",
+    "phonetic": "/ˈwebˌsaɪt/",
+    "meaning": "웹사이트, 누리집",
+    "example": "She created a website to sell her handmade jewelry online."
+  },
+  {
+    "word": "weight",
+    "phonetic": "/weɪt/",
+    "meaning": "무게, 체중, 부담",
+    "example": "Telling the truth took a weight off his mind."
+  },
+  {
+    "word": "west",
+    "phonetic": "/wɛst/",
+    "meaning": "서쪽, 서쪽의",
+    "example": "The sun sets in the west every evening."
+  },
+  {
+    "word": "wet",
+    "phonetic": "/wɛt/",
+    "meaning": "젖은, 축축한",
+    "example": "Tom came home with wet shoes after walking in the rain."
+  },
+  {
+    "word": "wide",
+    "phonetic": "/waɪd/",
+    "meaning": "넓은, 폭이 넓은",
+    "example": "The street is wide enough for two buses to pass."
+  },
+  {
+    "word": "wild",
+    "phonetic": "/waɪld/",
+    "meaning": "야생의, 자연 그대로의, 거친",
+    "example": "The wild wind kept us awake all night long."
+  },
+  {
+    "word": "windy",
+    "phonetic": "/ˈwɪndi/",
+    "meaning": "바람이 부는, 바람이 많은",
+    "example": "It is very windy today on the coast."
+  },
+  {
+    "word": "winner",
+    "phonetic": "/ˈwɪnər/",
+    "meaning": "승자, 우승자",
+    "example": "A gracious winner treats every opponent with respect."
+  },
+  {
+    "word": "wood",
+    "phonetic": "/wʊd/",
+    "meaning": "나무, 목재, 장작",
+    "example": "We took a quiet walk through the wood behind the village."
+  },
+  {
+    "word": "writing",
+    "phonetic": "/ˈraɪtɪŋ/",
+    "meaning": "글쓰기, 쓰기, 글",
+    "example": "I can't read your writing on this note."
+  },
+  {
+    "word": "alphabet",
+    "phonetic": "/ˈælfəˌbɛt/",
+    "meaning": "알파벳, 문자 체계",
+    "example": "How many letters are there in the alphabet?"
+  },
+  {
+    "word": "ant",
+    "phonetic": "/ænt/",
+    "meaning": "개미",
+    "example": "An ant crawled across the table toward the sugar."
+  },
+  {
+    "word": "artist",
+    "phonetic": "/ˈɑɹtɪst/",
+    "meaning": "예술가, 화가",
+    "example": "Wow, you totally look like an artist."
+  },
+  {
+    "word": "baker",
+    "phonetic": "/ˈbeɪkɚ/",
+    "meaning": "제빵사, 빵집 주인",
+    "example": "The baker wakes up at four to bake fresh bread."
+  },
+  {
+    "word": "bakery",
+    "phonetic": "/ˈbeɪkəri/",
+    "meaning": "빵집, 제과점",
+    "example": "Tom works part time at a bakery on Saturdays."
+  },
+  {
+    "word": "cleaning",
+    "phonetic": "/ˈkliːnɪŋ/",
+    "meaning": "청소",
+    "example": "Cleaning the kitchen after dinner takes me about twenty minutes."
+  },
+  {
+    "word": "favourite",
+    "phonetic": "/ˈfeɪvərɪt/",
+    "meaning": "가장 좋아하는",
+    "example": "My favourite part of the weekend is sleeping in until noon."
+  },
+  {
+    "word": "finger",
+    "phonetic": "/ˈfɪŋɡɚ/",
+    "meaning": "손가락",
+    "example": "She wore a gold ring on her finger."
+  },
+  {
+    "word": "foot",
+    "phonetic": "/fʊt/",
+    "meaning": "발, 피트, 밑부분",
+    "example": "Mary put a bandage on her foot after the hike."
+  },
+  {
+    "word": "giraffe",
+    "phonetic": "/dʒɪˈræf/",
+    "meaning": "기린",
+    "example": "A giraffe can reach leaves high up in the trees."
+  },
+  {
+    "word": "gray",
+    "phonetic": "/ɡreɪ/",
+    "meaning": "회색의, 잿빛의",
+    "example": "Not all of my cats are gray."
+  },
+  {
+    "word": "greeting",
+    "phonetic": "/ˈgritɪŋ/",
+    "meaning": "인사",
+    "example": "He answered my greeting with a polite nod and a friendly smile."
+  },
+  {
+    "word": "gym",
+    "phonetic": "/dʒɪm/",
+    "meaning": "헬스장, 체육관",
+    "example": "The gym near my apartment opens at six every morning."
+  },
+  {
+    "word": "loud",
+    "phonetic": "/laʊd/",
+    "meaning": "시끄러운, 소리가 큰",
+    "example": "His voice was loud enough for everyone to hear."
+  },
+  {
+    "word": "math",
+    "phonetic": "/mæθ/",
+    "meaning": "수학",
+    "example": "Mary is very good at math, isn't she?"
+  },
+  {
+    "word": "mile",
+    "phonetic": "/maɪl/",
+    "meaning": "마일",
+    "example": "The gym is only half a mile from my apartment."
+  },
+  {
+    "word": "monster",
+    "phonetic": "/ˈmɑnstɚ/",
+    "meaning": "괴물, 괴물 같은 사람, 악마 같은 사람",
+    "example": "The little boy was scared of the monster in his dream."
+  },
+  {
+    "word": "neighbor",
+    "phonetic": "/ˈneɪbɚ/",
+    "meaning": "이웃, 이웃 사람",
+    "example": "Our neighbor invited us to a summer barbecue last week."
+  },
+  {
+    "word": "ocean",
+    "phonetic": "/ˈoʊʃən/",
+    "meaning": "바다, 대양",
+    "example": "Tom loves swimming in the ocean every morning before work."
+  },
+  {
+    "word": "peanut",
+    "phonetic": "/ˈpiːˌnʌt/",
+    "meaning": "땅콩",
+    "example": "My son is allergic to peanuts, so we check every snack label carefully."
+  },
+  {
+    "word": "pie",
+    "phonetic": "/paɪ/",
+    "meaning": "파이",
+    "example": "Tom divided the pie into three equal parts."
+  },
+  {
+    "word": "pineapple",
+    "phonetic": "/ˈpaɪnˌæpəl/",
+    "meaning": "파인애플",
+    "example": "This is the first time I've eaten pineapple jam. Quite tasty."
+  },
+  {
+    "word": "popcorn",
+    "phonetic": "/ˈpɑpkɔrn/",
+    "meaning": "팝콘",
+    "example": "Tom bought a bag of popcorn and a soft drink."
+  },
+  {
+    "word": "pork",
+    "phonetic": "/pɔɹk/",
+    "meaning": "돼지고기",
+    "example": "I asked you to buy beef, not pork."
+  },
+  {
+    "word": "postcard",
+    "phonetic": "/ˈpoʊstˌkɑrd/",
+    "meaning": "엽서",
+    "example": "I'm going to write a postcard to Tom."
+  },
+  {
+    "word": "president",
+    "phonetic": "/ˈprɛzɪdənt/",
+    "meaning": "대통령, 회장, 총장",
+    "example": "She is the president of our student club."
+  },
+  {
+    "word": "rest",
+    "phonetic": "/rɛst/",
+    "meaning": "나머지, 휴식",
+    "example": "You need a good rest after the long trip."
+  },
+  {
+    "word": "robot",
+    "phonetic": "/ˈroʊbɑt/",
+    "meaning": "로봇",
+    "example": "Robots are used to manufacture cars."
+  },
+  {
+    "word": "sand",
+    "phonetic": "/sænd/",
+    "meaning": "모래",
+    "example": "Kids are building sand castles on the beach."
+  },
+  {
+    "word": "season",
+    "phonetic": "/ˈsizən/",
+    "meaning": "계절, 철, 시기",
+    "example": "The rainy season has set in."
+  },
+  {
+    "word": "sometimes",
+    "phonetic": "/ˈsʌmˌtaɪmz/",
+    "meaning": "때때로, 가끔",
+    "example": "He sometimes makes dinner for us."
+  },
+  {
+    "word": "spider",
+    "phonetic": "/ˈspaɪdɚ/",
+    "meaning": "거미",
+    "example": "There's a spider in the box."
+  },
+  {
+    "word": "strawberry",
+    "phonetic": "/ˈstrɔˌbɛri/",
+    "meaning": "딸기",
+    "example": "Busan markets sell sweet strawberries in small wooden boxes during spring."
+  },
+  {
+    "word": "sunset",
+    "phonetic": "/ˈsʌnˌsɛt/",
+    "meaning": "일몰, 해넘이",
+    "example": "The sky turned orange and pink during the sunset."
+  },
+  {
+    "word": "swimmer",
+    "phonetic": "/ˈswɪmɚ/",
+    "meaning": "수영하는 사람, 수영 선수",
+    "example": "Even a strong swimmer can get tired in cold water."
+  },
+  {
+    "word": "taste",
+    "phonetic": "/teɪst/",
+    "meaning": "맛, 취향, 안목",
+    "example": "She has good taste in music and clothes."
+  },
+  {
+    "word": "toothpaste",
+    "phonetic": "/ˈtuθpeɪst/",
+    "meaning": "치약",
+    "example": "Please squeeze a small amount of toothpaste onto your brush."
+  },
+  {
+    "word": "zero",
+    "phonetic": "/ˈzɪroʊ/",
+    "meaning": "영, 영점, 쓸모없는 사람",
+    "example": "You're not a hero. You're just a zero."
+  },
+  {
+    "word": "african",
+    "phonetic": "/ˈæfrɪkən/",
+    "meaning": "아프리카의, 아프리카 사람의, 아프리카 사람",
+    "example": "She loves African music and dances to it every weekend."
+  },
+  {
+    "word": "airplane",
+    "phonetic": "/ˈɛrˌpleɪn/",
+    "meaning": "비행기",
+    "example": "The airplane is flying over the treetops."
+  },
+  {
+    "word": "bunny",
+    "phonetic": "/ˈbʌni/",
+    "meaning": "토끼, 아기 토끼",
+    "example": "A bunny can run very fast when it is scared."
+  },
+  {
+    "word": "cherry",
+    "phonetic": "/ˈtʃɛri/",
+    "meaning": "체리, 버찌, 벚나무",
+    "example": "The cherry tree in our yard blooms every spring."
+  },
+  {
+    "word": "fox",
+    "phonetic": "/fɑks/",
+    "meaning": "여우",
+    "example": "A red fox ran across the field early this morning."
+  },
+  {
+    "word": "friendly",
+    "phonetic": "/ˈfrɛndli/",
+    "meaning": "친절한, 상냥한, 친근한",
+    "example": "Mary gave us a friendly greeting at the door."
+  },
+  {
+    "word": "god",
+    "phonetic": "/gɑd/",
+    "meaning": "신, 하느님, 하나님",
+    "example": "Many ancient people believed in a god of the sea."
+  },
+  {
+    "word": "kangaroo",
+    "phonetic": "/ˌkæŋɡəˈru/",
+    "meaning": "캥거루",
+    "example": "The baby kangaroo, called a joey, rides safely inside its mother's pouch."
+  },
+  {
+    "word": "korean",
+    "phonetic": "/kəˈriən/",
+    "meaning": "한국의, 한국인의, 한국어의",
+    "example": "We watched a Korean film at home last night."
+  },
+  {
+    "word": "rainbow",
+    "phonetic": "/ˈreɪnˌboʊ/",
+    "meaning": "무지개",
+    "example": "The children pointed at the rainbow over the green hills."
+  },
+  {
+    "word": "triangle",
+    "phonetic": "/ˈtraɪˌæŋɡəl/",
+    "meaning": "삼각형, 세모, 트라이앵글",
+    "example": "He hit the triangle once at the end of the song."
+  },
+  {
+    "word": "zebra",
+    "phonetic": "/ˈzibrə/",
+    "meaning": "얼룩말",
+    "example": "Each zebra has a unique pattern of black and white stripes."
+  },
+  {
+    "word": "piggy",
+    "phonetic": "/ˈpɪɡi/",
+    "meaning": "돼지, 돼지야",
+    "example": "Look at that piggy rolling in the mud!"
+  },
+  {
+    "word": "cheeseburger",
+    "phonetic": "/ˈtʃiːzbɜːrgər/",
+    "meaning": "치즈버거",
+    "example": "I ordered a cheeseburger with extra pickles and fries."
+  },
+  {
+    "word": "hotdog",
+    "phonetic": "/ˈhɑt ˌdɔɡ/",
+    "meaning": "핫도그",
+    "example": "Kids love to eat a hotdog at summer picnics."
+  },
+  {
+    "word": "kilogram",
+    "phonetic": "/ˈkɪləˌɡræm/",
+    "meaning": "킬로그램",
+    "example": "One kilogram of apples costs five dollars at the local market."
+  },
+  {
+    "word": "snowman",
+    "phonetic": "/ˈsnoʊˌmæn/",
+    "meaning": "눈사람",
+    "example": "The following morning, the snowman was completely melted."
+  }
+]

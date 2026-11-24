@@ -1,0 +1,602 @@
+[
+ {
+  "word": "agenda",
+  "phonetic": "/əˈdʒen.də/",
+  "meaning": "안건, 의제",
+  "example": "The agenda for the meeting was sent by email."
+ },
+ {
+  "word": "applicant",
+  "phonetic": "/ˈæp.lɪ.kənt/",
+  "meaning": "지원자",
+  "example": "Each applicant must submit a resume."
+ },
+ {
+  "word": "application",
+  "phonetic": "/ˌæp.lɪˈkeɪ.ʃən/",
+  "meaning": "지원서, 신청",
+  "example": "Please complete the application form."
+ },
+ {
+  "word": "appointment",
+  "phonetic": "/əˈpɔɪnt.mənt/",
+  "meaning": "약속, 임명",
+  "example": "I have an appointment with the manager at three."
+ },
+ {
+  "word": "approve",
+  "phonetic": "/əˈpruːv/",
+  "meaning": "승인하다",
+  "example": "The board approved the budget."
+ },
+ {
+  "word": "arrange",
+  "phonetic": "/əˈreɪndʒ/",
+  "meaning": "준비하다, 정리하다",
+  "example": "I will arrange a meeting for next week."
+ },
+ {
+  "word": "assembly",
+  "phonetic": "/əˈsem.bli/",
+  "meaning": "조립, 회의",
+  "example": "The assembly line runs all night."
+ },
+ {
+  "word": "assist",
+  "phonetic": "/əˈsɪst/",
+  "meaning": "돕다",
+  "example": "A clerk will assist you with your order."
+ },
+ {
+  "word": "attachment",
+  "phonetic": "/əˈtætʃ.mənt/",
+  "meaning": "첨부 파일",
+  "example": "Please open the attachment for details."
+ },
+ {
+  "word": "audit",
+  "phonetic": "/ˈɔː.dɪt/",
+  "meaning": "회계 감사",
+  "example": "The company passed the annual audit."
+ },
+ {
+  "word": "authorize",
+  "phonetic": "/ˈɔː.θə.raɪz/",
+  "meaning": "승인하다, 권한을 주다",
+  "example": "Only managers can authorize a refund."
+ },
+ {
+  "word": "benefit",
+  "phonetic": "/ˈben.ɪ.fɪt/",
+  "meaning": "혜택, 이익",
+  "example": "Employees receive health benefits."
+ },
+ {
+  "word": "billing",
+  "phonetic": "/ˈbɪl.ɪŋ/",
+  "meaning": "청구, 결제",
+  "example": "The billing address must match your card."
+ },
+ {
+  "word": "branch",
+  "phonetic": "/bræntʃ/",
+  "meaning": "지점, 지사",
+  "example": "The bank opened a new branch downtown."
+ },
+ {
+  "word": "brochure",
+  "phonetic": "/broʊˈʃʊr/",
+  "meaning": "안내 책자",
+  "example": "The brochure shows our new products."
+ },
+ {
+  "word": "budget",
+  "phonetic": "/ˈbʌdʒ.ɪt/",
+  "meaning": "예산",
+  "example": "We must stay within the budget."
+ },
+ {
+  "word": "candidate",
+  "phonetic": "/ˈkæn.dɪ.dət/",
+  "meaning": "후보자, 지원자",
+  "example": "The candidate has five years of experience."
+ },
+ {
+  "word": "cargo",
+  "phonetic": "/ˈkɑːr.ɡoʊ/",
+  "meaning": "화물",
+  "example": "The cargo ship arrived this morning."
+ },
+ {
+  "word": "certificate",
+  "phonetic": "/sərˈtɪf.ɪ.kət/",
+  "meaning": "증명서",
+  "example": "You need a certificate to enter the building."
+ },
+ {
+  "word": "client",
+  "phonetic": "/ˈklaɪ.ənt/",
+  "meaning": "고객, 의뢰인",
+  "example": "The client approved the design."
+ },
+ {
+  "word": "colleague",
+  "phonetic": "/ˈkɑː.liːɡ/",
+  "meaning": "동료",
+  "example": "My colleague helped me finish the report."
+ },
+ {
+  "word": "committee",
+  "phonetic": "/kəˈmɪt.i/",
+  "meaning": "위원회",
+  "example": "The committee meets every Monday."
+ },
+ {
+  "word": "commute",
+  "phonetic": "/kəˈmjuːt/",
+  "meaning": "통근하다",
+  "example": "I commute by subway every day."
+ },
+ {
+  "word": "competitor",
+  "phonetic": "/kəmˈpet.ɪ.tər/",
+  "meaning": "경쟁자, 경쟁사",
+  "example": "Our competitor lowered its prices."
+ },
+ {
+  "word": "complain",
+  "phonetic": "/kəmˈpleɪn/",
+  "meaning": "불평하다, 항의하다",
+  "example": "Several customers complained about the delay."
+ },
+ {
+  "word": "conference",
+  "phonetic": "/ˈkɑːn.fər.əns/",
+  "meaning": "회의, 학회",
+  "example": "The conference will be held in Busan."
+ },
+ {
+  "word": "confirm",
+  "phonetic": "/kənˈfɜːrm/",
+  "meaning": "확인하다",
+  "example": "Please confirm your reservation by Friday."
+ },
+ {
+  "word": "consult",
+  "phonetic": "/kənˈsʌlt/",
+  "meaning": "상담하다, 참고하다",
+  "example": "Consult the manual before using the machine."
+ },
+ {
+  "word": "consumer",
+  "phonetic": "/kənˈsuː.mər/",
+  "meaning": "소비자",
+  "example": "Consumers are buying more online."
+ },
+ {
+  "word": "contract",
+  "phonetic": "/ˈkɑːn.trækt/",
+  "meaning": "계약, 계약서",
+  "example": "Both sides signed the contract."
+ },
+ {
+  "word": "convenience",
+  "phonetic": "/kənˈviːn.jəns/",
+  "meaning": "편리함",
+  "example": "Online banking offers great convenience."
+ },
+ {
+  "word": "corporation",
+  "phonetic": "/ˌkɔːr.pəˈreɪ.ʃən/",
+  "meaning": "기업, 법인",
+  "example": "She works for a large corporation."
+ },
+ {
+  "word": "courier",
+  "phonetic": "/ˈkɜːr.i.ər/",
+  "meaning": "택배 기사, 특송",
+  "example": "A courier delivered the package at noon."
+ },
+ {
+  "word": "deadline",
+  "phonetic": "/ˈded.laɪn/",
+  "meaning": "마감 기한",
+  "example": "The deadline for the report is Friday."
+ },
+ {
+  "word": "deduct",
+  "phonetic": "/dɪˈdʌkt/",
+  "meaning": "공제하다",
+  "example": "The fee is deducted from your salary."
+ },
+ {
+  "word": "deliver",
+  "phonetic": "/dɪˈlɪv.ər/",
+  "meaning": "배달하다",
+  "example": "We deliver orders within two days."
+ },
+ {
+  "word": "department",
+  "phonetic": "/dɪˈpɑːrt.mənt/",
+  "meaning": "부서",
+  "example": "He transferred to the sales department."
+ },
+ {
+  "word": "deposit",
+  "phonetic": "/dɪˈpɑː.zɪt/",
+  "meaning": "보증금, 예금하다",
+  "example": "You must pay a deposit to reserve the room."
+ },
+ {
+  "word": "discount",
+  "phonetic": "/ˈdɪs.kaʊnt/",
+  "meaning": "할인",
+  "example": "Members get a ten percent discount."
+ },
+ {
+  "word": "distribute",
+  "phonetic": "/dɪˈstrɪb.juːt/",
+  "meaning": "배포하다, 유통하다",
+  "example": "The team distributed flyers downtown."
+ },
+ {
+  "word": "division",
+  "phonetic": "/dɪˈvɪʒ.ən/",
+  "meaning": "부서, 분할",
+  "example": "She manages the marketing division."
+ },
+ {
+  "word": "document",
+  "phonetic": "/ˈdɑː.kjə.mənt/",
+  "meaning": "서류, 문서",
+  "example": "Keep a copy of every document."
+ },
+ {
+  "word": "efficient",
+  "phonetic": "/ɪˈfɪʃ.ənt/",
+  "meaning": "효율적인",
+  "example": "The new system is more efficient."
+ },
+ {
+  "word": "employee",
+  "phonetic": "/ɪmˈplɔɪ.iː/",
+  "meaning": "직원",
+  "example": "Every employee must wear a badge."
+ },
+ {
+  "word": "employer",
+  "phonetic": "/ɪmˈplɔɪ.ər/",
+  "meaning": "고용주",
+  "example": "The employer pays for the training."
+ },
+ {
+  "word": "enclose",
+  "phonetic": "/ɪnˈkloʊz/",
+  "meaning": "동봉하다",
+  "example": "Please enclose a photo with your application."
+ },
+ {
+  "word": "equipment",
+  "phonetic": "/ɪˈkwɪp.mənt/",
+  "meaning": "장비",
+  "example": "The office bought new equipment."
+ },
+ {
+  "word": "estimate",
+  "phonetic": "/ˈes.tə.meɪt/",
+  "meaning": "견적, 추정하다",
+  "example": "We need an estimate for the repair."
+ },
+ {
+  "word": "exceed",
+  "phonetic": "/ɪkˈsiːd/",
+  "meaning": "초과하다",
+  "example": "Do not exceed the speed limit."
+ },
+ {
+  "word": "exhibit",
+  "phonetic": "/ɪɡˈzɪb.ɪt/",
+  "meaning": "전시하다, 전시품",
+  "example": "The company will exhibit at the trade show."
+ },
+ {
+  "word": "expense",
+  "phonetic": "/ɪkˈspens/",
+  "meaning": "비용, 경비",
+  "example": "Travel expenses are paid monthly."
+ },
+ {
+  "word": "expire",
+  "phonetic": "/ɪkˈspaɪər/",
+  "meaning": "만료되다",
+  "example": "Your membership expires in March."
+ },
+ {
+  "word": "facility",
+  "phonetic": "/fəˈsɪl.ə.ti/",
+  "meaning": "시설",
+  "example": "The facility includes a gym and a cafe."
+ },
+ {
+  "word": "feedback",
+  "phonetic": "/ˈfiːd.bæk/",
+  "meaning": "의견, 피드백",
+  "example": "We welcome feedback from customers."
+ },
+ {
+  "word": "finance",
+  "phonetic": "/ˈfaɪ.næns/",
+  "meaning": "재무, 자금",
+  "example": "She works in the finance department."
+ },
+ {
+  "word": "forecast",
+  "phonetic": "/ˈfɔːr.kæst/",
+  "meaning": "예측하다, 예보",
+  "example": "Sales are forecast to grow this year."
+ },
+ {
+  "word": "freight",
+  "phonetic": "/freɪt/",
+  "meaning": "화물 운송",
+  "example": "Freight costs rose last quarter."
+ },
+ {
+  "word": "fulfill",
+  "phonetic": "/fʊlˈfɪl/",
+  "meaning": "이행하다, 충족시키다",
+  "example": "We fulfill all orders within 24 hours."
+ },
+ {
+  "word": "headquarters",
+  "phonetic": "/ˈhed.kwɔːr.tərz/",
+  "meaning": "본사",
+  "example": "The headquarters is in Seoul."
+ },
+ {
+  "word": "hire",
+  "phonetic": "/haɪər/",
+  "meaning": "고용하다",
+  "example": "We plan to hire three engineers."
+ },
+ {
+  "word": "improvement",
+  "phonetic": "/ɪmˈpruːv.mənt/",
+  "meaning": "개선",
+  "example": "The survey showed a clear improvement."
+ },
+ {
+  "word": "income",
+  "phonetic": "/ˈɪn.kʌm/",
+  "meaning": "소득",
+  "example": "Her income increased this year."
+ },
+ {
+  "word": "industry",
+  "phonetic": "/ˈɪn.də.stri/",
+  "meaning": "산업",
+  "example": "The tourism industry is growing."
+ },
+ {
+  "word": "inform",
+  "phonetic": "/ɪnˈfɔːrm/",
+  "meaning": "알리다",
+  "example": "Please inform us of any changes."
+ },
+ {
+  "word": "inspection",
+  "phonetic": "/ɪnˈspek.ʃən/",
+  "meaning": "점검, 검사",
+  "example": "The vehicle passed the safety inspection."
+ },
+ {
+  "word": "install",
+  "phonetic": "/ɪnˈstɔːl/",
+  "meaning": "설치하다",
+  "example": "We will install the software tomorrow."
+ },
+ {
+  "word": "insurance",
+  "phonetic": "/ɪnˈʃʊr.əns/",
+  "meaning": "보험",
+  "example": "The company offers travel insurance."
+ },
+ {
+  "word": "inventory",
+  "phonetic": "/ˈɪn.vən.tɔːr.i/",
+  "meaning": "재고",
+  "example": "We check the inventory every week."
+ },
+ {
+  "word": "invest",
+  "phonetic": "/ɪnˈvest/",
+  "meaning": "투자하다",
+  "example": "They invested in new machinery."
+ },
+ {
+  "word": "invoice",
+  "phonetic": "/ˈɪn.vɔɪs/",
+  "meaning": "청구서, 송장",
+  "example": "The invoice is due in 30 days."
+ },
+ {
+  "word": "itinerary",
+  "phonetic": "/aɪˈtɪn.ər.er.i/",
+  "meaning": "여행 일정",
+  "example": "Your itinerary is attached to this email."
+ },
+ {
+  "word": "launch",
+  "phonetic": "/lɔːntʃ/",
+  "meaning": "출시하다, 시작하다",
+  "example": "We will launch the product in May."
+ },
+ {
+  "word": "lease",
+  "phonetic": "/liːs/",
+  "meaning": "임대, 임대 계약",
+  "example": "The office lease runs for three years."
+ },
+ {
+  "word": "maintain",
+  "phonetic": "/meɪnˈteɪn/",
+  "meaning": "유지하다, 관리하다",
+  "example": "We maintain the machines every month."
+ },
+ {
+  "word": "management",
+  "phonetic": "/ˈmæn.ɪdʒ.mənt/",
+  "meaning": "경영진, 관리",
+  "example": "Management approved the new plan."
+ },
+ {
+  "word": "manufacture",
+  "phonetic": "/ˌmæn.jəˈfæk.tʃər/",
+  "meaning": "제조하다",
+  "example": "The factory manufactures car parts."
+ },
+ {
+  "word": "margin",
+  "phonetic": "/ˈmɑːr.dʒɪn/",
+  "meaning": "이윤, 여백",
+  "example": "The product has a high profit margin."
+ },
+ {
+  "word": "marketing",
+  "phonetic": "/ˈmɑːr.kɪ.tɪŋ/",
+  "meaning": "마케팅",
+  "example": "The marketing team created a new campaign."
+ },
+ {
+  "word": "merger",
+  "phonetic": "/ˈmɜːr.dʒər/",
+  "meaning": "합병",
+  "example": "The merger was announced on Monday."
+ },
+ {
+  "word": "merchandise",
+  "phonetic": "/ˈmɜːr.tʃən.daɪz/",
+  "meaning": "상품",
+  "example": "The store sells sports merchandise."
+ },
+ {
+  "word": "negotiate",
+  "phonetic": "/nɪˈɡoʊ.ʃi.eɪt/",
+  "meaning": "협상하다",
+  "example": "We negotiated a lower price."
+ },
+ {
+  "word": "notify",
+  "phonetic": "/ˈnoʊ.tɪ.faɪ/",
+  "meaning": "통지하다",
+  "example": "Please notify the office of your absence."
+ },
+ {
+  "word": "operate",
+  "phonetic": "/ˈɑː.pə.reɪt/",
+  "meaning": "운영하다, 작동하다",
+  "example": "The store operates from nine to six."
+ },
+ {
+  "word": "overtime",
+  "phonetic": "/ˈoʊ.vər.taɪm/",
+  "meaning": "초과 근무",
+  "example": "She worked overtime to finish the project."
+ },
+ {
+  "word": "package",
+  "phonetic": "/ˈpæk.ɪdʒ/",
+  "meaning": "소포, 포장",
+  "example": "The package arrived this morning."
+ },
+ {
+  "word": "participate",
+  "phonetic": "/pɑːrˈtɪs.ə.peɪt/",
+  "meaning": "참여하다",
+  "example": "All staff are invited to participate."
+ },
+ {
+  "word": "partnership",
+  "phonetic": "/ˈpɑːrt.nər.ʃɪp/",
+  "meaning": "제휴, 동업",
+  "example": "The two firms formed a partnership."
+ },
+ {
+  "word": "payroll",
+  "phonetic": "/ˈpeɪ.roʊl/",
+  "meaning": "급여 명세, 급여",
+  "example": "Payroll is processed on the 25th."
+ },
+ {
+  "word": "perform",
+  "phonetic": "/pərˈfɔːrm/",
+  "meaning": "수행하다, 공연하다",
+  "example": "The team performed well this quarter."
+ },
+ {
+  "word": "personnel",
+  "phonetic": "/ˌpɜːr.səˈnel/",
+  "meaning": "인사, 직원",
+  "example": "Contact personnel for the application form."
+ },
+ {
+  "word": "policy",
+  "phonetic": "/ˈpɑː.lə.si/",
+  "meaning": "정책, 약관",
+  "example": "The refund policy is on our website."
+ },
+ {
+  "word": "postpone",
+  "phonetic": "/poʊstˈpoʊn/",
+  "meaning": "연기하다",
+  "example": "The meeting was postponed until Friday."
+ },
+ {
+  "word": "presentation",
+  "phonetic": "/ˌprez.ənˈteɪ.ʃən/",
+  "meaning": "발표",
+  "example": "He gave a short presentation on sales."
+ },
+ {
+  "word": "procedure",
+  "phonetic": "/prəˈsiː.dʒər/",
+  "meaning": "절차",
+  "example": "Follow the safety procedure carefully."
+ },
+ {
+  "word": "profit",
+  "phonetic": "/ˈprɑː.fɪt/",
+  "meaning": "이익",
+  "example": "The company reported a small profit."
+ },
+ {
+  "word": "promote",
+  "phonetic": "/prəˈmoʊt/",
+  "meaning": "승진시키다, 홍보하다",
+  "example": "They promoted her to team leader."
+ },
+ {
+  "word": "proposal",
+  "phonetic": "/prəˈpoʊ.zəl/",
+  "meaning": "제안서, 제안",
+  "example": "The client accepted our proposal."
+ },
+ {
+  "word": "purchase",
+  "phonetic": "/ˈpɜːr.tʃəs/",
+  "meaning": "구매하다, 구매",
+  "example": "You can purchase tickets online."
+ },
+ {
+  "word": "qualification",
+  "phonetic": "/ˌkwɑː.lə.fɪˈkeɪ.ʃən/",
+  "meaning": "자격",
+  "example": "The job requires a teaching qualification."
+ },
+ {
+  "word": "quotation",
+  "phonetic": "/kwoʊˈteɪ.ʃən/",
+  "meaning": "견적서, 인용",
+  "example": "Please send a quotation for the parts."
+ }
+]
